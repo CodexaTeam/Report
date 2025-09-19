@@ -3,27 +3,25 @@
 
 **Universidad Peruana de Ciencias Aplicadas** <br>
 **Ingeniería de Software** <br>
-**Ciclo 2024-2** <br>
+**Ciclo 2025-2** <br>
 
-<h4>Desarrollo de Soluciones IoT</h4>
+<h4>Desarrollo de Aplicaciones Open Source</h4>
 
-**Sección:** WS71
-**Profesor:** Angel Augusto Velasquez Nuñez
+**Sección:** 7380
+**Profesor:** Mori Paiva, Hugo Allan
 
 <h3>INFORME DEL TRABAJO FINAL</h3>
 
-**Startup:** SocialTech
+**Startup:** 
 
-**Producto:** MIAM (Monitoreo Inteligente para Adultos Mayores)
+**Producto:** 
 
 **Integrantes:**
 
-Achamizo Huamani, Jean Carlos <br>
-Aliaga Trevejo, Lucía Guadalupe <br>
-Raymundo Guevara, Rodrigo Alejandro <br>
-Sagastegui Rodriguez, Luis Jesús <br>
-Siancas Reategui, Luis Alberto <br>
-Trujillo Lopez, Luis Alberto <br>
+Sagastegui Rodriguez, Luis Jesus <br>
+ <br>
+ <br>
+ <br>
 
 **Setiembre, 2024**
 
