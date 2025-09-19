@@ -10,18 +10,19 @@
 **Sección:** 7380
 **Profesor:** Mori Paiva, Hugo Allan
 
-<h3>INFORME DEL TRABAJO FINAL</h3>
+<h3>INFORME DEL TB1</h3>
 
-**Startup:** 
+**Startup:** InnovaSoft
 
-**Producto:** 
+**Producto:** RentiCar
 
 **Integrantes:**
 
+Huanca Zevallos, Cristhian Joel <br>
+Landa Ortiz, Sergio Javier <br>
 Sagastegui Rodriguez, Luis Jesus <br>
- <br>
- <br>
- <br>
+Solis Campos, Estefano Sebastian <br>
+ 
 
 **Setiembre, 2024**
 
