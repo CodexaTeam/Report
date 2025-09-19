@@ -1,25 +1,35 @@
-<div align = "center">
-  <img style="height: 150px" src=/assets/UPC_logo_transparente.png alt="">
-  <h1>Universidad Peruana de Ciencias Aplicadas</h1>
-  <h2>Carrera: de Ingeniería de Software</h2>
-  <h2>Ciclo: 2025-02</h2>
-  <h2>1ASI0729 - Desarrollo de Aplicaciones Open Source </h2>
-  <h2>NRC: 7380</h2>
-  <br>
-  <h2>Profesor: Hugo Allan Mori Paiva </h2>
-  <h2>Informe de Trabajo Final</h2>
-  <br>
-  <h2 >Startup: InnovaSoft </h2>
-  <h2 >Producto: Renticar</h2>
-  <br>
-  <h2 >Integrantes:</h2>
-  <ul style="list-style: none; padding: 0;">
-      <li><h3>Huanca Zevallos, Cristhian Joel - u20201b914</h3></li>
-  </ul>
-  <br>
-  <h4>Septiembre del 2025</h4>
-<br>
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="logo"  width="20%"/>
+
+**Universidad Peruana de Ciencias Aplicadas** <br>
+**Ingeniería de Software** <br>
+**Ciclo 2024-2** <br>
+
+<h4>Desarrollo de Soluciones IoT</h4>
+
+**Sección:** WS71
+**Profesor:** Angel Augusto Velasquez Nuñez
+
+<h3>INFORME DEL TRABAJO FINAL</h3>
+
+**Startup:** SocialTech
+
+**Producto:** MIAM (Monitoreo Inteligente para Adultos Mayores)
+
+**Integrantes:**
+
+Achamizo Huamani, Jean Carlos <br>
+Aliaga Trevejo, Lucía Guadalupe <br>
+Raymundo Guevara, Rodrigo Alejandro <br>
+Sagastegui Rodriguez, Luis Jesús <br>
+Siancas Reategui, Luis Alberto <br>
+Trujillo Lopez, Luis Alberto <br>
+
+**Setiembre, 2024**
+
 </div>
+
+---
 
 ## Registro de Versiones del Informe
 
