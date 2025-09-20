@@ -384,3 +384,13 @@ Dueños de autos que no usan su vehículo con frecuencia y desean generar ingres
 Personas que necesitan un vehículo de manera temporal que tengan edad entre 25 a 45 años con residencia en Lima Metropolitana y estos no tendrían un auto propio o profieran no usarlo todo el tiempo, así buscando una alternativa más económica y flexible frente a taxis o apps de transporte.
 
 ---
+
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+
+| Nombre del Competidor | Descripción |
+| :-------------------: | :---------- |
+| Peru Rent a Car <img src="./assets/PeruRentCar.jpg" alt="PeruRentCar" width="800"> https://www.perurentacar.com/ | Life Alert es una de las marcas más reconocidas en sistemas de alerta médica, famosa por su eslogan “¡He caído y no puedo levantarme!”. Ofrece sistemas de emergencia diseñados para ayudar a personas mayores a solicitar asistencia rápidamente. Su principal dispositivo es un botón de emergencia que puede usarse en el hogar o fuera de él, enviando alertas a un centro de monitoreo disponible las 24 horas del día. |
+| Clase A Rent a Car <img src="./assets/ClaseARentCar.png" alt="ClaseARentCar" width="800"> https://www.alquilerautoslima.net/  | MobileHelp es un proveedor líder de sistemas de alerta médica que ofrece dispositivos portátiles y basados en el hogar para personas mayores. Sus dispositivos están diseñados para alertar a los servicios de emergencia en caso de una caída u otro incidente. Además de las soluciones de emergencia en el hogar, MobileHelp destaca por su cobertura fuera de casa gracias a su integración con redes móviles, lo que ofrece a los usuarios mayor independencia y movilidad. |
+| Rento <img src="./assets/Rento.png" alt="Rento" width="800"> https://rento.pe/  | CarePredict es una empresa tecnológica que se enfoca en el monitoreo preventivo para adultos mayores. Utiliza dispositivos portátiles equipados con sensores para rastrear patrones de comportamiento y signos vitales. A través de la inteligencia artificial, CarePredict predice posibles problemas de salud antes de que ocurran, como caídas o infecciones, y permite la intervención proactiva de cuidadores y familiares. |
