@@ -162,3 +162,46 @@ del ABET – EAC - Student Outcome 3.
   </tr>
 
 </table>
+
+---
+
+# Capítulo I: Introducción
+
+## 1.1. Startup Profile
+
+### 1.1.1. Descripción de la Startup
+
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+
+<table>
+    <tr>
+        <td>Perfil</td>
+        <td>Foto</td>
+    </tr>
+    <tr>
+        <td><b>Nombre:</b> Huanca Zevallos, Cristhian Joel <br>
+            <b>Carrera:</b> Ingenieria de Software <br>
+        <b>Descripcion:</b> Me considero una persona proactiva, organizada y responsable al momento de desarrollar un nuevo proyecto en mi vida. En un grupo de trabajo siempre trato de respetar las opiniones de los demás, trato de entender los demás puntos de vista y animo a estar en unión frente a un problema.  
+        <td><img src="./assets/ChristianHuanca.jpg" alt="Christian Huanca" width="600"></td>
+    </tr>
+    <tr>
+        <td><b>Nombre:</b> Landa Ortiz, Sergio Javier <br>
+            <b>Carrera:</b> Ingenieria de Software <br>
+        <b>Descripcion:</b>  
+        <td><img src="./assets/SergioLanda.jpg" alt="Sergio Landa"  width="600"></td>
+    </tr>
+    <tr>
+        <td><b>Nombre:</b> Sagastegui Rodriguez, Luis Jesus <br>
+            <b>Carrera:</b> Ingenieria de Software <br>
+        <b>Descripcion:</b> Soy un estudiante de la carrera de ingenieria de Software y me apasiona mucho lo que hago. Siempre estoy interesado en aprender nuevas tecnologias y lenguajes de programacion. Me gusta ver proyectos de las demas personas y poder compartir ideas. Me considero una persona responsable y muy amable que siempre le gusta ayudar a las demas personas. Siempre trato de dar lo mejor de mi para poder destacar. 
+        <td><img src="./assets/JesusSagastegui.jpg" alt="Jesus Sagastegui"  width="600"></td>
+    </tr>
+    <tr>
+        <td><b>Nombre:</b> Solis Campos, Estefano Sebastian <br>
+            <b>Carrera:</b> Ingenieria de Software <br>
+        <b>Descripcion:</b> 
+        <td><img src="./assets/EstefanoSolis.jpg" alt="Estefano Solis" width="600"></td>
+    </tr>
+   <table>
