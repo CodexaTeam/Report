@@ -394,3 +394,159 @@ Personas que necesitan un vehículo de manera temporal que tengan edad entre 25 
 | Peru Rent a Car <img src="./assets/PeruRentCar.jpg" alt="PeruRentCar" width="600"> https://www.perurentacar.com/ | Life Alert es una de las marcas más reconocidas en sistemas de alerta médica, famosa por su eslogan “¡He caído y no puedo levantarme!”. Ofrece sistemas de emergencia diseñados para ayudar a personas mayores a solicitar asistencia rápidamente. Su principal dispositivo es un botón de emergencia que puede usarse en el hogar o fuera de él, enviando alertas a un centro de monitoreo disponible las 24 horas del día. |
 | Clase A Rent a Car <img src="./assets/ClaseARentCar.png" alt="ClaseARentCar" width="600"> https://www.alquilerautoslima.net/  | MobileHelp es un proveedor líder de sistemas de alerta médica que ofrece dispositivos portátiles y basados en el hogar para personas mayores. Sus dispositivos están diseñados para alertar a los servicios de emergencia en caso de una caída u otro incidente. Además de las soluciones de emergencia en el hogar, MobileHelp destaca por su cobertura fuera de casa gracias a su integración con redes móviles, lo que ofrece a los usuarios mayor independencia y movilidad. |
 | Rento <img src="./assets/RentoRent.jpg" alt="RentoRent" width="600"> https://rento.pe/  | CarePredict es una empresa tecnológica que se enfoca en el monitoreo preventivo para adultos mayores. Utiliza dispositivos portátiles equipados con sensores para rastrear patrones de comportamiento y signos vitales. A través de la inteligencia artificial, CarePredict predice posibles problemas de salud antes de que ocurran, como caídas o infecciones, y permite la intervención proactiva de cuidadores y familiares. |
+
+
+### 2.1.1. Análisis competitivo
+
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+  </tr>
+  <tr>
+    <td colspan="5">Comparar las características y funcionalidades clave de nuestra solución con las de la competencia para identificar ventajas competitivas y posibles áreas de mejora.</td>
+  </tr>
+  <tr>
+    <td colspan="3">Competidores</td>
+    <td colspan="1" valign="top" style="font-weight: bold;text-align: center">
+        RentiCar 
+    <td colspan="1" valign="top" style="font-weight: bold;text-align: center">
+        Peru Rent a Car 
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;text-align: center" >
+        Clase A Rent a Car 
+      </td>
+    <td colspan="1" valign="top" style="font-weight: bold;text-align: center" >
+        Rento
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">Plataforma web P2P para conectar dueños de autos con clientes de alquiler. Busca ser rápida, segura y fácil de usar, apostando por digitalización total y confianza.
+    </td>
+    <td colspan="1" valign="top">Empresa tradicional con más de 20 años en el mercado peruano. Ofrece autos, camionetas y vans con seguro, asistencia y soporte para turistas y empresas.
+    </td>
+    <td colspan="1" valign="top">Empresa local de alquiler con sede en Lima, enfocada en brindar vehículos modernos, en buen estado y con contratos flexibles. Reconocida por su trato personalizado.
+    </td>
+    <td colspan="1" valign="top">Primera app P2P de alquiler de autos particulares en Perú. Incluye seguro RIMAC, GPS, monitoreo 24/7 y verificación de usuarios. Opera solo en Lima pero con visión de crecer a nivel nacional.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva</td>
+    <td colspan="1" valign="top">Modelo 100% colaborativo y escalable, con costos más bajos y posibilidad de crecer en número de autos sin necesidad de flota propia.
+    </td>
+    <td colspan="1" valign="top">Reputación consolidada, flota amplia y experiencia. Fiabilidad percibida por clientes corporativos y turistas.
+    </td>
+    <td colspan="1" valign="top">Atención cercana y personalizada. Ideal para clientes que priorizan confianza y flexibilidad de trato.
+    </td>
+    <td colspan="1" valign="top">Innovación tecnológica y respaldo asegurador fuerte. Modelo digital pionero en Perú.
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top"> Jóvenes profesionales, turistas digitales, empresas pequeñas que buscan movilidad flexible y propietarios de autos que quieren generar ingresos extra.
+    </td>
+    <td colspan="1" valign="top">Turistas extranjeros y nacionales, empresas que requieren autos para personal o ejecutivos, familias que buscan viajes seguros.
+    </td>
+    <td colspan="1" valign="top">Residentes de Lima y clientes que buscan un servicio confiable y directo con atención humana.
+    </td>
+    <td colspan="1" valign="top">Dueños de autos que buscan monetizar su vehículo, arrendatarios jóvenes urbanos, millennials y usuarios tecnológicos.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">Campañas digitales (redes, SEO/SEM), promociones de lanzamiento, alianzas con aseguradoras y fintechs, programas de referidos.
+    </td>
+    <td colspan="1" valign="top">Presencia en buscadores, alianzas con agencias de viajes, ferias de turismo y marketing tradicional.
+    </td>
+    <td colspan="1" valign="top">Publicidad local, confianza por reputación y marketing boca a boca.
+    </td>
+    <td colspan="1" valign="top">Estrategia digital intensiva en redes sociales, marketing de confianza basado en seguridad y respaldo legal.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">Alquiler P2P, validación digital de usuarios, registro de autos particulares, seguros, sistema de alertas y soporte técnico.
+    </td>
+    <td colspan="1" valign="top">Alquiler de autos, camionetas, vans y pickups. Incluye seguros, GPS opcional, servicios corporativos y entrega en aeropuertos.
+    </td>
+    <td colspan="1" valign="top">Alquiler de autos modernos, seguros incluidos, contratos adaptables según el cliente, soporte continuo.
+    </td>
+    <td colspan="1" valign="top">Alquiler peer-to-peer, seguro todo riesgo, GPS obligatorio, verificación de identidad y central de monitoreo 24/7.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Precios y Costos</td>
+    <td colspan="1" valign="top">Precios competitivos, definidos por los propietarios pero regulados por la plataforma. Comisiones más bajas que empresas tradicionales.
+    </td>
+    <td colspan="1" valign="top">Tarifas medias-altas. Reflejan el costo de mantener una flota propia, seguros completos y servicios adicionales.
+    </td>
+    <td colspan="1" valign="top">Tarifas medias. Ajustadas a la atención personalizada y al buen estado de la flota.
+    </td>
+    <td colspan="1" valign="top">Tarifas dinámicas, generalmente más bajas que rent a car tradicionales gracias al modelo P2P.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución</td>
+    <td colspan="1" valign="top">Pagina Web. Alianzas con aseguradoras y canales digitales.
+    </td>
+    <td colspan="1" valign="top">Oficinas físicas en Lima + página web y contacto telefónico.
+    </td>
+    <td colspan="1" valign="top">Oficina física, reservas por teléfono y página web.
+    </td>
+    <td colspan="1" valign="top">Aplicación móvil y web con reservas 100% digitales.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+    
+  </tr>
+  <tr>
+    <td colspan="2">Fortalezas</td>
+    <td colspan="1" valign="top">Modelo escalable sin necesidad de flota propia, digitalización completa, costos más bajos, foco en experiencia de usuario.
+    </td>
+    <td colspan="1" valign="top">Reputación, infraestructura establecida, atención corporativa, variedad de flota.
+    </td>
+    <td colspan="1" valign="top">Atención personalizada, trato humano, autos modernos y cuidados.
+    </td>
+    <td colspan="1" valign="top">Innovación tecnológica, confianza gracias a seguro RIMAC y GPS, pioneros en P2P.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Debilidades</td>
+    <td colspan="1" valign="top">Startup nueva sin reputación consolidada, confianza inicial a construir.
+    </td>
+    <td colspan="1" valign="top">Modelo rígido y menos flexible, procesos más burocráticos.
+    </td>
+    <td colspan="1" valign="top">Escala limitada y menos variedad de flota frente a grandes competidores.
+    </td>
+    <td colspan="1" valign="top">Flota aún limitada, dependencia del crecimiento de usuarios particulares.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Oportunidades</td>
+    <td colspan="1" valign="top">Crecimiento de la economía colaborativa, demanda de digitalización, aumento de turismo y movilidad urbana.
+    </td>
+    <td colspan="1" valign="top">Aumento del turismo post-pandemia, expansión del mercado corporativo.
+    </td>
+    <td colspan="1" valign="top">Crecimiento de clientes que buscan atención diferenciada.
+    </td>
+    <td colspan="1" valign="top">Expansión nacional, crecimiento de usuarios P2P en Perú.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Amenazas</td>
+    <td colspan="1" valign="top">Competencia consolidada, regulaciones del sector transporte, desconfianza inicial.
+    </td>
+    <td colspan="1" valign="top">Ingreso de apps digitales y startups más ágiles.
+    </td>
+    <td colspan="1" valign="top">Pérdida de clientes frente a plataformas digitales con mayor alcance.
+    </td>
+    <td colspan="1" valign="top">Aparición de nuevos competidores internacionales o nacionales con más capital.
+    </td>
+  </tr>
+</table>
