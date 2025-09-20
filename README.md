@@ -162,3 +162,18 @@ del ABET – EAC - Student Outcome 3.
   </tr>
 
 </table>
+
+
+## 1.3. Segmentos objetivo
+
+<b>Segmento 1 (Arrendador de vehículo):</b> 
+
+Dueños de autos que no usan su vehículo con frecuencia y desean generar ingresos extras, estos serían personas de edad entre 25 a 45 años que residen en Lima Metropolitana.
+
+<b>Segmento 2 (Arrendatario de vehículo):</b> 
+
+Personas que necesitan un vehículo de manera temporal que tengan edad entre 25 a 45 años con residencia en Lima Metropolitana y estos no tendrían un auto propio o profieran no usarlo todo el tiempo, así buscando una alternativa más económica y flexible frente a taxis o apps de transporte.
+
+---
+
+
