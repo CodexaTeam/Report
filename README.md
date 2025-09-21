@@ -702,7 +702,7 @@ Personas que necesitan un vehículo de manera temporal que tengan edad entre 25 
     <td colspan=2>
       <b>Enlace:</b> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014249_upc_edu_pe/EVpN7g-07F5NmL4coeAWvrEBJnPjWIGMADjQxVs7SGJYqA?e=kXb4sB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Link </a>
       <br>
-      <b>Resumen:</b> Katty es una enfermera que se dedica al cuidado de los adultos mayores. En la entrevista se muestra como una persona amable y empática. Ella comenta que sus dispositivos más usados son su celular, su tablet y laptop, los cuales utiliza para comunicarse y gestionar sus horarios de trabajo. Asimismo, sus marcas preferidas son las de sus dispositivos de uso diario: Xiaomi y Apple. No utiliza dispositivos tecnológicos para el cuidado de los adultos mayores, pero ha identificado que en algunos hogares las familias utilizan cámaras para monitorearlos. Las redes sociales que más usa son Whatsapp, Facebook e Instagram y considera que se adapta a las nuevas tecnologías fácilmente. Dentro de su rutina de trabajo realiza funciones como la toma de signos vitales, aseo del adulto mayor, tendido de cama y apoyo con la alimentación. Katty considera que uno de los desafíos en su trabajo es evitar las caídas de los adultos mayores, por lo cual tiene que ayudarlos constantemente a movilizarse. Por otra parte, lo que le causa más satisfacción es el agradecimiento del paciente y su familia. Considera que un sistema de monitoreo debería ayudarle a monitorear los signos vitales (pulso, temperatura, saturación de oxígeno, etc.) y prevenir las caídas. También considera útil el envío de notificaciones cuando alguno de los signos vitales esté alterado y recordatorios del tratamiento (medicación) del paciente.
+      <b>Resumen:</b> Javier Landa, un hombre de 50 años residente en Comas y dedicado a diversos negocios, incluido el alquiler de vehículos, explicó que para proceder con el alquiler solicita como requisito el DNI y la licencia de conducir, o pasaporte en caso de clientes extranjeros. Actualmente ofrece autos y una camioneta, con un tiempo mínimo de alquiler de un día y un máximo de un mes. Para llevar el control de sus vehículos utiliza Excel y un cuaderno de registro manual. Señaló que promociona sus servicios a través de Facebook Marketplace y WhatsApp, a los que accede tanto desde el celular como desde la PC en oficina. Considera que las aplicaciones en internet le facilitan identificar clientes confiables y manifestó disposición a usar una nueva plataforma que le permita consultar reseñas de clientes, contar con un panel de gestión de vehículos y dejar evaluaciones sobre el comportamiento de los arrendatarios para evitar malas experiencias.
     </td>
   </tr>
 </table>
@@ -764,7 +764,7 @@ Promociona su servicio a través de Instagram y coordina los tratos por WhatsApp
       <b>Duración:</b> 03:04 minutos
     </td>
     <td align=center>
-      <img src="./assets/Ajejandro.png" alt="img"  width="80%"/>
+      <img src="./assets/Alejandro.png" alt="img"  width="80%"/>
     </td>
   </tr>
   <tr>
