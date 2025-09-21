@@ -1243,11 +1243,64 @@ componentes interactivos —como botones— y su relación directa con la experi
   facilita el mantenimiento y la escalabilidad del código.
 
 ## 4.2. Information Architecture
+
+La arquitectura de información define cómo se organiza, etiqueta, busca y navega en la 
+aplicación web. Este apartado busca garantizar que *Renticar* sea intuitiva y accesible 
+para arrendadores y arrendatarios, mejorando la experiencia de usuario y asegurando la 
+eficiencia en los procesos.
+
+
 ### 4.2.1. Organization Systems
+
+El sistema de organización de *Renticar* se basa en una estructura **jerárquica y funcional**, con secciones principales que responden a las necesidades detectadas en los segmentos objetivos.
+- **Arrendador:** Publicaciones, gestión de vehículos, reservas, reseñas.
+- **Arrendatario:** Búsqueda de autos, reservas, reseñas, perfil.
+- **Común:** Dashboard, perfil de usuario, landing page informativa.  
+  Esta organización facilita que cada usuario encuentre de manera rápida las funciones más relevantes según su rol.
+
+---
+
 ### 4.2.2. Labeling Systems
+
+Se utilizarán etiquetas claras y consistentes, priorizando un lenguaje sencillo y directo, evitando tecnicismos. Algunos ejemplos:
+- **“Mis Publicaciones”** → sección donde el arrendador gestiona sus vehículos.
+- **“Reservar Ahora”** → acción directa para el arrendatario.
+- **“Dashboard”** → punto central para acceder a la información principal.  
+  El etiquetado estará alineado con las convenciones de usabilidad y las necesidades de accesibilidad, garantizando comprensión rápida.
+
+---
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+Para mejorar la visibilidad en buscadores, se incorporarán **etiquetas SEO y metadatos optimizados**:
+- **Meta Title:** “Renticar – Plataforma confiable para alquiler de vehículos con IoT en Perú”.
+- **Meta Description:** “Renticar conecta arrendadores y arrendatarios de forma segura, con gestión digital, reseñas verificadas y soporte IoT para mayor transparencia.”
+- **Keywords:** “alquiler de autos Perú, rentar vehículos seguros, plataforma IoT alquiler”.  
+  Estas prácticas permiten posicionar el producto en los primeros resultados de búsqueda y atraer usuarios interesados.
+
+---
+
 ### 4.2.4. Searching Systems
+
+El sistema de búsqueda permitirá a los arrendatarios localizar vehículos de manera eficiente mediante filtros y ordenamientos:
+- **Filtros principales:** Marca, modelo, precio, ubicación.
+- **Filtros secundarios:** Tipo de vehículo (sedán, SUV, hatchback), disponibilidad, kilometraje permitido.
+- **Ordenamientos:** Precio (menor-mayor), valoración de usuarios, cercanía geográfica.  
+  Se prioriza un diseño que reduzca el tiempo de búsqueda y que brinde resultados relevantes de manera inmediata.
+
+---
+
 ### 4.2.5. Navigation Systems
+
+El sistema de navegación seguirá un modelo **híbrido**:
+- **Menú principal superior (Toolbar):** acceso directo a Dashboard, Publicaciones, Navegación, Perfil.
+- **Menú secundario contextual:** disponible dentro de cada sección, con accesos rápidos a acciones específicas (ej. “Nueva Publicación”, “Cancelar Reserva”).
+- **Breadcrumbs:** para ubicar al usuario dentro de la aplicación.
+- **Navegación responsiva:** optimizada para dispositivos móviles, asegurando accesibilidad en smartphones y tablets.
+
+Este esquema garantiza que los usuarios puedan moverse de manera intuitiva por el sistema, 
+encontrando siempre las funciones más relevantes según su objetivo.
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
