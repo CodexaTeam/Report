@@ -1384,19 +1384,367 @@ de forma gráfica dichas interconexiones.
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+
+Desarrollo del reporte: **Github** <br>
+Planificación y reunion: **Discord** <br>
+Comunicación: **WhatsApp** <br>
+
+### Requirement Management
+Utilizamos UXPressia para poder desarrollar los mapas, los user personas y lean UX canvas
+
+<img src="assets/chapter05/uxpressia.png" width=300 >
+
+### Product UX/UI Design
+Utilizamos Figma para el desarrollo de mock ups tanto de la landing page como de la web app
+
+<img src="assets/chapter05/figma.jpeg" width=300 >
+
+### Software Deployment
+Trabajamos con vercel para el despliegue de la landing page
+
+<img src="assets/chapter05/vercel_logo.webp" width=300 >
+
+
 ### 5.1.2. Source Code Management
+
+| Producto     | URL                                            |
+|--------------|------------------------------------------------|
+| Landing Page | https://github.com/CodexaTeam/LandingPage      |
+| Report       | https://github.com/CodexaTeam/Report           |
+
+Para el desarrollo de todos los productos de Innovasoft hemos empleado GitFlow con las siguientes restricciones:
+- **Main**: Rama principal del proyecto. Contiene la versión estable y lista para producción.
+- **Develop**: Rama de desarrollo. Aquí se integran las nuevas características y correcciones antes de ser fusionadas a la rama principal.
+- **Feature**: Rama para el desarrollo de nuevas características. Se crea a partir de la rama de desarrollo y se fusiona nuevamente en ella una vez se complete el mismo
+- **Fix**: Rama para correcciones de errores. Se crea a partir de la rama de desarrollo y se fusiona nuevamente en ella una vez completada la corrección.
+
+Además, para el registro de progreso y colaboración se emplearán los conventional commits con su respectivo formato:
+- feat: Nueva funcionalidad
+- fix: Corrección de errores
+- docs: Cambios en la documentación
+- style: Cambios de formato o estilo
+- refactor: Cambios en el código que no afectan la funcionalidad
+
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Para el desarrollo de la Landing Page de Renticar se establecieron convenciones de estilo y organización del 
+código que aseguran consistencia, legibilidad y mantenibilidad del proyecto. Estas prácticas fueron aplicadas 
+en todos los archivos del repositorio.
+
+#### HTML
+- **Use Lowercase Element Names**:  
+  En la landing de *Renticar*, todos los elementos HTML están en minúsculas.
+  ~~~html
+  <body>
+    <header>
+      <nav class="nav__header">...</nav>
+    </header>
+  </body>
+  ~~~
+
+- **Use Lowercase Attribute Names**:  
+  Los atributos están en minúsculas como `src`, `alt`, `href`.
+  ~~~html
+  <img src="assets/Logo1.png" alt="logo" class="logo-dark" />
+  ~~~
+
+- **Use Double Quotes for Attribute Values**:  
+  Todos los atributos usan comillas dobles.
+  ~~~html
+  <a href="#about">About</a>
+  ~~~
+
+- **Omit Type Attributes for Style Sheets and Scripts**:  
+  No se incluyen atributos `type` innecesarios en CSS o JS.
+  ~~~html
+  <link rel="stylesheet" href="styles.css" />
+  <script src="main.js"></script>
+  ~~~
+
+---
+
+#### CSS
+- **Use Variables for Reusability**:  
+  Se emplean variables globales en `:root` para definir colores y tipografías.
+  ~~~css
+  :root {
+    --primary-color: #52b6f2;
+    --primary-color-dark: #003f70;
+    --text-dark: #221e36;
+  }
+  ~~~
+
+- **ID and Class Name Style**:  
+  Se sigue una convención cercana a BEM (`bloque__elemento`) para mantener claridad.
+  ~~~css
+  .nav__header { ... }
+  .section__container { ... }
+  ~~~
+
+- **Use Shorthand Properties**:  
+  Se emplean propiedades abreviadas para mayor eficiencia.
+  ~~~css
+  .btn {
+    padding: 0.75rem 1.5rem;
+    font: 1rem "Roboto", sans-serif;
+    border: none;
+  }
+  ~~~
+
+- **Organized Structure with Comments**:  
+  El archivo `styles.css` incluye comentarios para identificar secciones clave.
+  ~~~css
+  /* Header styles */
+  .header__content { ... }
+  ~~~
+
+---
+
+#### JavaScript
+- **Use `const` and `let`**:  
+  Se utilizan `const` para selectores fijos y `let` cuando el valor puede cambiar.
+  ~~~javascript
+  const menuBtn = document.getElementById("menu-btn");
+  const navLinks = document.getElementById("nav-links");
+  ~~~
+
+- **Use Event Listeners for Interactions**:  
+  Las interacciones se implementan con `addEventListener`, evitando código inline.
+  ~~~javascript
+  menuBtn.addEventListener("click", (e) => {
+    navLinks.classList.toggle("open");
+  });
+  ~~~
+
+- **Animations with ScrollReveal**:  
+  Se emplea la librería `ScrollReveal` para dar dinamismo a los elementos.
+  ~~~javascript
+  ScrollReveal().reveal(".header__content h1", {
+    distance: "50px",
+    duration: 1000,
+    delay: 1000,
+  });
+  ~~~
+
+- **Tabs Implementation**:  
+  La sección “Deals” se maneja con tabs dinámicos utilizando dataset.
+  ~~~javascript
+  tabs.addEventListener("click", (e) => {
+    if (item.dataset.id === e.target.dataset.id) {
+      item.classList.add("active");
+    }
+  });
+  ~~~
+
+
+Convenciones observadas en el proyecto:
+
+1. Estructura de archivos:
+
+- index.html: página principal con meta tags optimizados y enlaces a hojas de estilo y librerías externas.
+- styles.css: hoja de estilos centralizada con variables globales (--primary-color, --max-width).
+- main.js: archivo JavaScript para interacción (menús, animaciones, etc.).
+- /assets: carpeta destinada a recursos estáticos (logo, imágenes).
+- README.md: guía básica del proyecto.
+
+2. HTML (index.html):
+
+- Uso correcto de <!DOCTYPE html> y lang="en".
+- Inclusión de meta tags esenciales (charset, viewport).
+- Uso de etiquetas semánticas (header, nav, ul, li).
+- Convención de clases siguiendo un estilo cercano a BEM: nav__header, nav__logo, section__container.
+
+3. CSS (styles.css):
+
+- Definición de variables globales en :root para colores, tipografía y ancho máximo.
+- Reset inicial (* { margin: 0; padding: 0; box-sizing: border-box; }).
+- Estructura organizada por secciones: contenedores, encabezados, botones.
+- Comentarios descriptivos en bloques clave (ej. /* Estilos para header */).
+- Convenciones de clases consistentes (section__header, section__description).
+
+4. JavaScript (main.js):
+
+- Uso de IDs (menu-btn, nav-links) para interacción de elementos de navegación.
+- Separación clara de lógica en funciones.
+- Comentarios ligeros para mejorar la comprensión del código.
+
+5. Control de versiones (Git):
+
+    Organización recomendada de commits con mensajes breves y descriptivos. Ejemplo:
+
+    - feat: agregar sección de testimonios
+
+    - fix: corregir responsive en navbar
+
+    - style: aplicar variables CSS globales
+
+Estas convenciones permiten que el código sea uniforme y entendible por cualquier miembro del equipo, reduciendo la curva de aprendizaje y asegurando que el proyecto sea escalable y mantenible en futuras iteraciones.
+
 ### 5.1.4. Software Deployment Configuration
+
+Para el despliegue de *Renticar* se implementó una configuración basada en **Vercel**, vinculada directamente con el repositorio del proyecto alojado en **GitHub**. Esta estrategia garantiza la integración continua, la disponibilidad pública del sistema y la facilidad de actualización en cada commit.
+
+**Configuración de despliegue aplicada:**
+- **Entorno local de desarrollo:**
+    - El proyecto puede ejecutarse en cualquier navegador moderno (Chrome, Edge, Firefox).
+    - Para revisiones rápidas, basta con abrir el archivo `index.html`.
+    - Para pruebas locales más completas, se recomienda levantar un servidor ligero con:
+      ```bash
+      npx live-server
+      ```
+
+- **Repositorio en GitHub:**
+    - El proyecto se mantiene en un repositorio público/privado en GitHub.
+    - La rama principal (`main`) contiene el código estable del proyecto.
+    - Cada commit en `main` dispara automáticamente un redeploy en Vercel.
+
+- **Despliegue en Vercel:**
+    - Se configuró la integración de GitHub con Vercel para automatizar el deployment.
+    - En cada push al repositorio, Vercel ejecuta el build y genera un enlace actualizado de la Landing Page.
+    - El resultado es una **Landing Page v1 pública y accesible** mediante un dominio generado por Vercel.
+
+- **Estructura de archivos desplegados:**
+    - `index.html`: página principal.
+    - `styles.css`: hoja de estilos centralizada.
+    - `main.js`: archivo de interactividad y animaciones.
+    - `/assets`: carpeta con imágenes y recursos estáticos.
+    - `README.md`: documentación básica del proyecto.
+
+- **Validación del despliegue:**
+    - Se verificó la carga correcta de recursos (CSS, JS, imágenes) en la versión desplegada.
+    - Pruebas de compatibilidad en diferentes dispositivos (PC, tablet, smartphone).
+    - Validación de responsividad en pantallas móviles.
+    - Confirmación de que las animaciones, tabs y menú responsive funcionen en la versión online.
+
+El uso de GitHub + Vercel permitió una configuración de despliegue **sencilla, automatizada y confiable**, asegurando que *Renticar* esté disponible en línea de manera inmediata después de cada actualización en el repositorio. Esto cumple con lo requerido en la TB1 y establece un flujo de trabajo profesional alineado con las prácticas modernas de desarrollo web.
+
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
+
+
 #### 5.2.1.1. Sprint Planning 1
+
+
+| Sprint #                               | Sprint 1                                       |
+|----------------------------------------|------------------------------------------------|
+| **Date**                               | 2025-09-02                                     |
+| **Time**                               | 07:00 PM                                       |
+| **Location**                           | Discord                                        |
+| **Prepared By**                        | Cristhian Huanca                               |
+| **Attendees (to planning meeting)**    | Todos los integrantes                          |
+| **Sprint n - 1 Review Summary**        | -                                              |
+| **Sprint n - 1 Retrospective Summary** | -                                              |
+| **Sprint 1 Goal**                      | Completar el reporte y desplegar landing page. |
+| **Sprint 1 Velocity**                  | 18 story points                                |
+| **Sum of Story Points**                | 18 story points                                |
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+Para la implementación de la **Landing Page v1 de Renticar**, se asignaron los siguientes responsables por aspecto, con el fin de organizar mejor las tareas y asegurar la colaboración del equipo:
+
+| **Aspecto**            | **Líder**        | **Colaboradores**                       | **Responsabilidades**                                                                 |
+|-------------------------|------------------|-----------------------------------------|---------------------------------------------------------------------------------------|
+| Front-End (HTML/CSS/JS) | Jesus Sagastegui | Cristhian Huanca, Sebastian Solis       | Desarrollo de la estructura HTML, estilos CSS y animaciones con JavaScript/ScrollReveal. |
+| Diseño Gráfico & UX     | Cristhian Huanca | Sergio Landa                            | Creación de prototipos visuales, elección de colores, tipografía y diseño responsivo.    |
+| Deployment              | Sergio Landa     | Jesus Sagastegui                        | Configuración del repositorio GitHub, despliegue automático en Vercel, pruebas de acceso.|
+| Documentación           | Sebastian Solis  | Jesus Sagastegui, Cristhian Huanca      | Redacción de informes, guías de estilo, convenciones de código y evidencias de Sprint.   |
+
+
 #### 5.2.1.3. Sprint Backlog 1
+
+Para el **Sprint 1**, se seleccionaron las historias de usuario correspondientes a la **Épica 06: Interacción con la Landing Page**, con el objetivo de implementar y desplegar la **primera versión de la Landing Page v1**.
+
+| **User Story ID** | **Título**                          | **Tareas técnicas (Sprint 1)**                                                                 |
+|-------------------|-------------------------------------|------------------------------------------------------------------------------------------------|
+| US-22             | Acceso a la Landing Page            | - Crear archivo `index.html` con estructura base.<br>- Implementar navbar responsivo.<br>- Integrar logo y branding de Renticar. |
+| US-23             | Ver Información del Producto        | - Añadir sección "Why Choose Us".<br>- Incluir textos descriptivos del servicio Renticar.<br>- Estilizar sección con CSS responsivo. |
+| US-24             | Consultar los modelos disponibles   | - Implementar sección "Popular Cars" con cards de vehículos.<br>- Insertar imágenes en `/assets`.<br>- Dar estilo con grid/flexbox. |
+| US-25             | Leer Testimonios de Clientes y Dueños | - Crear sección "Testimonials".<br>- Añadir tarjetas de reseñas.<br>- Configurar ScrollReveal para animación de testimonios. |
+| US-26             | Traducción de la Landing Page       | - Configurar opción de idioma (EN/ES) en el header.<br>- Preparar archivo JSON básico con textos.<br>- Ajustar función de cambio en JS. |
+| US-27             | Call To Action                     | - Crear sección de formulario "Know More".<br>- Implementar campo de email y botón enviar.<br>- Validar con JavaScript básico. |
+
+---
+
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+Durante el desarrollo de la **Landing Page v1** se implementaron los siguientes elementos:
+- Estructura en `index.html` con secciones: Navbar, Hero, Why Choose Us, Popular Cars, Testimonials y Call To Action.
+- Estilos en `styles.css` utilizando variables CSS para colores y tipografías, con enfoque responsivo.
+- Funcionalidad en `main.js` para el menú responsive, animaciones con ScrollReveal y tabs dinámicos en la sección de “Deals”.
+- Organización del proyecto en carpetas (`/assets`, `index.html`, `styles.css`, `main.js`, `README.md`).
+- Uso de control de versiones con GitHub, con commits que documentan la evolución de la landing.
+
+**Evidencia:**  
+**Desarrollo de Index.html**  
+<img src="assets/chapter05/revelopmentevidence.png" width=600 >
+**Desarrollo de main.js**  
+<img src="assets/chapter05/revelopmentevidence2.png" width=600 >
+**Desarrollo de styles.css**  
+<img src="assets/chapter05/revelopmentevidence3.png" width=600 >
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+Se realizaron pruebas de ejecución de la Landing Page para garantizar su correcto funcionamiento:
+- Navegación entre secciones desde el menú principal (Home, About, Deals, Testimonials).
+- Verificación de animaciones con ScrollReveal en imágenes y textos.
+- Prueba del comportamiento responsive en dispositivos móviles, tablets y desktops.
+- Confirmación de carga correcta de imágenes en la carpeta `/assets`.
+
+**Evidencia:**
+
+**Execucion web**  
+<img src="assets/chapter05/executionevidenceweb.png" width=600 >
+**Execucion mobile**  
+<img src="assets/chapter05/executionevidencemobile.png" width=300 >
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+La Landing Page v1 se documentó con base en las convenciones establecidas en el **5.1.3 Source Code Style Guide & Conventions**:
+- HTML: uso de elementos y atributos en minúsculas, comillas dobles en valores, y estructura semántica.
+- CSS: uso de variables en `:root`, convención BEM para nombres de clases, propiedades abreviadas y comentarios en secciones.
+- JavaScript: uso de `const` y `let`, `addEventListener` para eventos, integración de librería ScrollReveal.
+- Despliegue documentado en **5.1.4 Software Deployment Configuration**, con GitHub y Vercel.
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+El proyecto se desplegó exitosamente utilizando **Vercel** conectado al repositorio en **GitHub**:
+- Configuración automática de deploy en cada commit a la rama `main`.
+- Generación de URL pública para la Landing Page.
+- Validación de que todos los recursos (HTML, CSS, JS, imágenes) carguen correctamente en la versión online.
+- Comprobación de responsividad y navegación en la versión desplegada.
+
+
+**Evidencia de Deployment**  
+<img src="assets/chapter05/deployevidence1.jpg" width=300 >
+<br>
+<img src="assets/chapter05/deployevidence2.jpg" width=500 >
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+El trabajo colaborativo durante este sprint se organizó de la siguiente forma:
+- Uso de GitHub como repositorio central con ramas y commits descriptivos.
+- Coordinación entre el equipo mediante reuniones virtuales semanales y actualización de tareas en un tablero Kanban (Trello).
+- Distribución clara de roles definida en **5.2.1.2 Aspect Leaders and Collaborators**, lo que permitió agilizar avances.
+- Retroalimentación continua para ajustar estilos visuales, mejorar responsividad y organizar la documentación.
+
+Insights del repositorio de report:
+
+<img src="assets/chapter05/reportevidence.png" width=600 >
+
+Insights del repositorio de LandingPage:
+
+<img src="assets/chapter05/landingevidence.png" width=600 >
+
+Insights de TRELLO:
+
+<img src="assets/chapter05/trello.png" width=300 >
+
+Reunion por discord:
+
+<img src="assets/chapter05/evidence.png" width=600 >
 
 # Conclusiones
 
