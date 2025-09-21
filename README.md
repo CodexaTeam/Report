@@ -1621,14 +1621,130 @@ El uso de GitHub + Vercel permitió una configuración de despliegue **sencilla,
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
+
+
 #### 5.2.1.1. Sprint Planning 1
+
+
+| Sprint #                               | Sprint 1                                       |
+|----------------------------------------|------------------------------------------------|
+| **Date**                               | 2025-09-02                                     |
+| **Time**                               | 07:00 PM                                       |
+| **Location**                           | Discord                                        |
+| **Prepared By**                        | Cristhian Huanca                               |
+| **Attendees (to planning meeting)**    | Todos los integrantes                          |
+| **Sprint n - 1 Review Summary**        | -                                              |
+| **Sprint n - 1 Retrospective Summary** | -                                              |
+| **Sprint 1 Goal**                      | Completar el reporte y desplegar landing page. |
+| **Sprint 1 Velocity**                  | 18 story points                                |
+| **Sum of Story Points**                | 18 story points                                |
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+Para la implementación de la **Landing Page v1 de Renticar**, se asignaron los siguientes responsables por aspecto, con el fin de organizar mejor las tareas y asegurar la colaboración del equipo:
+
+| **Aspecto**            | **Líder**        | **Colaboradores**                       | **Responsabilidades**                                                                 |
+|-------------------------|------------------|-----------------------------------------|---------------------------------------------------------------------------------------|
+| Front-End (HTML/CSS/JS) | Jesus Sagastegui | Cristhian Huanca, Sebastian Solis       | Desarrollo de la estructura HTML, estilos CSS y animaciones con JavaScript/ScrollReveal. |
+| Diseño Gráfico & UX     | Cristhian Huanca | Sergio Landa                            | Creación de prototipos visuales, elección de colores, tipografía y diseño responsivo.    |
+| Deployment              | Sergio Landa     | Jesus Sagastegui                        | Configuración del repositorio GitHub, despliegue automático en Vercel, pruebas de acceso.|
+| Documentación           | Sebastian Solis  | Jesus Sagastegui, Cristhian Huanca      | Redacción de informes, guías de estilo, convenciones de código y evidencias de Sprint.   |
+
+
 #### 5.2.1.3. Sprint Backlog 1
+
+Para el **Sprint 1**, se seleccionaron las historias de usuario correspondientes a la **Épica 06: Interacción con la Landing Page**, con el objetivo de implementar y desplegar la **primera versión de la Landing Page v1**.
+
+| **User Story ID** | **Título**                          | **Tareas técnicas (Sprint 1)**                                                                 |
+|-------------------|-------------------------------------|------------------------------------------------------------------------------------------------|
+| US-22             | Acceso a la Landing Page            | - Crear archivo `index.html` con estructura base.<br>- Implementar navbar responsivo.<br>- Integrar logo y branding de Renticar. |
+| US-23             | Ver Información del Producto        | - Añadir sección "Why Choose Us".<br>- Incluir textos descriptivos del servicio Renticar.<br>- Estilizar sección con CSS responsivo. |
+| US-24             | Consultar los modelos disponibles   | - Implementar sección "Popular Cars" con cards de vehículos.<br>- Insertar imágenes en `/assets`.<br>- Dar estilo con grid/flexbox. |
+| US-25             | Leer Testimonios de Clientes y Dueños | - Crear sección "Testimonials".<br>- Añadir tarjetas de reseñas.<br>- Configurar ScrollReveal para animación de testimonios. |
+| US-26             | Traducción de la Landing Page       | - Configurar opción de idioma (EN/ES) en el header.<br>- Preparar archivo JSON básico con textos.<br>- Ajustar función de cambio en JS. |
+| US-27             | Call To Action                     | - Crear sección de formulario "Know More".<br>- Implementar campo de email y botón enviar.<br>- Validar con JavaScript básico. |
+
+---
+
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+Durante el desarrollo de la **Landing Page v1** se implementaron los siguientes elementos:
+- Estructura en `index.html` con secciones: Navbar, Hero, Why Choose Us, Popular Cars, Testimonials y Call To Action.
+- Estilos en `styles.css` utilizando variables CSS para colores y tipografías, con enfoque responsivo.
+- Funcionalidad en `main.js` para el menú responsive, animaciones con ScrollReveal y tabs dinámicos en la sección de “Deals”.
+- Organización del proyecto en carpetas (`/assets`, `index.html`, `styles.css`, `main.js`, `README.md`).
+- Uso de control de versiones con GitHub, con commits que documentan la evolución de la landing.
+
+**Evidencia:**  
+**Desarrollo de Index.html**  
+<img src="assets/chapter05/revelopmentevidence.png" width=600 >
+**Desarrollo de main.js**  
+<img src="assets/chapter05/revelopmentevidence2.png" width=600 >
+**Desarrollo de styles.css**  
+<img src="assets/chapter05/revelopmentevidence3.png" width=600 >
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+Se realizaron pruebas de ejecución de la Landing Page para garantizar su correcto funcionamiento:
+- Navegación entre secciones desde el menú principal (Home, About, Deals, Testimonials).
+- Verificación de animaciones con ScrollReveal en imágenes y textos.
+- Prueba del comportamiento responsive en dispositivos móviles, tablets y desktops.
+- Confirmación de carga correcta de imágenes en la carpeta `/assets`.
+
+**Evidencia:**
+
+**Execucion web**  
+<img src="assets/chapter05/executionevidenceweb.png" width=600 >
+**Execucion mobile**  
+<img src="assets/chapter05/executionevidencemobile.png" width=300 >
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+La Landing Page v1 se documentó con base en las convenciones establecidas en el **5.1.3 Source Code Style Guide & Conventions**:
+- HTML: uso de elementos y atributos en minúsculas, comillas dobles en valores, y estructura semántica.
+- CSS: uso de variables en `:root`, convención BEM para nombres de clases, propiedades abreviadas y comentarios en secciones.
+- JavaScript: uso de `const` y `let`, `addEventListener` para eventos, integración de librería ScrollReveal.
+- Despliegue documentado en **5.1.4 Software Deployment Configuration**, con GitHub y Vercel.
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+El proyecto se desplegó exitosamente utilizando **Vercel** conectado al repositorio en **GitHub**:
+- Configuración automática de deploy en cada commit a la rama `main`.
+- Generación de URL pública para la Landing Page.
+- Validación de que todos los recursos (HTML, CSS, JS, imágenes) carguen correctamente en la versión online.
+- Comprobación de responsividad y navegación en la versión desplegada.
+
+
+**Evidencia de Deployment**  
+<img src="assets/chapter05/deployevidence1.jpg" width=300 >
+<br>
+<img src="assets/chapter05/deployevidence2.jpg" width=500 >
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+El trabajo colaborativo durante este sprint se organizó de la siguiente forma:
+- Uso de GitHub como repositorio central con ramas y commits descriptivos.
+- Coordinación entre el equipo mediante reuniones virtuales semanales y actualización de tareas en un tablero Kanban (Trello).
+- Distribución clara de roles definida en **5.2.1.2 Aspect Leaders and Collaborators**, lo que permitió agilizar avances.
+- Retroalimentación continua para ajustar estilos visuales, mejorar responsividad y organizar la documentación.
+
+Insights del repositorio de report:
+
+<img src="assets/chapter05/reportevidence.png" width=600 >
+
+Insights del repositorio de LandingPage:
+
+<img src="assets/chapter05/landingevidence.png" width=600 >
+
+Insights de TRELLO:
+
+<img src="assets/chapter05/trello.png" width=300 >
+
+Reunion por discord:
+
+<img src="assets/chapter05/evidence.png" width=600 >
 
 # Conclusiones
 
