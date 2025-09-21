@@ -859,11 +859,147 @@ avanzadas, aun en una versión inicial y ligera, constituye un factor clave para
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
+Los User Personas son representaciones ficticias pero fundamentadas en los hallazgos de las entrevistas realizadas a 
+los dos segmentos objetivo del proyecto: arrendadores y arrendatarios. Su función es sintetizar las características, 
+motivaciones, necesidades y frustraciones de los usuarios principales, permitiendo orientar el diseño de la aplicación 
+hacia soluciones que respondan a sus expectativas reales. A continuación, se presentan los perfiles construidos con 
+sus respectivos avatares ilustrativos, que servirán como referencia durante el proceso de desarrollo y validación de 
+la plataforma.
+
+###### Segmento Objetivo 1 (Arrendador de vehículos)
+<img src="assets/chapter02/userpersonasegmento1.png" width=600px>
+
+###### Segmento Objetivo 2 (Arrendatario de vehículos)
+<img src="assets/chapter02/userpersonasegmento2.png" width=600px>
+
 ### 2.3.2. User Task Matrix
+
+| **User Task Matrix**                     | **Arrendador – Frecuencia** | **Arrendador – Importancia** | **Arrendatario – Frecuencia** | **Arrendatario – Importancia** |
+|------------------------------------------|-----------------------------|------------------------------|-------------------------------|--------------------------------|
+| Publicar vehículo en la plataforma       | Siempre                     | Alta                         | Nunca                         | Baja                           |
+| Gestionar reservas activas               | A menudo                    | Alta                         | Siempre                       | Alta                           |
+| Revisar reseñas de usuarios              | Siempre                     | Alta                         | A menudo                      | Alta                           |
+| Acceso a documentos de garantía          | Siempre                     | Alta                         | A veces                       | Media                          |
+| Consultar estado y ubicación IoT del auto| A menudo                    | Alta                         | A veces                       | Media                          |
+| Reservar un vehículo                     | Nunca                       | Baja                         | Siempre                       | Alta                           |
+
+---
+
+###### Análisis de la User Task Matrix
+
+El análisis de la matriz de tareas muestra diferencias claras entre los dos segmentos principales. El **arrendador** 
+concentra sus actividades en la **publicación de vehículos, la gestión de reservas y la revisión de reseñas**, todas 
+ellas consideradas de alta importancia, ya que están directamente relacionadas con la protección de su inversión. 
+Asimismo, para este segmento es fundamental contar con acceso a **documentos de garantía** y con un **módulo IoT 
+básico** que permita visualizar el estado y ubicación del vehículo, lo cual incrementa la confianza y reduce el 
+riesgo de fraudes.
+
+Por su parte, el **arrendatario** enfoca su experiencia en la **reserva de vehículos** y en la posibilidad de 
+**consultar reseñas de arrendadores**, funciones que le otorgan seguridad y transparencia en el proceso. Aunque 
+reconoce la utilidad del acceso a documentos y del indicador IoT, estas tareas no son percibidas como prioritarias 
+frente a la necesidad principal de encontrar y reservar un vehículo de manera confiable.
+
+En conclusión, la matriz evidencia que ambos segmentos comparten la necesidad de un sistema que promueva 
+**transparencia, seguridad y confianza**. El arrendador busca reducir riesgos en la entrega de sus vehículos, 
+mientras que el arrendatario demanda una experiencia clara y confiable al alquilar. Estos hallazgos guían 
+directamente las funcionalidades clave a priorizar en el diseño de la plataforma.
+
+
 ### 2.3.3. User Journey Mapping
+
+El **User Journey Mapping** permite visualizar de manera detallada la experiencia que atraviesan los usuarios 
+durante la interacción con las plataformas actuales de alquiler de vehículos. Este ejercicio hace posible identificar 
+los puntos de contacto, emociones y frustraciones de cada segmento objetivo, mostrando las debilidades del 
+proceso actual y evidenciando las oportunidades de mejora que justifican la propuesta de valor de la 
+nueva aplicación.
+
+###### Segmento Objetivo 1 (Arrendador de vehículos)
+<img src="assets/chapter02/JordanJourneyMap.png" width=600px>
+El recorrido del arrendador refleja un flujo de trabajo que no resulta del todo eficiente ni satisfactorio. Aunque 
+logra captar clientes mediante plataformas gratuitas de amplia difusión como Facebook o WhatsApp, se muestra 
+frustrado por la escasa seguridad y falta de garantías que estas herramientas ofrecen. A pesar de ello, continúa 
+utilizándolas debido a su alcance y practicidad, aunque reconoce la necesidad de migrar a una solución más confiable 
+y profesional.
+
+###### Segmento Objetivo 2 (Arrendatario de vehículos)
+<img src="assets/chapter02/PaulJourneyMap.png" width=600px>
+Por el lado del arrendatario, la experiencia está marcada por la limitada disponibilidad de opciones confiables y 
+la inseguridad que transmiten las plataformas gratuitas. Esta situación genera desconfianza y lo obliga a depender 
+de la identificación previa de arrendadores de confianza, reduciendo el uso de dichas plataformas a casos 
+estrictamente necesarios. Esto evidencia que, aunque existe una necesidad de movilidad, la falta de transparencia 
+y seguridad limita la satisfacción y continuidad en el uso de los servicios actuales.
+
 ### 2.3.4. Empathy Mapping
+
+El **Empathy Mapping** es una herramienta que permite comprender de manera profunda a los usuarios, identificando 
+lo que **piensan, sienten, dicen y hacen** durante su experiencia con el servicio. Este recurso facilita visualizar 
+no solo sus necesidades funcionales, sino también sus motivaciones, frustraciones y expectativas, lo que ayuda a 
+orientar el diseño de la solución hacia una experiencia más centrada en el usuario.
+
+
+###### Segmento Objetivo 1 (Arrendador de vehículos)
+<img src="assets/chapter02/empatymappingsegmento1.png" width=600px>
+
+###### Segmento Objetivo 2 (Arrendatario de vehículos)
+<img src="assets/chapter02/empatymappingsegmento2.png" width=600px>
+
 ## 2.4. Big Picture EventStorming
+
+En el levantamiento de información del proyecto se identificó la necesidad de comprender de manera clara cómo 
+interactúan arrendadores y arrendatarios en el proceso actual de alquiler de vehículos. A partir de este análisis se 
+elaboró un Big Picture Event Storming, que permitió ordenar los principales eventos de negocio en secuencia lógica, 
+mostrando dónde se concentran los mayores puntos de dolor y qué oportunidades de mejora surgen para el sistema 
+propuesto.
+
+#### Eventos clave identificados en el flujo
+
+| **N°** | **Evento** |
+|--------|------------|
+| 1 | El arrendador publica el vehículo, registrando datos básicos como marca, modelo y condiciones de uso. |
+| 2 | El arrendatario explora el catálogo y selecciona una opción que se ajusta a sus necesidades. |
+| 3 | Se genera una reserva, con fechas y condiciones de alquiler. |
+| 4 | Ambas partes firman un contrato digital, que reemplaza los acuerdos informales. |
+| 5 | Durante la reserva, el vehículo se marca como “En uso” y el sistema muestra su estado y ubicación IoT en la aplicación. |
+| 6 | Al finalizar, el vehículo regresa a estado “Disponible” y se registra la devolución. |
+| 7 | Arrendador y arrendatario publican reseñas, retroalimentando la confianza en la comunidad. |
+
+
+Este mapeo evidencia que las áreas críticas se encuentran en la gestión de reservas y en la falta de transparencia 
+del estado del vehículo, problemas que se mitigan con la incorporación de contratos digitales, panel de control y un 
+widget IoT ligero para reforzar la seguridad percibida.
+
 ## 2.5. Ubiquitous Language
+
+Con el fin de establecer un lenguaje común entre los desarrolladores y los usuarios, se definió un conjunto de 
+términos que se emplearán de forma consistente a lo largo del proyecto. Este lenguaje ubicuo evita confusiones 
+conceptuales y facilita la comunicación dentro del equipo, asegurando que todos comprendan los mismos procesos 
+con las mismas palabras.
+
+**Términos principales en el dominio de Renticar:**
+
+- **Arrendador**: Persona que registra y ofrece su vehículo en la plataforma.
+
+- **Arrendatario**: Usuario que alquila un vehículo registrado en la plataforma.
+
+- **Publicación**: Ficha que contiene los datos del vehículo y sus condiciones de alquiler.
+
+- **Reserva**: Confirmación del alquiler de un vehículo por un periodo determinado.
+
+- **Contrato digital**: Documento electrónico que formaliza las condiciones del alquiler.
+
+- **Reseña**: Evaluación realizada al finalizar la reserva, que permite calificar la experiencia.
+
+- **Estado del vehículo**: Indicador del sistema que señala si el auto está Disponible, En uso o Finalizado.
+
+- **Ubicación IoT**: Dato de localización y estado general del vehículo, mostrado de manera ligera durante la reserva.
+
+- **Panel de gestión**: Espacio central del sistema donde los usuarios consultan publicaciones, reservas y reseñas.
+
+Este lenguaje compartido no solo guía el diseño de la solución, sino que también constituye la base para la 
+documentación, la arquitectura del software y las interacciones con los futuros usuarios, fortaleciendo la 
+alineación entre el negocio y la tecnología.
+
 
 # Capítulo III: Requirements Specification
 ## 3.1. User Stories
