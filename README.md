@@ -1308,7 +1308,11 @@ encontrando siempre las funciones más relevantes según su objetivo.
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
+
 ## 4.4. Web Applications UX/UI Design
+
+En esta sección se presenta la propuesta visual y de interacción para la aplicación web Automovil-Unite. El diseño se ha centrado en los dos segmentos objetivos identificados: arrendadores (dueños de vehículos) y arrendatarios (clientes que buscan alquilar). La prioridad ha sido crear una experiencia de usuario intuitiva, segura y eficiente, aplicando principios de diseño inclusivo y una arquitectura de información clara para facilitar la navegación y el cumplimiento de los objetivos de cada usuario.
+
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
@@ -1779,7 +1783,6 @@ aplicado en entornos reales de desarrollo de software.
 - Fowler, M. (2004). *Patterns of Enterprise Application Architecture*. Addison-Wesley.
 - Stickdorn, M., Hormess, M., Lawrence, A., & Schneider, J. (2018). *This is Service Design Doing: Applying Service Design Thinking in the Real World*. O’Reilly Media.
 - Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). *Design Patterns: Elements of Reusable Object-Oriented Software*. Addison-Wesley.
-
 
 # Anexos
 
