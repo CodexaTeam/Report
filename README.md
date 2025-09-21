@@ -1311,14 +1311,70 @@ encontrando siempre las funciones más relevantes según su objetivo.
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
+
+A continuación, se presenta el modelo C4 correspondiente a nuestro software, el cual servirá 
+como guía durante el proceso de desarrollo. Este modelo resulta fundamental, ya que facilita 
+la comprensión de la arquitectura del sistema y de la manera en que los distintos componentes 
+interactúan entre sí.
+
 ### 4.6.1. Design-Level EventStorming
+
+Bounded Contexts propuestos:
+
+- Listings & Vehicle Management (Publicaciones/vehículos).
+
+- Booking & Digital Contract (Reservas/contrato).
+
+- IoT Monitoring (read-only) (estado y ubicación ligera).
+
+- Reviews & Reputation (reseñas y reputación).
+
+- Identity & Access Management (IAM) (registro, login, roles).
+
+
+**Eventos clave** : PublicaciónCreada, ReservaConfirmada, ContratoFirmado, ReservaIniciada, EstadoIotActualizado, ReservaFinalizada, ReseñaRegistrada.
+
+**Comandos** : CrearPublicación, CrearReserva, FirmarContrato, IniciarReserva, ActualizarEstadoIot, FinalizarReserva, RegistrarReseña.
+
+**Aggregates** : Publicación, Reserva, Vehículo, Usuario, Reseña.
+
 ### 4.6.2. Software Architecture Context Diagram
+
+<img src="assets/chapter04/diagramcontext.png" alt="" width="500"><br>
+
 ### 4.6.3. Software Architecture Container Diagrams
+
+<img src="assets/chapter04/containerdiagrams.png" alt="" width="500"><br>
+
 ### 4.6.4. Software Architecture Components Diagrams
+
+<img src="assets/chapter04/Components-Diagrams.png" alt="dd" width="500"><br>
+
 ## 4.7. Software Object-Oriented Design
+
+El diseño orientado a objetos constituye un eje central en el desarrollo de nuestro software. 
+La organización del sistema se ha realizado en función de las reglas de negocio, con el 
+propósito de construir componentes claros y comprensibles, que no solo favorezcan su 
+implementación en un entorno real, sino que también faciliten las futuras modificaciones y 
+el mantenimiento por parte del equipo de desarrollo.
+
 ### 4.7.1. Class Diagrams
+
+<img src="assets\chapter04\ClassDiagram.png" width=600px>
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+
+Antes de analizar el diagrama de base de datos, es fundamental comprender la manera en que se 
+relacionan las tablas de Renticar. El sistema administra entidades como Usuarios, 
+Vehículos, Publicaciones, Reservas, Reseñas y Documentos de Garantía. Cada una de estas 
+tablas mantiene relaciones específicas; por ejemplo, un usuario puede registrar múltiples 
+vehículos o generar diversas reservas. A continuación, se presenta el diagrama que ilustra 
+de forma gráfica dichas interconexiones.
+
+<br><img src="assets/chapter04/DatabaseDiagram.png" alt="Database Diagram" width="500" ><br>
+<br>
+
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
