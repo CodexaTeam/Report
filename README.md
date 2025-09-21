@@ -153,13 +153,14 @@ del ABET – EAC - Student Outcome 3.
   <tr>
     <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
     <td> Huanca Zevallos, Cristhian Joel <br> - TB1: Presentación de los antecedentes y la problemática del proyecto; 
-    explicación del modelo de base de datos y sus relaciones; sustentación de las guías de estilo en el equipo.  </td>
+    explicación del modelo de base de datos y sus relaciones; sustentación de las guías de estilo en el equipo. 
+    Sagastegui Rodriguez, Luis Jesus <br> - TB1: Realizacion y busqueda de competidores. Presentacion de los MockUps 
+    y Wireframes de la landing page, codificacion parcial de la landing page e identificacion de User Stories.
+    </td>
     <td>Se logró transmitir de manera clara los elementos técnicos y de diseño a diferentes audiencias, 
-    adaptando el discurso tanto a compañeros como a docentes, lo que permitió una comprensión efectiva del proyecto.</td>
-    <td> Sagastegui Rodriguez, Luis Jesus <br> - TB1: Realizacion y busqueda de competidores. Presentacion de los MockUps 
-    y Wireframes de la landing page, codificacion parcial de la landing page e identificacion de User Stories.  </td>
-    <td>Se logró transmitir realizar un trabajo de manera creciente, siempre en contacto con los miembros del equipo y 
-    sobretodo la organizacion del mismo.</td>
+    adaptando el discurso tanto a compañeros como a docentes, lo que permitió una comprensión efectiva del proyecto.
+    </td>
+
   </tr>
   <tr>
     <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
