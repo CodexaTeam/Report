@@ -1,0 +1,3 @@
+## 4.4. Web Applications UX/UI Design
+
+En esta sección se presenta la propuesta visual y de interacción para la aplicación web Automovil-Unite. El diseño se ha centrado en los dos segmentos objetivos identificados: arrendadores (dueños de vehículos) y arrendatarios (clientes que buscan alquilar). La prioridad ha sido crear una experiencia de usuario intuitiva, segura y eficiente, aplicando principios de diseño inclusivo y una arquitectura de información clara para facilitar la navegación y el cumplimiento de los objetivos de cada usuario.
