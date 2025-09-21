@@ -1142,8 +1142,106 @@ usuarios, como las reservas y la visualización del estado de los vehículos.
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+
+En esta sección se establecen los lineamientos de diseño orientados a garantizar la coherencia 
+tanto visual como funcional del producto. Dichos lineamientos abarcan elementos de la 
+identidad corporativa, la tipografía, la paleta de colores, el uso de íconos, así como los 
+componentes interactivos —como botones— y su relación directa con la experiencia del usuario.
+
 ### 4.1.1. General Style Guidelines
+
+- **Branding**:
+    - **Color Primario**: #003F70 (Azul oscuro) – Utilizado en el fondo, elementos destacados
+      y menús. Este color representa seguridad y confianza, ideal para una plataforma de alquiler
+      de vehículos.
+      <br>
+      <br><img src="assets/chapter04/primariocolor.png" alt="primariocolor" width="500" ><br>
+      <br>
+    - **Color Secundario**: #52B6F2 (Azul claro) – Es el color de los botones principales,
+      como "Sign up" y "Search". Este color añade un toque de frescura y accesibilidad, además
+      de hacer que las llamadas a la acción sean visualmente atractivas.
+      <br>
+      <br><img src="assets/chapter04/secundaricolor.png" alt="secundaricolor" width="500"><br>
+      <br>
+    - **Color de Fondo**: #FFFFFF (Blanco) – Se utiliza para el fondo general de la página,
+      proporcionando claridad y asegurando que los elementos visuales no se sobrecarguen.
+      <br>
+      <br><img src="assets/chapter04/fondocolor.png" alt="fondocolor" width="500"><br>
+      <br>
+    - **Colore Secundarios de Contraste**: #F1F1F1 (Gris claro) para las áreas de soporte
+      visual, como formularios o tarjetas de contenido. Además, #1F2A44 (gris oscuro) se usa
+      para textos secundarios y menús.
+      <br>
+      <br><img src="assets/chapter04/contrastecolor.png" alt="contrastecolor" width="500"><br>
+      <br>
+
+
+- **Typography**:<br>
+  Se ha elegido la tipografía Poppins debido a su claridad, modernidad y legibilidad.
+  Las distintas variaciones de peso permiten crear una jerarquía visual efectiva.
+    - **ExtraBold**: Usado para encabezados y titulos.
+    - **Semibold**: Para subtítulos o elementos secundarios.
+    - **Regular**: Para el cuerpo del texto.
+    - **Light**: Para textos menos relevantes o secundarios.<br>
+      <br>
+      <img src="assets/chapter04/extrabold.png" alt="Typography" width="500"><br>
+      <br>
+
+- **Icons**: <br>
+  Los íconos son lineales y minimalistas, alineados con el estilo moderno de la plataforma.
+  Se utilizan para una comunicación clara y rápida, permitiendo a los usuarios identificar
+  fácilmente las acciones disponibles.<br>
+  <br>
+  <img src="assets/chapter04/icons.png" alt="Icons" width="500"><br>
+  <br>
+
+- **Buttons**: <br>
+  Los botones deben ser altamente visibles y accesibles. Usamos colores vibrantes como
+  #52B6F2 (Azul claro) para las acciones principales y bordes redondeados para mejorar la
+  interacción en dispositivos táctiles.<br>
+  <br>
+  <img src="assets/chapter04/buttons.png" alt="Buttons" width="500"><br>
+  <br>
+
+- **Spacing and Layout**: <br>
+  Se establece un sistema de espaciado uniforme, lo que garantiza la claridad visual y un
+  flujo de contenido bien organizado. El espacio adecuado entre los elementos facilita la
+  navegación sin que la interfaz se sienta sobrecargada.
+
+
 ### 4.1.2. Web Style Guidelines
+
+- **Responsive Design**:
+  Todo el diseño está optimizado para ser completamente responsivo. Esto garantiza que los
+  elementos sean accesibles y fáciles de interactuar en cualquier dispositivo, desde móviles
+  hasta escritorios.
+
+- **Color Accessibility**:
+  Los colores están seleccionados con criterios de contraste adecuados, cumpliendo con los
+  estándares de accesibilidad (WCAG). Todo el texto será legible y fácil de leer, con
+  alternativas de alto contraste para usuarios con discapacidades visuales.<br>
+  <br>
+  <img src="assets/chapter04/coloracces.png" alt="Buttons" width="500"><br>
+  <br>
+
+- **Hover and Active States**:
+  Los botones, enlaces e iconos incluyen estados de "hover" y "active" claramente definidos,
+  lo cual proporciona retroalimentación visual a los usuarios. Esto es esencial para mejorar
+  la experiencia de usuario y evitar errores.
+
+- **Performance Optimization**:
+  Se priorizan diseños ligeros que cargan rápidamente, utilizando imágenes y recursos
+  optimizados. La eficiencia en la carga es crucial para mantener la fluidez del sitio en
+  un entorno de uso rápido.
+- **Navigation and Interactivity**:
+  La navegación está diseñada para ser intuitiva, con accesos directos a funciones clave
+  y un uso mínimo de submenús. Los elementos interactivos incluyen retroalimentación visual
+  y táctil para mejorar la experiencia del usuario.
+- **Consistent Component Usage**:
+  Se utilizan componentes reutilizables y consistentes en toda la interfaz web, como
+  botones, tarjetas y formularios. Esto garantiza una experiencia de usuario cohesiva y
+  facilita el mantenimiento y la escalabilidad del código.
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
