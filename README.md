@@ -1,3 +1,7 @@
 ### 4.4.1. Web Applications Wireframes
 
 Los wireframes de Automovil-Unite se han diseñado para establecer la estructura fundamental de la aplicación, priorizando la funcionalidad y la jerarquía de la información antes de aplicar el estilo visual. Se ha buscado una disposición limpia y organizada que guíe a los usuarios a través de las tareas clave, como publicar un vehículo o reservar uno. El diseño es adaptable para garantizar una experiencia consistente tanto en navegadores de escritorio como en dispositivos móviles.
+
+**Enlace al proyecto en Figma:** [https://www.figma.com/design/ICtIq3D2cmTwZMzqJPUxF7/Automovil-Unite?node-id=2-4606&t=mjT7rlE8qUSnwcfL-1](https://www.figma.com/design/ICtIq3D2cmTwZMzqJPUxF7/Automovil-Unite?node-id=2-4606&t=mjT7rlE8qUSnwcfL-1)
+
+
