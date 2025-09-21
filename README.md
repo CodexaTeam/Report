@@ -7,16 +7,39 @@ Los wireframes de Automovil-Unite se han diseñado para establecer la estructura
 1.  *Iniciar Sesión / Registrarse*
     Permite a los usuarios crear una cuenta o acceder a la plataforma. El formulario de registro solicita información básica y permite elegir el tipo de perfil (arrendador o arrendatario) para personalizar la experiencia desde el inicio.
 
+    **1. Inicio de Sesión (Sign In)**
+    ![Pantalla de inicio de sesión](assets/incio-sesion-figma/Sign%20In.png)
+
+    **2. Registro de Arrendatario (Tenant Register)**
+    ![Pantalla de registro para arrendatarios](assets/incio-sesion-figma/Tenant%20Register.png)
+
+    **3. Registro de Arrendador (Hirer Register)**
+    ![Pantalla de registro para arrendadores](assets/incio-sesion-figma/Hirrer%20Register.png)
+
+    **4. Recuperación de Contraseña**
+    ![Pantalla para recuperar la contraseña](assets/incio-sesion-figma/Recuperar%20contraseña.png)
+
 2.  *Dashboard del Arrendador*
     Muestra un resumen de los vehículos publicados, las reservas activas y las ganancias generadas. Ofrece accesos directos para añadir un nuevo vehículo y gestionar las publicaciones existentes.
+
+    ![Flujo de búsqueda y reserva de un vehículo](assets/arrendatario-figma/Arrendatario%20-%20Busqueda%20y%20Reserva%20de%20un%20Vehículo.png)
+
+    ![Flujo de finalización y calificación de un alquiler](assets/arrendatario-figma/Arrendatario%20-%20Finalización%20y%20Calificación%20de%20un%20Alquiler.png)
+
+    ![Pantalla de gestión de reservas del arrendatario](assets/arrendatario-figma/Arrendatario%20-%20Gestión%20de%20Reservas.png)
+
+    ![Pantalla de reservas del arrendatario](assets/arrendatario-figma/Arrendatario%20-%20Reservas.png)
+
 
 3.  *Dashboard del Arrendatario*
     Presenta un resumen de las reservas realizadas, vehículos recomendados y accesos rápidos para buscar nuevas opciones. El diseño se enfoca en facilitar la continuación de una búsqueda o la gestión de un alquiler en curso.
 
-4.  *Formulario de Publicación de Vehículo*
-    Guía al arrendador a través de un formulario claro y por pasos para registrar un nuevo vehículo. Incluye campos para marca, modelo, año, precio, descripción y carga de imágenes y documentos.
+    ![Flujo de administración de solicitudes de reserva por el arrendador](assets/arrendador-figma/Arrendador%20-%20Administración%20de%20Solicitudes%20de%20Reserva.png)
 
-5.  *Vista de Navegación y Búsqueda*
-    Permite a los arrendatarios buscar vehículos disponibles utilizando filtros clave como marca, precio y fechas. Los resultados se muestran en un formato de tarjetas para una comparación rápida y sencilla.
+    ![Pantalla de edición de perfil del arrendador](assets/arrendador-figma/Arrendador%20-%20Edicion%20de%20perfil.png)
 
+    ![Pantalla de gestión de vehículos del arrendador](assets/arrendador-figma/Arrendador%20-%20Gestion%20Vehículos.png)
 
+    ![Pantalla de primer acceso y vista general para el arrendador](assets/arrendador-figma/Arrendador%20-%20Primer%20Acceso%20y%20Vista%20General.png)
+
+    Muestra un resumen de los vehículos publicados, las reservas activas y las ganancias generadas. Ofrece accesos directos para añadir un nuevo vehículo y gestionar las publicaciones existentes.
