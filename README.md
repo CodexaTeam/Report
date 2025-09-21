@@ -18,10 +18,10 @@
 
 **Integrantes:**
 
-Huanca Zevallos, Cristhian Joel <br>
-Landa Ortiz, Sergio Javier <br>
-Sagastegui Rodriguez, Luis Jesus <br>
-Solis Campos, Estefano Sebastian <br>
+Huanca Zevallos, Cristhian Joel - u20201b914 <br>
+Landa Ortiz, Sergio Javier - u202311086<br>
+Sagastegui Rodriguez, Luis Jesus - u202014249<br>
+Solis Campos, Estefano Sebastian - u202314354 <br>
  
 
 **Setiembre, 2024**
@@ -152,13 +152,17 @@ del ABET – EAC - Student Outcome 3.
   </tr>
   <tr>
     <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
-    <td> </td>
-    <td></td>
+    <td> Huanca Zevallos, Cristhian Joel <br> - TB1: Presentación de los antecedentes y la problemática del proyecto; 
+    explicación del modelo de base de datos y sus relaciones; sustentación de las guías de estilo en el equipo.  </td>
+    <td>Se logró transmitir de manera clara los elementos técnicos y de diseño a diferentes audiencias, 
+    adaptando el discurso tanto a compañeros como a docentes, lo que permitió una comprensión efectiva del proyecto.</td>
   </tr>
   <tr>
     <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
-    <td></td>
-    <td></td>
+    <td>Huanca Zevallos, Cristhian Joel <br> - TB1: Redacción de los antecedentes y problemática; elaboración de las 
+    guías de estilo; desarrollo del diagrama de base de datos; redacción de las conclusiones del informe. </td>
+    <td>Se consolidó una comunicación escrita clara y estructurada, ajustada a los estándares académicos y al 
+    Statement, lo que facilitó la presentación del proyecto y aseguró la coherencia del documento final.</td>
   </tr>
 
 </table>
@@ -1395,5 +1399,45 @@ de forma gráfica dichas interconexiones.
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 # Conclusiones
+
+## Conclusiones
+
+El desarrollo del proyecto *Renticar* permitió aplicar de manera integral los conceptos de 
+**ingeniería de software** y las metodologías orientadas al **diseño centrado en el usuario**, 
+integrando prácticas modernas como *Event Storming*, *Impact Mapping* y *User Personas*. A 
+través del análisis de entrevistas se identificaron claramente las necesidades de los dos 
+segmentos objetivos —arrendadores y arrendatarios—, evidenciando que ambos valoran la **seguridad, 
+la transparencia y la confianza** como elementos determinantes en la experiencia de alquiler de 
+vehículos.
+
+La incorporación de un **componente IoT ligero** representa un diferenciador importante frente a 
+soluciones tradicionales, al brindar información básica sobre el estado y ubicación de los vehículos 
+durante la reserva. De esta forma, se refuerza la confiabilidad del sistema y se atienden los puntos 
+de dolor detectados en el análisis de los flujos actuales. Asimismo, la definición de una 
+**arquitectura basada en dominios** bajo el modelo C4 (Context, Container, Component) asegura 
+la escalabilidad y mantenibilidad del sistema, alineando la solución tecnológica con los objetivos 
+de negocio.
+
+En síntesis, el proyecto no solo fortaleció las competencias técnicas en la construcción de 
+aplicaciones web, sino que también fomentó la capacidad de **planificación estratégica, análisis 
+de requerimientos y trabajo colaborativo**, consolidando un aprendizaje integral que puede ser 
+aplicado en entornos reales de desarrollo de software.
+
 # Bibliografía
+
+- Cohn, M. (2004). *User Stories Applied: For Agile Software Development*. Addison-Wesley Professional.
+- Evans, E. (2004). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Addison-Wesley.
+- Adzic, G. (2012). *Impact Mapping: Making a Big Impact with Software Products and Projects*. Provoking Thoughts.
+- Fowler, M. (2004). *Patterns of Enterprise Application Architecture*. Addison-Wesley.
+- Stickdorn, M., Hormess, M., Lawrence, A., & Schneider, J. (2018). *This is Service Design Doing: Applying Service Design Thinking in the Real World*. O’Reilly Media.
+- Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). *Design Patterns: Elements of Reusable Object-Oriented Software*. Addison-Wesley.
+
+
 # Anexos
+
+- Link de la organización de GitHub: https://github.com/CodexaTeam
+- Link del repositorio del reporte: https://github.com/CodexaTeam/Report
+- Link del repositorio de landing page: https://github.com/CodexaTeam/LandingPage
+- Link de la landing page desplegada: https://RentiCar.netlify.app/
+- Link del trello: https://trello.com/b/v6yAFQ2f/renticar
+
