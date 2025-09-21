@@ -550,3 +550,79 @@ Personas que necesitan un vehículo de manera temporal que tengan edad entre 25 
     </td>
   </tr>
 </table>
+
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+<table>
+  <tr>
+    <th colspan="3" valign="top"></th>
+    <th colspan="4" valign="top"><b>OPORTUNIDADES</b></th>
+    <th colspan="4" valign="top"><b>AMENAZAS</b></th>
+  </tr>
+  <tr>
+    <th colspan="3" valign="top"></th>
+    <td colspan="4" valign="top">
+      <li> Crecimiento del turismo interno y extranjero en Perú.
+      <li> Tendencia a la digitalización de servicios de movilidad.
+      <li> Aumento de la demanda de opciones económicas y flexibles en transporte.
+      <li> Interés de PYMEs y startups por servicios de movilidad alternativos.
+    </td>
+    <td colspan="4" valign="top">
+      <li> Alta competencia de empresas consolidadas (Peru Rent a Car, Clase A).
+      <li> Competidores emergentes con modelo digital similar (Rento).
+      <li> Riesgo de guerra de precios.
+      <li> Desconfianza cultural hacia plataformas nuevas.
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="3" valign="top"><b>FORTALEZAS</b></th>
+    <th colspan="4" valign="top"><b>ESTRATEGIAS FO (Ofensivas)</b></th>
+    <th colspan="4" valign="top"><b>ESTRATEGIAS FA (Defensiva)</b></th>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top">
+      <li> Plataforma 100% digital con reservas rápidas y seguras.
+      <li> Flexibilidad en planes de alquiler (por horas, días o suscripción mensual).
+      <li> Uso de tecnología IoT (GPS, monitoreo en tiempo real).
+      <li> Enfoque en experiencia del usuario y atención 24/7.
+    </td>
+    <td colspan="4" valign="top">
+      <li> Posicionar a RentiCar como la plataforma de alquiler más ágil y flexible para turistas y jóvenes en Lima. 
+      <li> Usar la tecnología IoT como diferenciador innovador, mostrando seguridad y control en tiempo real.
+      <li> Generar alianzas con hoteles, agencias de turismo y startups para integrar RentiCar en experiencias de viaje y negocios.
+    </td>
+    <td colspan="4" valign="top">
+      <li> Diferenciarse de grandes competidores mediante la rapidez y simplicidad digital.
+      <li> Competir con Rento ofreciendo mayor cobertura y disponibilidad de vehículos.
+      <li> Evitar la guerra de precios destacando valor agregado: seguridad, flexibilidad y soporte 24/7.
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="3" valign="top"><b>DEBILIDADES</b></th>
+    <th colspan="4" valign="top"><b>ESTRATEGIAS DO (Reorientación)</b></th>
+    <th colspan="4" valign="top"><b>ESTRATEGIAS DA (Supervivencia)</b></th>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top">
+      <li> Marca nueva sin historial ni reputación consolidada.
+      <li> Flota inicial limitada frente a grandes competidores.
+      <li> Recursos financieros más reducidos que empresas consolidadas.
+      <li> Dependencia de la confianza digital en un mercado aún en transición.
+    </td>
+    <td colspan="4" valign="top">
+      <li> Reforzar la confianza en la marca mediante certificaciones, seguros y políticas transparentes.
+      <li> Expandir la flota progresivamente a través de convenios con propietarios particulares y PYMEs.
+      <li> Aprovechar la digitalización para compensar la falta de trayectoria, mostrando procesos claros, seguros y amigables.
+    </td>
+    <td colspan="4" valign="top">
+      <li> Lanzar campañas de marketing educativo sobre la seguridad y beneficios de alquilar en plataformas digitales.
+      <li> Implementar un programa de fidelización para generar usuarios recurrentes desde el inicio.
+      <li> Diversificar fuentes de ingreso (planes corporativos, suscripciones, alquiler por horas) para reducir vulnerabilidad frente a la competencia.
+    </td>
+
+  </tr>
+
+</table>
