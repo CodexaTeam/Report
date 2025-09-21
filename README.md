@@ -1086,6 +1086,22 @@ alineación entre el negocio y la tecnología.
 | TS-27        | Call To Action                |
 
 ## 3.2. Impact Mapping
+
+El **Impact Mapping** es una técnica de planificación estratégica que permite vincular los **objetivos del 
+proyecto** con los **actores involucrados**, los **impactos esperados** y las **entregas o funcionalidades 
+necesarias** para alcanzarlos. Esta herramienta ayuda a mantener la trazabilidad entre lo que se quiere lograr 
+y las acciones que se deben implementar, asegurando que cada funcionalidad aporte valor real al sistema. 
+En el caso de *Renticar*, el Impact Mapping se utiliza para alinear los intereses de arrendadores y 
+arrendatarios con los objetivos del producto, priorizando la seguridad, la transparencia y la confianza 
+como ejes principales de la plataforma.
+
+
+###### Segmento Objetivo 1 (Arrendador de vehículos)
+<img src="assets/chapter03/impactsegmento1.png" width=600px>
+
+###### Segmento Objetivo 2 (Arrendatario de vehículos)
+<img src="assets/chapter03/impactsegmento2.png" width=600px>
+
 ## 3.3. Product Backlog
 
 El Product Backlog recoge todas las funcionalidades que se han definido en forma de User Stories para la aplicación web de alquiler de 
