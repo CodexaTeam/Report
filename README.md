@@ -822,6 +822,41 @@ Promociona su servicio a través de Instagram y coordina los tratos por WhatsApp
 
 
 ### 2.2.3. Análisis de entrevistas
+
+El análisis de las entrevistas realizadas permitió identificar aspectos relevantes sobre el comportamiento y las
+expectativas de los dos segmentos definidos: arrendadores (dueños de vehículos) y arrendatarios (usuarios interesados
+en alquilar). En el primer grupo, se evidenció que la mayoría gestiona actualmente sus operaciones mediante
+herramientas manuales o básicas como hojas de Excel, cuadernos de registro y calendarios en el celular, lo que
+refleja un nivel bajo de digitalización. Asimismo, los canales de promoción más utilizados son Facebook Marketplace,
+Instagram y WhatsApp, los cuales ofrecen visibilidad, pero carecen de mecanismos confiables de seguridad y validación
+de clientes. De manera consistente, los arrendadores manifestaron la necesidad de contar con un panel de gestión
+profesional y un sistema de reseñas verificadas que les permita evaluar a los arrendatarios y reducir riesgos en
+cada operación.
+
+En el caso del segundo grupo, conformado por los arrendatarios, se observó que los jóvenes optan por vehículos
+económicos o compactos, principalmente para desplazamientos urbanos, y que recurren a plataformas como Uber,
+Indrive, Djangoya o concesionarias digitales. Sin embargo, señalaron la falta de transparencia en la información
+de los vehículos y la dificultad para comprobar la confiabilidad de los arrendadores, lo cual genera desconfianza.
+Entre sus principales expectativas se destacan el acceso a reseñas verificadas, la posibilidad de realizar reservas
+programadas de manera sencilla y, en particular, la opción de contar con información actualizada sobre el estado y
+la ubicación básica del vehículo, aspecto que valida la pertinencia de integrar un componente IoT ligero en la
+solución propuesta.
+
+En términos comparativos, los resultados muestran que ambos segmentos valoran la transparencia y la seguridad como
+factores determinantes. Los arrendadores se enfocan en la protección de su activo (vehículo) y en contar con
+herramientas para filtrar a clientes poco confiables, mientras que los arrendatarios priorizan la confianza en el
+servicio y la certeza de que el vehículo cumplirá con las condiciones pactadas. Esta coincidencia entre necesidades
+refuerza la propuesta de valor de Renticar, la cual busca consolidar un sistema que integre reseñas verificadas, un
+panel de gestión centralizado y un módulo IoT básico, generando así un ecosistema de mayor confianza.
+
+De forma cuantitativa, el análisis sugiere que aproximadamente el 80% de los arrendadores entrevistados expresaron
+interés en un sistema que les permita gestionar vehículos y validar clientes mediante reseñas, mientras que cerca
+del 70% de los arrendatarios destacaron la importancia de contar con reservas programadas y transparencia en el
+estado de los autos. Además, un 60% de los usuarios consultados valoró positivamente la posibilidad de contar con
+un widget IoT que muestre la ubicación y estado básico del vehículo, considerándolo un factor diferenciador frente
+a las plataformas actuales. Estos resultados permiten concluir que la integración de funcionalidades digitales
+avanzadas, aun en una versión inicial y ligera, constituye un factor clave para la adopción y éxito de la plataforma.
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
