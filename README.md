@@ -628,8 +628,199 @@ Personas que necesitan un vehículo de manera temporal que tengan edad entre 25 
 </table>
 
 ## 2.2. Entrevistas
+
 ### 2.2.1. Diseño de entrevistas
+
+**Segmento 1:** Dueño de vehiculo
+
+#### Preguntas de Información General:
+
+- ¿Cuál es tu nombre?
+- ¿Cuántos años tienes?
+- ¿En qué distrito vives?
+- ¿A qué te dedicas actualmente?
+
+#### Preguntas sobre el alquiler de sus vehículos:
+
+- ¿Que tipo de documento exiges para proceder con el alquiler?
+- ¿Qué tipo de vehículo ofreces para el alquiler?
+- ¿Cual es la cantidad minima y maxima de tiempo que permites alquilar tu vehiculo?
+- ¿Cómo llevas la cuenta de todos tus vehículos, tanto alquilados como sin alquilar?
+
+#### Preguntas sobre la plataforma:
+
+- ¿Que tipo de plataforma usas para ofrecer tu vehiculo?
+- ¿En qué dispositivos accedes a dichas plataformas?
+- ¿Consideras que las aplicaciones te dan facilidades para identificar clientes confiables?
+- ¿Estarías dispuesto a ofrecer tus vehículos en una nueva plataforma que te permita consultar reseñas de un cliente previo al alquiler?
+- ¿Estarías dispuesto a ofrecer tus vehículos en una nueva plataforma que te ofrezca un panel donde registrar tus vehículos y consultar su estado?
+- ¿Estarías dispuesto a ofrecer tus vehículos en una nueva plataforma que te permita reseñar a los clientes?
+
+**Segmento 2:** Usuario que busca alquilar un vehiculo
+
+#### Preguntas de Información General:
+
+- ¿Cuál es tu nombre?
+- ¿Cuántos años tienes?
+- ¿En qué distrito vives?
+- ¿A qué te dedicas actualmente?
+
+#### Preguntas sobre el alquiler de sus vehículos:
+
+- ¿Qué tipo de documento te exigen para proceder con el alquiler?
+- ¿Que tipo de vehiculo buscas alquilar?
+- ¿Que documentos te suelen pedir previo al alquiler del vehiculo?
+- ¿Que restricciones se te imponen previo al alquiler del vehiculo?
+
+#### Preguntas sobre el alquiler de sus vehículos:
+
+- ¿Qué tipo de plataforma usas para buscar vehículos?
+- ¿En qué dispositivos accedes a dichas plataformas?
+- ¿Consideras que las aplicaciones te dan facilidades para identificar vehículos o arrendadores confiables?
+- ¿Estarías dispuesto a migrar a una nueva plataforma que te permita consultar reseñas de arrendadores antes de alquilar?
+- ¿Estarías dispuesto a usar una nueva plataforma que te permita reservar un vehículo en unas fechas concretas antes de alquilarlo?
+- ¿Estarías dispuesto a usar una nueva plataforma que te permita reseñar a los arrendadores?
+
 ### 2.2.2. Registro de entrevistas
+
+**Segmento 1:** Dueño de vehiculo
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Javier Landa <br>
+      <b>Edad: </b> 50 años <br>
+      <b>Distrito:</b> Comas <br>
+      <b>Timing:</b> 0:00 - 03:49 minutos
+      <b>Duración:</b> 03:49 minutos
+    </td>
+    <td align=center>
+      <img src="./assets/Javier.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Enlace:</b> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014249_upc_edu_pe/EVpN7g-07F5NmL4coeAWvrEBJnPjWIGMADjQxVs7SGJYqA?e=kXb4sB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Link </a>
+      <br>
+      <b>Resumen:</b> Javier Landa, un hombre de 50 años residente en Comas y dedicado a diversos negocios, incluido el alquiler de vehículos, explicó que para proceder con el alquiler solicita como requisito el DNI y la licencia de conducir, o pasaporte en caso de clientes extranjeros. Actualmente ofrece autos y una camioneta, con un tiempo mínimo de alquiler de un día y un máximo de un mes. Para llevar el control de sus vehículos utiliza Excel y un cuaderno de registro manual. Señaló que promociona sus servicios a través de Facebook Marketplace y WhatsApp, a los que accede tanto desde el celular como desde la PC en oficina. Considera que las aplicaciones en internet le facilitan identificar clientes confiables y manifestó disposición a usar una nueva plataforma que le permita consultar reseñas de clientes, contar con un panel de gestión de vehículos y dejar evaluaciones sobre el comportamiento de los arrendatarios para evitar malas experiencias.
+    </td>
+  </tr>
+</table>
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Noelia Gomez <br>
+      <b>Edad: </b> 25 años <br>
+      <b>Distrito:</b> Pueblo Libre <br>
+      <b>Timing:</b> 03:49 - 07:32 minutos
+      <b>Duración:</b> 3:43 minutos
+    </td>
+    <td align=center>
+      <img src="./assets/Noelia.jpeg" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Enlace:</b> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014249_upc_edu_pe/EVpN7g-07F5NmL4coeAWvrEBJnPjWIGMADjQxVs7SGJYqA?e=kXb4sB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Link </a>
+      <br>
+      <b>Resumen:</b> Comenta su experiencia alquilando su auto personal, un Sedán. Actualmente, gestiona el alquiler a través del calendario de su celular y lo publicita en Facebook Marketplace y grupos de WhatsApp, pero reconoce que estos medios no le brindan facilidades para verificar la confiabilidad de los clientes, teniendo que guiarse por su instinto. Estaría muy dispuesta a usar una nueva plataforma que le permita consultar reseñas de clientes previos para tener más tranquilidad, así como un panel para registrar su vehículo de forma más profesional. Además, considera fundamental poder reseñar a los clientes para fomentar un sistema de confianza y responsabilidad mutua.
+    </td>
+  </tr>
+</table>
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b>Juan Diaz<br>
+      <b>Edad: </b> 28 años <br>
+      <b>Distrito:</b> Bellavista <br>
+      <b>Timing:</b> 07:32 - 11:27 minutos
+      <b>Duración:</b> 3:55 minutos
+    </td>
+    <td align=center>
+      <img src="./assets/Juan.png" alt="png"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Enlace:</b> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014249_upc_edu_pe/EVpN7g-07F5NmL4coeAWvrEBJnPjWIGMADjQxVs7SGJYqA?e=kXb4sB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Link </a>
+      <br>
+      <b>Resumen:</b> Juan Díaz, de 28 años y residente en Bellavista, Callao, combina su trabajo en un colegio con el alquiler de su Toyota Yaris para generar ingresos adicionales. Es una persona práctica y organizada, que gestiona su negocio mediante un registro en Excel y opera principalmente en zonas cercanas a su domicilio. Para alquilar su vehículo, exige DNI y licencia de conducir, con un mínimo de un día y un máximo de tres (usualmente fines de semana).
+Promociona su servicio a través de Instagram y coordina los tratos por WhatsApp, pero reconoce que estas plataformas son inseguras para manejar datos personales. Muestra interés en migrar a una aplicación especializada que le permita ver reseñas de clientes, gestionar sus alquileres con un panel de control y reducir riesgos. Su perfil refleja la necesidad de una solución tecnológica más confiable y eficiente para su negocio.
+    </td>
+  </tr>
+</table>
+
+**Segmento 2:** Usuario que busca alquilar un vehiculo
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Alejandro Jacinto <br>
+      <b>Edad: </b> 20 años <br>
+      <b>Distrito:</b> Los Olivos <br>
+      <b>Timing:</b> 11:27 - 14:31 minutos
+      <b>Duración:</b> 03:04 minutos
+    </td>
+    <td align=center>
+      <img src="./assets/Alejandro.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Enlace:</b> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014249_upc_edu_pe/EVpN7g-07F5NmL4coeAWvrEBJnPjWIGMADjQxVs7SGJYqA?e=kXb4sB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Link </a>
+      <br>
+      <b>Resumen:</b> Alejandro, un joven de 20 años residente en Los Olivos y desarrollador de profesión, comentó que suele alquilar vehículos pequeños tipo hatchback por ser más económicos y fáciles de manejar en la ciudad. Señaló que normalmente se le solicita el DNI y la licencia de conducir, y en algunos casos un recibo de servicio para validar su dirección. Entre las restricciones más comunes mencionó el límite de kilometraje, la prohibición de salir de Lima y el uso del vehículo para taxi. Indicó que utiliza principalmente plataformas como Uber, Indrive y, en algunos casos, Djangoya, a las que accede siempre desde su celular. Expresó que, aunque algunas aplicaciones facilitan la identificación de arrendadores confiables, no siempre es sencillo comprobarlo antes de recibir el vehículo. Mostró disposición a migrar a una nueva plataforma que ofrezca mayores facilidades, como consultar reseñas de arrendadores, reservar vehículos en fechas concretas y dejar opiniones sobre su experiencia, lo que le daría más seguridad y confianza en el proceso de alquiler.
+    </td>
+  </tr>
+</table>
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Bruce Via <br>
+      <b>Edad: </b> 21 años <br>
+      <b>Distrito:</b> Cercado de Lima <br>
+      <b>Timing:</b> 14:31 - 19:23 minutos
+      <b>Duración:</b> 04:52 minutos
+    </td>
+    <td align=center>
+      <img src="./assets/Bruce.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Enlace:</b> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014249_upc_edu_pe/EVpN7g-07F5NmL4coeAWvrEBJnPjWIGMADjQxVs7SGJYqA?e=kXb4sB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Link </a>
+      <br>
+      <b>Resumen:</b> Expone su experiencia y los desafíos que enfrenta al alquilar vehículos. Menciona que actualmente recurre a Facebook Marketplace o a centros de alquiler físicos, pero siente que la plataforma digital es poco confiable y propensa a estafas. Ha enfrentado dificultades como la negación del servicio por su edad y la solicitud de documentos adicionales. Le interesaría migrar a una nueva aplicación que le ofrezca seguridad, permitiéndole consultar y dejar reseñas de los arrendadores, y considera que una función para reservar vehículos en fechas concretas sería un gran incentivo para cambiarse de plataforma.
+    </td>
+  </tr>
+</table>
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Anthony Quito<br>
+      <b>Edad: </b> 23 años <br>
+      <b>Distrito:</b> Ventanilla <br>
+      <b>Timing:</b> 19:23 - 26:05 minutos
+      <b>Duración:</b> 06:42 minutos
+    </td>
+    <td align=center>
+      <img src="./assets/Anthony.png" alt="png"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Enlace:</b> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014249_upc_edu_pe/EVpN7g-07F5NmL4coeAWvrEBJnPjWIGMADjQxVs7SGJYqA?e=kXb4sB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Link </a>
+      <br>
+      <b>Resumen:</b> Anthony Steven Quito Peñadillo, de 23 años y residente en Ventanilla, trabaja como psicólogo para Coca-Cola, donde realiza visitas a múltiples sedes para sesiones y distribución de productos. Para optimizar su movilidad entre distritos (Comas, Independencia, etc.), recurre frecuentemente al alquiler de vehículos compactos con espacio de carga. Es un usuario metódico y exigente, que prioriza procesos claros y transparencia en los alquileres. Actualmente utiliza plataformas web de concesionarias (como Six Rentacar o Street Rentacar) vinculadas al aeropuerto Jorge Chávez, accediendo desde su laptop Lenovo 5 o computadora de escritorio. Sin embargo, critica la lentitud del sistema (requiere tickets de soporte) y la falta de información real sobre el estado de los vehículos.
+
+  </tr>
+</table>
+
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
