@@ -1910,6 +1910,6 @@ aplicado en entornos reales de desarrollo de software.
 - Link de la organización de GitHub: https://github.com/CodexaTeam
 - Link del repositorio del reporte: https://github.com/CodexaTeam/Report
 - Link del repositorio de landing page: https://github.com/CodexaTeam/LandingPage
-- Link de la landing page desplegada: https://RentiCar.netlify.app/
+- Link de la landing page desplegada: https://renticarlandingpage.vercel.app/
 - Link del trello: https://trello.com/b/v6yAFQ2f/renticar
 
