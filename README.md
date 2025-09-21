@@ -917,6 +917,42 @@ Promociona su servicio a través de Instagram y coordina los tratos por WhatsApp
 ## 3.2. Impact Mapping
 ## 3.3. Product Backlog
 
+El Product Backlog recoge todas las funcionalidades que se han definido en forma de User Stories para la aplicación web de alquiler de 
+vehículos con integración ligera de IoT. Su importancia radica en que permite organizar de manera priorizada las tareas de desarrollo, 
+estimando el esfuerzo de cada una mediante Story Points y asegurando que se atiendan primero las funcionalidades más críticas para los 
+usuarios, como las reservas y la visualización del estado de los vehículos.
+
+| Orden | User Story ID | Título                        | Descripción resumida                                                               | Story Points |
+|-------|---------------|-------------------------------|-----------------------------------------------------------------------------------|--------------|
+| 1     | US-16         | Reservar Vehículo             | Realizar reserva de un vehículo seleccionando fecha y horario.                     | 8            |
+| 2     | US-17         | Ver estado IoT del auto       | Visualizar estado y ubicación básica IoT del vehículo reservado.               | 8            |
+| 3     | US-01         | Registro de Usuario           | Permitir registro de visitantes para publicar o alquilar vehículos.                | 5            |
+| 4     | US-02         | Inicio de Sesión              | Autenticar usuarios registrados para acceder al sistema.                           | 5            |
+| 5     | US-04         | Dashboard del Usuario         | Mostrar panel principal con información de reservas y publicaciones.               | 5            |
+| 6     | US-06         | Publicaciones en el Dashboard | Visualizar y gestionar publicaciones desde el Dashboard.                           | 5            |
+| 7     | US-07         | Cancelar Reserva de Vehículo  | Cancelar una o varias reservas activas desde el Dashboard.                         | 5            |
+| 8     | US-09         | Crear Publicación             | Registrar publicaciones de vehículos disponibles para alquiler.                    | 5            |
+| 9     | US-15         | Reseñar Publicaciones         | Dejar reseñas de autos después de completar una reserva.                           | 5            |
+| 10    | US-19         | Crear Perfil                  | Crear perfil personal ingresando datos básicos.                                    | 5            |
+| 11    | US-20         | Modificar Perfil              | Editar la información personal registrada en el perfil.                            | 5            |
+| 12    | US-21         | Cargar Documentos de Garantía | Subir documentos personales en el perfil para validar identidad.                   | 5            |
+| 13    | US-26         | Traducción de la Landing Page | Cambiar el idioma de la landing page entre inglés y español.                       | 5            |
+| 14    | US-03         | Recuperar Contraseña          | Restablecer la contraseña de usuarios que la olvidaron.                            | 3            |
+| 15    | US-05         | Destacados en el Dashboard    | Visualizar autos destacados/recomendados en el Dashboard.                          | 3            |
+| 16    | US-08         | Pestaña de Publicación        | Acceder a sección para crear y gestionar publicaciones.                            | 3            |
+| 17    | US-10         | Visualizar Publicación        | Consultar la información de una publicación existente.                             | 3            |
+| 18    | US-11         | Eliminar Publicación          | Eliminar publicaciones individuales o múltiples.                                  | 3            |
+| 19    | US-12         | Navegación de Publicaciones   | Recorrer publicaciones de autos disponibles.                                       | 3            |
+| 20    | US-13         | Ordenar por Precio            | Ordenar publicaciones según el precio del alquiler.                                | 3            |
+| 21    | US-14         | Filtrar por Marca             | Filtrar publicaciones de autos por su marca.                                       | 3            |
+| 22    | US-18         | Pestaña de Perfil             | Acceder a perfil con datos personales y documentos.                                | 3            |
+| 23    | US-22         | Acceso a Landing Page         | Acceder a la página principal para conocer el producto.                            | 3            |
+| 24    | US-23         | Información del Producto      | Consultar información detallada sobre el producto en la landing page.              | 3            |
+| 25    | US-24         | Catálogo Popular              | Revisar muestra de autos destacados en la página principal.                        | 3            |
+| 26    | US-25         | Testimonios                   | Leer testimonios de clientes y dueños en la landing page.                          | 3            |
+| 27    | US-27         | Call To Action                | Suscribirse ingresando correo en la landing page para recibir novedades.           | 3            |
+
+
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
