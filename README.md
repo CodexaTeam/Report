@@ -2184,6 +2184,6 @@ aplicado en entornos reales de desarrollo de software.
 - Link del repositorio de landing page: https://github.com/CodexaTeam/LandingPage
 - Link de la landing page desplegada: https://renticarlandingpage.vercel.app/
 - Link del repositorio de Frontend: https://github.com/CodexaTeam/Frontend
-- Link del Frontend desplegada: 
+- Link del Frontend desplegada: https://renticar-frontend.netlify.app/
 - Link del trello: https://trello.com/b/v6yAFQ2f/renticar
 
