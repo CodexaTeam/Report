@@ -1915,10 +1915,10 @@ Reunion por discord:
 | **Location**                           | Discord                                                      |
 | **Prepared By**                        | Cristhian Huanca                                             |
 | **Attendees (to planning meeting)**    | Todos los integrantes                                        |
-| **Sprint n - 2 Review Summary**        | -                                                            |
-| **Sprint n - 2 Retrospective Summary** | -                                                            |
-| **Sprint 1 Goal**                      | Completar el reporte, implementar el frontend y desplegarlo. |
-| **Sprint 1 Velocity**                  | 93 story points                                              |
+| **Sprint 1 Review Summary**        | Se logro realizar de manera completa y satifactoria la landing page, abarcando todas las historias de usuario que habiamos trazado desde un primer comienzo. |
+| **Sprint 1 Retrospective Summary** | La organizacion de las tareas para el desarrollo de las caracteristicas fundamentales fue correctamente realizada, la realizacion de esta misma fue realizada en los tiempos adecuados. En el anterior sprint consideramos que aun nos faltaba un intervalo de tiempo en donde todos nos podamos reunir como equipo. Se priorizaba las tareas mas complejas y la perfecta distribucion.                                                           |
+| **Sprint 2 Goal**                      | Completar el reporte, implementar el frontend y desplegarlo. |
+| **Sprint 2 Velocity**                  | 93 story points                                              |
 | **Sum of Story Points**                | 93 story points                                              |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
@@ -1967,10 +1967,123 @@ Link del trello: https://trello.com/b/v6yAFQ2f/renticar
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
-Commits realizados en el repositorio del reporte:
+En esta sección se presentan los commits realizados en el repositorio de GitHub, donde se puede observar el trabajo colaborativo de cada integrante del equipo en el desarrollo de RentiCar. A continuación, se detallan las contribuciones individuales en diversas ramas del proyecto, incluyendo las implementaciones de las funcionalidades principales y las integraciones necesarias para el despliegue final del producto.
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=19>Frontend</td>
+        <td>main</td>
+        <td>103935c</td>
+        <td>Estefano Solis</td>
+        <td>Initial commit</td>
+        <td>08/10/2025</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>c84fef5</td>
+        <td>Estefano Solis</td>
+        <td>BasicImplementation</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>ce68b89</td>
+        <td>Sergio Landa</td>
+        <td>booking-request</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-listing</td>
+        <td>f6e6670</td>
+        <td>Cristhian Huanca</td>
+        <td>vehicle-assembler-model</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-listing</td>
+        <td>7c71565</td>
+        <td>Cristhian Huanca</td>
+        <td>vehicle-management</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-listing</td>
+        <td>069e7d5</td>
+        <td>Cristhian Huanca</td>
+        <td>vehicle-details</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-listing</td>
+        <td>81738b0</td>
+        <td>Cristhian Huanca</td>
+        <td>vehicle-operations</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-iot</td>
+        <td>cebf14a</td>
+        <td>Jesus Sagastegui</td>
+        <td>iot-models</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-iot</td>
+        <td>d8ee5f0</td>
+        <td>Jesus Sagastegui</td>
+        <td>iot-tracking</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-iot</td>
+        <td>21b057f</td>
+        <td>Jesus Sagastegui</td>
+        <td>iot-services</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-iot</td>
+        <td>21c57f9</td>
+        <td>Jesus Sagastegui</td>
+        <td>review-assemblers</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-iot</td>
+        <td>f6a1879</td>
+        <td>Jesus Sagastegui</td>
+        <td>review-components</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-iot</td>
+        <td>5ea6c2c</td>
+        <td>Jesus Sagastegui</td>
+        <td>review-models</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-iot</td>
+        <td>2499f23</td>
+        <td>Jesus Sagastegui</td>
+        <td>review-services</td>
+        <td>10/10/2025</td>
+    </tr>
+</table>
+
+
+
+
 
 <img src="assets/chapter05/sprint2/commits-sprint2-report.png" width=600 >
-
 
 Commits realizados en el repositorio del frontend:
 
