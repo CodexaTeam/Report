@@ -175,32 +175,35 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 del ABET – EAC - Student Outcome 3.
 
 <table>
-  <tr>
-    <th>Criterio específico</th>
-    <th>Acciones realizadas</th>
-    <th>Conclusiones</th>
-  </tr>
-  <tr>
-    <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
-    <td> Huanca Zevallos, Cristhian Joel <br> - TB1: Presentación de los antecedentes y la problemática del proyecto; 
-    explicación del modelo de base de datos y sus relaciones; sustentación de las guías de estilo en el equipo.
-    <br> - TP: Presenté los avances del proyecto y expliqué las funcionalidades del frontend al equipo durante las reuniones de coordinación. <br><br>
-    Sagastegui Rodriguez, Luis Jesus <br> - TB1: Realizacion y busqueda de competidores. Presentacion de los MockUps 
-    y Wireframes de la landing page, codificacion parcial de la landing page e identificacion de User Stories.
-    </td>
-    <td>Se logró transmitir de manera clara los elementos técnicos y de diseño a diferentes audiencias, 
-    adaptando el discurso tanto a compañeros como a docentes, lo que permitió una comprensión efectiva del proyecto.
-    </td>
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
+    <td> <b>Huanca Zevallos, Cristhian Joel</b> <br> - TB1: Presentación de los antecedentes y la problemática del proyecto; 
+    explicación del modelo de base de datos y sus relaciones; sustentación de las guías de estilo en el equipo.
+    <br> - TP: Presenté los avances del proyecto y expliqué las funcionalidades del frontend al equipo durante las reuniones de coordinación. <br><br>
+    <b>Sagastegui Rodriguez, Luis Jesus</b> <br> - TB1: Realizacion y busqueda de competidores. Presentacion de los MockUps 
+    y Wireframes de la landing page, codificacion parcial de la landing page e identificacion de User Stories. <br><br>
+    <b>Solis Campos, Estefano Sebastian</b> <br> - TB1: Exposición y sustentación del Capítulo 4, explicando verbalmente el marco metodológico y la arquitectura de software propuesta al equipo. <br> - TP1: Presentación al equipo de la arquitectura base del frontend, detallando la estructura de componentes y el sistema de navegación.
+    </td>
+    <td>Se logró transmitir de manera clara los elementos técnicos y de diseño a diferentes audiencias, 
+    adaptando el discurso tanto a compañeros como a docentes, lo que permitió una comprensión efectiva del proyecto.
+    </td>
 
-  </tr>
-  <tr>
-    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
-    <td>Huanca Zevallos, Cristhian Joel <br> - TB1: Redacción de los antecedentes y problemática; elaboración de las 
-    guías de estilo; desarrollo del diagrama de base de datos; redacción de las conclusiones del informe. 
-    <br> - TP: Elaboré el informe del Sprint 2, documenté las tareas en Trello y desarrollé el módulo de listado de publicaciones en Angular. <br><br></td>
-    <td>Se consolidó una comunicación escrita clara y estructurada, ajustada a los estándares académicos y al 
-    Statement, lo que facilitó la presentación del proyecto y aseguró la coherencia del documento final.</td>
-  </tr>
+  </tr>
+  <tr>
+    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
+    <td><b>Huanca Zevallos, Cristhian Joel</b> <br> - TB1: Redacción de los antecedentes y problemática; elaboración de las 
+    guías de estilo; desarrollo del diagrama de base de datos; redacción de las conclusiones del informe. 
+    <br> - TP: Elaboré el informe del Sprint 2, documenté las tareas en Trello y desarrollé el módulo de listado de publicaciones en Angular. <br><br>
+    <b>Solis Campos, Estefano Sebastian</b> <br> - TB1: Redacción y desarrollo integral del Capítulo 4, definiendo por escrito el marco metodológico y la arquitectura del software. <br> - TP1: Codificación e implementación de la estructura inicial del frontend, documentando a través del código la base de componentes, vistas y el sistema de enrutamiento.
+    </td>
+    <td>Se consolidó una comunicación escrita clara y estructurada, ajustada a los estándares académicos y al 
+    Statement, lo que facilitó la presentación del proyecto y aseguró la coherencia del documento final.</td>
+  </tr>
 
 </table>
 
