@@ -32,14 +32,35 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha       | Autor                                            | Descripción de modificación |
-|---------|-------------|--------------------------------------------------|-----------------------------|
-| 0.1     | 24/04/2025  | Todos los integrantes                            | Primer sprint TB1           |
+| Versión | Fecha      | Autor                                            | Descripción de modificación |
+|---------|------------|--------------------------------------------------|-----------------------------|
+| 1.0     | 24/04/2025 | Todos los integrantes                            | Primer sprint TB1           |
+| 2.0     | 09/10/2025 | Todos los integrantes                            | Segundo sprint TP           |
 
 ## Project Report Collaboration Insights
-| URL de la organización del proyecto |    URL del repositorio del reporte    |
-|:-----------------------------------:|:-------------------------------------:|
-|   https://github.com/CodexaTeam      | https://github.com/CodexaTeam/Report  |
+| URL de la organización del proyecto |    URL del repositorio del reporte     |
+|:-----------------------------------:|:--------------------------------------:|
+|  https://github.com/CodexaTeam      | https://github.com/CodexaTeam/Report   |
+
+|            URL del Landing Page            |     URL del Fronted Web Application     |
+|:------------------------------------------:|:---------------------------------------:|
+| https://github.com/CodexaTeam/LandingPage  | https://github.com/CodexaTeam/Frontend  |
+
+### Entrega TB1
+
+| Insights Report                                                               | Insights Landing Page                                                                        |
+|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| ![Captura Report](assets/project-report-collaboration/captura-report-tb1.png) | ![Captura Landing Page](assets/project-report-collaboration/captura-landing-tb1.png) |
+
+---
+
+### Entrega TP
+
+| Insights Report                                                                      | Insights Landing Page                                                                      | Insights FrontEnd                                                                      |
+|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| ![Captura Report](assets/project-report-collaboration/insightsReportTB1.png) | ![Captura Landing Page](assets/project-report-collaboration/insightsReportTB1.png) | ![Captura FrontEnd](assets/project-report-collaboration/insightsReportTB1.png) |
+
+---
 
 ## Contenido
 
@@ -128,6 +149,15 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
             - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+        - [5.2.2. Sprint 2](#522-sprint-2)
+          - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+          - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+          - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+          - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+          - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+          - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+          - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+          - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
@@ -1871,9 +1901,19 @@ Reunion por discord:
 
 <img src="assets/chapter05/evidence.png" width=600 >
 
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+#### 5.2.2.2. Aspect Leaders and Collaborators
+#### 5.2.2.3. Sprint Backlog 2
+#### 5.2.2.4. Development Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
 # Conclusiones
 
-## Conclusiones
 
 El desarrollo del proyecto *Renticar* permitió aplicar de manera integral los conceptos de 
 **ingeniería de software** y las metodologías orientadas al **diseño centrado en el usuario**, 
@@ -1911,5 +1951,7 @@ aplicado en entornos reales de desarrollo de software.
 - Link del repositorio del reporte: https://github.com/CodexaTeam/Report
 - Link del repositorio de landing page: https://github.com/CodexaTeam/LandingPage
 - Link de la landing page desplegada: https://renticarlandingpage.vercel.app/
+- Link del repositorio de Frontend: https://github.com/CodexaTeam/Frontend
+- Link del Frontend desplegada: 
 - Link del trello: https://trello.com/b/v6yAFQ2f/renticar
 
