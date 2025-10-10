@@ -186,7 +186,8 @@ del ABET – EAC - Student Outcome 3.
     explicación del modelo de base de datos y sus relaciones; sustentación de las guías de estilo en el equipo.
     <br> - TP: Presenté los avances del proyecto y expliqué las funcionalidades del frontend al equipo durante las reuniones de coordinación. <br><br>
     <b>Sagastegui Rodriguez, Luis Jesus</b> <br> - TB1: Realizacion y busqueda de competidores. Presentacion de los MockUps 
-    y Wireframes de la landing page, codificacion parcial de la landing page e identificacion de User Stories. <br><br>
+    y Wireframes de la landing page, codificacion parcial de la landing page e identificacion de User Stories. <br><br> - TP: Me comunique de manera efectiva mis avances del proyecto con mis compañeros de grupo, siempre haciendoles 
+saber mis dificultades antes cualquier duda o contratiempo. <br><br>
     <b>Solis Campos, Estefano Sebastian</b> <br> - TB1: Exposición y sustentación del Capítulo 4, explicando verbalmente el marco metodológico y la arquitectura de software propuesta al equipo. <br> - TP1: Presentación al equipo de la arquitectura base del frontend, detallando la estructura de componentes y el sistema de navegación.
     </td>
     <td>Se logró transmitir de manera clara los elementos técnicos y de diseño a diferentes audiencias, 
@@ -200,6 +201,7 @@ del ABET – EAC - Student Outcome 3.
     guías de estilo; desarrollo del diagrama de base de datos; redacción de las conclusiones del informe. 
     <br> - TP: Elaboré el informe del Sprint 2, documenté las tareas en Trello y desarrollé el módulo de listado de publicaciones en Angular. <br><br>
     <b>Solis Campos, Estefano Sebastian</b> <br> - TB1: Redacción y desarrollo integral del Capítulo 4, definiendo por escrito el marco metodológico y la arquitectura del software. <br> - TP1: Codificación e implementación de la estructura inicial del frontend, documentando a través del código la base de componentes, vistas y el sistema de enrutamiento.
+    </td>
     </td>
     <td>Se consolidó una comunicación escrita clara y estructurada, ajustada a los estándares académicos y al 
     Statement, lo que facilitó la presentación del proyecto y aseguró la coherencia del documento final.</td>
