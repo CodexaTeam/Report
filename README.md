@@ -2123,7 +2123,7 @@ Como se puede apreciar en la dirección URL se encuentra netlify.app como parte 
 
 <img src="assets/sprint2/publication.png" width=600 >
 
-**Link del front desplegado** https://novacode-frontend.netlify.app
+**Link del front desplegado** https://renticar-frontend.netlify.app/
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
