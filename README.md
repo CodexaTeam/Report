@@ -56,9 +56,9 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
 
 ### Entrega TP
 
-| Insights Report                                                                      | Insights Landing Page                                                                      | Insights FrontEnd                                                                      |
-|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| ![Captura Report](assets/project-report-collaboration/insightsReportTB1.png) | ![Captura Landing Page](assets/project-report-collaboration/insightsReportTB1.png) | ![Captura FrontEnd](assets/project-report-collaboration/insightsReportTB1.png) |
+| Insights Report                                                               | Insights FrontEnd                                                                 |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| ![Captura Report](assets/chapter05/sprint2/teamcolaborationsprint2report.png) | ![Captura FrontEnd](assets/chapter05/sprint2/teamcolaborationsprint2frontend.png) |
 
 ---
 
@@ -183,7 +183,8 @@ del ABET – EAC - Student Outcome 3.
   <tr>
     <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
     <td> Huanca Zevallos, Cristhian Joel <br> - TB1: Presentación de los antecedentes y la problemática del proyecto; 
-    explicación del modelo de base de datos y sus relaciones; sustentación de las guías de estilo en el equipo. 
+    explicación del modelo de base de datos y sus relaciones; sustentación de las guías de estilo en el equipo.
+    <br> - TP: Presenté los avances del proyecto y expliqué las funcionalidades del frontend al equipo durante las reuniones de coordinación. <br><br>
     Sagastegui Rodriguez, Luis Jesus <br> - TB1: Realizacion y busqueda de competidores. Presentacion de los MockUps 
     y Wireframes de la landing page, codificacion parcial de la landing page e identificacion de User Stories.
     </td>
@@ -195,7 +196,8 @@ del ABET – EAC - Student Outcome 3.
   <tr>
     <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
     <td>Huanca Zevallos, Cristhian Joel <br> - TB1: Redacción de los antecedentes y problemática; elaboración de las 
-    guías de estilo; desarrollo del diagrama de base de datos; redacción de las conclusiones del informe. </td>
+    guías de estilo; desarrollo del diagrama de base de datos; redacción de las conclusiones del informe. 
+    <br> - TP: Elaboré el informe del Sprint 2, documenté las tareas en Trello y desarrollé el módulo de listado de publicaciones en Angular. <br><br></td>
     <td>Se consolidó una comunicación escrita clara y estructurada, ajustada a los estándares académicos y al 
     Statement, lo que facilitó la presentación del proyecto y aseguró la coherencia del documento final.</td>
   </tr>
@@ -1904,13 +1906,130 @@ Reunion por discord:
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
+
+
+| Sprint #                               | Sprint 2                                                     |
+|----------------------------------------|--------------------------------------------------------------|
+| **Date**                               | 2025-10-05                                                   |
+| **Time**                               | 07:00 PM                                                     |
+| **Location**                           | Discord                                                      |
+| **Prepared By**                        | Cristhian Huanca                                             |
+| **Attendees (to planning meeting)**    | Todos los integrantes                                        |
+| **Sprint n - 2 Review Summary**        | -                                                            |
+| **Sprint n - 2 Retrospective Summary** | -                                                            |
+| **Sprint 1 Goal**                      | Completar el reporte, implementar el frontend y desplegarlo. |
+| **Sprint 1 Velocity**                  | 93 story points                                              |
+| **Sum of Story Points**                | 93 story points                                              |
+
 #### 5.2.2.2. Aspect Leaders and Collaborators
-#### 5.2.2.3. Sprint Backlog 2
+
+Para la implementación del **Front-End**, correspondiente al desarrollo de las **User Stories del 1 al 21**, se asignaron los siguientes responsables por aspecto, con el fin de asegurar una distribución equitativa de tareas, colaboración efectiva y cumplimiento de objetivos del sprint.
+
+| **Aspecto**                          | **Líder**        | **Colaboradores**              | **Responsabilidades**                                                                                                                                                  |
+|--------------------------------------|------------------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Front-End**                        | Jesus Sagastegui | Todos los integrantes          | Implementación de componentes, rutas, servicios y lógica de negocio en Angular. Integración del sistema de reservas, publicaciones, autenticación y perfil de usuario. |
+| **Diseño Gráfico & UX/UI**           | Cristhian Huanca | Sergio Landa                   | Diseño de vistas y mejora de experiencia de usuario. Definición de estructura visual coherente, colores, tipografía y responsividad en Angular Material y CSS.         |
+| **Integración y Testing**            | Sebastian Solis  | Jesus Sagastegui, Sergio Landa | Pruebas unitarias y de integración en componentes. Validación del flujo de usuario, revisión de errores y control de calidad de las funcionalidades implementadas.     |
+| **Deployment y Versionado**          | Sergio Landa     | Jesus Sagastegui               | Configuración del entorno de producción, despliegue en Vercel y GitHub Pages. Control de versiones, ramas y revisiones de código en GitHub.                            |
+| **Documentación Técnica & Reportes** | Cristhian Huanca | Cristhian Huanca               | Redacción del informe de Sprint 2, evidencias técnicas, guía de instalación, convenciones de Angular y documentación del código y componentes desarrollados.           |
+
+#### 5.2.2.3. Sprint Backlog 2 
+
+| Orden | User Story ID | Título                        | **Tareas técnicas (Sprint 2)**                                       | Story Points |
+|-------|---------------|-------------------------------|----------------------------------------------------------------------|--------------|
+| 1     | US-01         | Registro de Usuario           | Permitir registro de visitantes para publicar o alquilar vehículos.  | 5            |
+| 2     | US-02         | Inicio de Sesión              | Autenticar usuarios registrados para acceder al sistema.             | 5            |
+| 3     | US-03         | Recuperar Contraseña          | Restablecer la contraseña de usuarios que la olvidaron.              | 3            |
+| 4     | US-04         | Dashboard del Usuario         | Mostrar panel principal con información de reservas y publicaciones. | 5            |
+| 5     | US-05         | Destacados en el Dashboard    | Visualizar autos destacados/recomendados en el Dashboard.            | 3            |
+| 6     | US-06         | Publicaciones en el Dashboard | Visualizar y gestionar publicaciones desde el Dashboard.             | 5            |
+| 7     | US-07         | Cancelar Reserva de Vehículo  | Cancelar una o varias reservas activas desde el Dashboard.           | 5            |
+| 8     | US-08         | Pestaña de Publicación        | Acceder a sección para crear y gestionar publicaciones.              | 3            |
+| 9     | US-09         | Crear Publicación             | Registrar publicaciones de vehículos disponibles para alquiler.      | 5            |
+| 10    | US-10         | Visualizar Publicación        | Consultar la información de una publicación existente.               | 3            |
+| 11    | US-11         | Eliminar Publicación          | Eliminar publicaciones individuales o múltiples.                     | 3            |
+| 12    | US-12         | Navegación de Publicaciones   | Recorrer publicaciones de autos disponibles.                         | 3            |
+| 13    | US-13         | Ordenar por Precio            | Ordenar publicaciones según el precio del alquiler.                  | 3            |
+| 14    | US-14         | Filtrar por Marca             | Filtrar publicaciones de autos por su marca.                         | 3            |
+| 15    | US-15         | Reseñar Publicaciones         | Dejar reseñas de autos después de completar una reserva.             | 5            |
+| 16    | US-16         | Reservar Vehículo             | Realizar reserva de un vehículo seleccionando fecha y horario.       | 8            |
+| 17    | US-17         | Ver estado IoT del auto       | Visualizar estado y ubicación básica IoT del vehículo reservado.     | 8            |
+| 18    | US-18         | Pestaña de Perfil             | Acceder a perfil con datos personales y documentos.                  | 3            |
+| 19    | US-19         | Crear Perfil                  | Crear perfil personal ingresando datos básicos.                      | 5            |
+| 20    | US-20         | Modificar Perfil              | Editar la información personal registrada en el perfil.              | 5            |
+| 21    | US-21         | Cargar Documentos de Garantía | Subir documentos personales en el perfil para validar identidad.     | 5            |
+
+Además, creamos un board de trello con el registro de los sprints
+
+<img src="assets/chapter05/sprint2/trello-evidence-sprint2.png" width=600 >
+
+Link del trello: https://trello.com/b/v6yAFQ2f/renticar
+
 #### 5.2.2.4. Development Evidence for Sprint Review
+
+Commits realizados en el repositorio del reporte:
+
+<img src="assets/chapter05/sprint2/commits-sprint2-report.png" width=600 >
+
+
+Commits realizados en el repositorio del frontend:
+
+<img src="assets/chapter05/sprint2/commits-sprint2-frontend.png" width=600 >
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
+
+Se adjuntan evidencias del despliegue de la primera version del frontend, cubriendo las user stories previamente mencionadas
+
+
+<img src="assets/chapter05/sprint2/evidence-execution2.jpg" width=600 >
+
+<img src="assets/chapter05/sprint2/evidence-execution1.png" width=600 >
+
+<img src="assets/chapter05/sprint2/evidence-execution3.jpg" width=300 >
+
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Nuestro frontend consumen diversos endpoints localizados en la carpeta server en la raíz de nuestro proyecto:
+
+<img src="assets/chapter05/sprint2/services1-sprint2.png" width=600 >
+<img src="assets/chapter05/sprint2/services-sprint2.png" width=600 >
+
+Arrancamos dicho server de manera local con el siguiente comando:
+```bash
+npx json-server --watch server/db.json --routes server/routes.json
+```
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+El frontend fue desplegado en Netlify, el cual se enlaza con el repositorio de github del frontend. El proceso de despliegue es similar al de la landing page, pero en este caso se utilizó el branch main.
+
+<img src="assets/sprint2/netlify.png" width=600 >
+
+Como se puede apreciar en la dirección URL se encuentra netlify.app como parte de la misma
+
+<img src="assets/sprint2/publication.png" width=600 >
+
+**Link del front desplegado** https://novacode-frontend.netlify.app
+
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Insights del repositorio de report:
+
+<img src="assets/chapter05/sprint2/teamcolaborationsprint2report.png" width=600 >
+
+Insights del repositorio de Frontend:
+
+<img src="assets/chapter05/sprint2/teamcolaborationsprint2frontend.png" width=600 >
+
+Insights de TRELLO:
+
+<img src="assets/chapter05/sprint2/teamcolaborationsprint2rtrello.png" width=300 >
+
+Reunion por discord:
+
+<img src="assets/chapter05/sprint2/evidencia-reunion-TP.png" width=600 >
 
 # Conclusiones
 
