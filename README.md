@@ -2276,6 +2276,7 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
 
 En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
 
+
 <table  align="left" border="1" width="100%">
   <tr>
     <td colspan="1"><b>Sprint #</b></td>
@@ -2537,6 +2538,10 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
   <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
 
 </table>
+
+<td><img src="assets/insight3sprint3.png" alt="Imagen del insights" width="1500"></td>
+
+**Link del Product BackLog:** https://trello.com/b/v6yAFQ2f/renticar
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
@@ -2842,6 +2847,10 @@ Durante el desarrollo del sprint, el equipo demostró un nivel sólido de colabo
 **Insight del BackEnd**
 
 <td><img src="assets/insight2sprint3.png" alt="Imagen del insights" width="1500"></td>
+
+**Insight del Trello**
+
+<td><img src="assets/insight3sprint3.png" alt="Imagen del insights" width="1500"></td>
 
 # Conclusiones
 
