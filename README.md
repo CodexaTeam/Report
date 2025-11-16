@@ -2776,6 +2776,47 @@ Durante este sprint, se realizó el avance de la documentación de Web Services.
 </table>
 
 
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+## Creación de Cuentas y Configuración de Recursos en Proveedores de Servicios en la Nube
+
+# RailWay
+
+Para el despliegue de nuestra aplicación backend, utilizamos Railway. Railway es una plataforma moderna que permite desplegar aplicaciones de forma rápida y eficiente, facilitando la integración continua, el monitoreo del rendimiento y la gestión automática de entornos. Su simplicidad y compatibilidad con múltiples tecnologías nos permitió garantizar un proceso de despliegue estable y sin interrupciones.
+
+**Creación de cuenta en Railway:**
+Para iniciar el proceso, se creó una cuenta en Railway, lo que nos permitió acceder a su panel de control y habilitar los servicios necesarios para alojar nuestra API. Railway ofrece una interfaz intuitiva que facilita la creación y administración de proyectos en la nube.
+
+**Configuración del proyecto en Railway:**
+Dentro de Railway, se configuró un proyecto dedicado al backend de nuestra aplicación. El despliegue se realizó conectando directamente nuestro repositorio desde GitHub, permitiendo que Railway ejecutara automáticamente el proceso de construcción (build) y puesta en marcha (deploy) de la API. Asimismo, se configuraron las variables de entorno necesarias para garantizar el funcionamiento correcto del servidor, como las credenciales de la base de datos, claves JWT y configuraciones específicas del entorno de producción.
+
+Finalmente, Railway generó una URL pública desde la cual el backend quedó accesible, permitiendo la integración directa con el frontend y el uso del Swagger para la documentación interactiva de los servicios.
+
+<td><img src="assets/railway.png" alt="Imagen del deployment" width="1500"></td>
+
+# Configuración de Proyectos de Desarrollo para Integración y Automatización de Deployment
+
+Para el desarrollo y la gestión del código, utilizamos IntelliJ IDEA, que nos proporcionó un entorno de desarrollo integrado (IDE) robusto para manejar nuestro proyecto de API RESTful.
+
+**Configuración del proyecto en IntelliJ:** El proyecto se configuró en IntelliJ, incluyendo la integración con herramientas como Spring Boot y Swagger UI.
+
+**Automatización del deployment:** Se configuraron scripts y herramientas para automatizar el proceso de despliegue, permitiendo un flujo de trabajo más eficiente y menos propenso a errores.
+
+Swagger UI se utilizó para documentar y probar nuestra API, facilitando la visualización y el testing de los endpoints implementados.
+
+**Integración con Swagger UI:** Dentro del proyecto en IntelliJ, se integró Swagger UI para proporcionar una interfaz visual que permite probar los endpoints de la API de manera interactiva.
+
+<td><img src="assets/swagger1.png" alt="Imagen del deployment" width="1500"></td>
+
+Para el desarrollo de la Backend, se utilizaron las siguientes texnologías:
+
+- MySqlWorkbench: Gestión de base de datos que nos sirvió para verificar si las tablas o el funcionamiento dentro de las mismas, es la correcta.
+- Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
+- GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+
+Igualmente, para el correcto control de versiones y el adecuado desarrollo de la backend, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
+
+
 # Conclusiones
 
 
