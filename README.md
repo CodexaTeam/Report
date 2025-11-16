@@ -2258,6 +2258,272 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
     </tr>
 </table>
 
+#### 5.2.3.2. Sprint Backlog 3
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
+
+<table  align="left" border="1" width="100%">
+  <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 3</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+
+  <!-- =========================== US01 ============================ -->
+
+  <tr><td rowspan="12"><b>US01</b></td><td rowspan="12"><b>Sign Up</b></td>
+    <td>Configurar Application Properties</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear Entity User</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear ValueObject Email</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear ValueObject Password</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear DTO SignUpRequest</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command RegisterUserCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Query UserExistsQuery</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Service RegisterUserService</td><td>2</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Mapper UserMapper</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Controller SignUpController</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US02 ============================ -->
+
+  <tr><td rowspan="8"><b>US02</b></td><td rowspan="8"><b>Sign In</b></td>
+    <td>Crear DTO SignInRequest</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear DTO SignInResponse</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear AuthService</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Configurar Security Config</td><td>1.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear JWT Provider</td><td>1</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear SignInController</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US03 ============================ -->
+
+  <tr><td rowspan="6"><b>US03</b></td><td rowspan="6"><b>Get All Users</b></td>
+    <td>Crear Query GetAllUsers</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO UserResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getAllUsers</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /users</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US04 ============================ -->
+
+  <tr><td rowspan="6"><b>US04</b></td><td rowspan="6"><b>Update User</b></td>
+    <td>Crear DTO UpdateUserRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command UpdateUserCommand</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service updateUser</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PATCH /users/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US05 ============================ -->
+
+  <tr><td rowspan="6"><b>US05</b></td><td rowspan="6"><b>Change Password</b></td>
+    <td>Crear DTO ChangePasswordRequest</td><td>0.4</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear VO Password</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service changePassword</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PATCH /users/{id}/password</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US06 ============================ -->
+
+  <tr><td rowspan="6"><b>US06</b></td><td rowspan="6"><b>Delete User</b></td>
+    <td>Crear Command DeleteUserCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Service deleteUser</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Implementar DELETE /users/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Manejo de errores (User Not Found)</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US07 ============================ -->
+
+  <tr><td rowspan="8"><b>US07</b></td><td rowspan="8"><b>Create Vehicle</b></td>
+    <td>Crear Entity Vehicle</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear ValueObject PlateNumber</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear DTO CreateVehicleRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command CreateVehicleCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Service createVehicle</td><td>1.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Controller POST /vehicles</td><td>0.7</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US08 ============================ -->
+
+  <tr><td rowspan="6"><b>US08</b></td><td rowspan="6"><b>Update Vehicle</b></td>
+    <td>Crear DTO UpdateVehicleRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command UpdateVehicleCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service updateVehicle</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PUT /vehicles/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US09 ============================ -->
+
+  <tr><td rowspan="5"><b>US09</b></td><td rowspan="5"><b>Delete Vehicle</b></td>
+    <td>Crear Command DeleteVehicleCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service deleteVehicle</td><td>0.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>DELETE /vehicles/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US10 ============================ -->
+
+  <tr><td rowspan="5"><b>US10</b></td><td rowspan="5"><b>Get Vehicle By ID</b></td>
+    <td>Crear Query GetVehicleById</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO VehicleResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>GET /vehicles/{vehicleId}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US11 ============================ -->
+
+  <tr><td rowspan="6"><b>US11</b></td><td rowspan="6"><b>Get All Vehicles</b></td>
+    <td>Crear Query GetAllVehicles</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO VehicleListItem</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getAllVehicles</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /vehicles</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US12 ============================ -->
+
+  <tr><td rowspan="5"><b>US12</b></td><td rowspan="5"><b>My Listings</b></td>
+    <td>Crear Query GetMyListings</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service getMyListings</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /vehicles/my-listings</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+   <!-- =========================== US13 ============================ -->
+
+  <tr><td rowspan="9"><b>US13</b></td><td rowspan="9"><b>Create Booking</b></td>
+    <td>Crear Entity Booking</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear VO BookingDates</td><td>0.7</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear DTO CreateBookingRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command CreateBookingCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Validación de disponibilidad del vehículo</td><td>0.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Service createBooking</td><td>1.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Controller POST /bookings</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US14 ============================ -->
+
+  <tr><td rowspan="6"><b>US14</b></td><td rowspan="6"><b>My Bookings</b></td>
+    <td>Crear Query GetMyBookings</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO BookingResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getMyBookings</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /bookings/my-bookings</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US15 ============================ -->
+
+  <tr><td rowspan="6"><b>US15</b></td><td rowspan="6"><b>Cancel Booking</b></td>
+    <td>Crear Command CancelBookingCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service cancelBooking</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PUT /bookings/{id}/cancel</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Validación de estados permitidos</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US16 ============================ -->
+
+  <tr><td rowspan="6"><b>US16</b></td><td rowspan="6"><b>Confirm Booking</b></td>
+    <td>Crear Command ConfirmBookingCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service confirmBooking</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PUT /bookings/{id}/confirm</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Validación de estados permitidos</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US17 ============================ -->
+
+  <tr><td rowspan="6"><b>US17</b></td><td rowspan="6"><b>Reject Booking</b></td>
+    <td>Crear Command RejectBookingCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service rejectBooking</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PUT /bookings/{id}/reject</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Validación de estados permitidos</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US18 ============================ -->
+
+  <tr><td rowspan="5"><b>US18</b></td><td rowspan="5"><b>Get Booking By ID</b></td>
+    <td>Crear Query GetBookingById</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO BookingDetailResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>GET /bookings/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US19 ============================ -->
+
+  <tr><td rowspan="8"><b>US19</b></td><td rowspan="8"><b>Create Review</b></td>
+    <td>Crear Entity Review</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear VO Rating</td><td>0.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear DTO CreateReviewRequest</td><td>0.4</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command CreateReviewCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service createReview</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Controller POST /reviews</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US20 ============================ -->
+
+  <tr><td rowspan="6"><b>US20</b></td><td rowspan="6"><b>Vehicle Reviews</b></td>
+    <td>Crear Query GetReviewsByVehicleId</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO ReviewResponse</td><td>0.4</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getReviewsByVehicleId</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /reviews/vehicle/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US21 ============================ -->
+
+  <tr><td rowspan="6"><b>US21</b></td><td rowspan="6"><b>My Reviews</b></td>
+    <td>Crear Query GetMyReviews</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO MyReviewResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getMyReviews</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /reviews/my-reviews</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US22 ============================ -->
+
+  <tr><td rowspan="7"><b>US22</b></td><td rowspan="7"><b>Register Telemetry</b></td>
+    <td>Crear Entity Telemetry</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear DTO TelemetryRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command RegisterTelemetryCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service registerTelemetry</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>POST /telemetry</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US23 ============================ -->
+
+  <tr><td rowspan="6"><b>US23</b></td><td rowspan="6"><b>Telemetry By Vehicle</b></td>
+    <td>Crear Query GetTelemetryByVehicleId</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO TelemetryResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getTelemetryByVehicleId</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /telemetry/vehicle/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+</table>
+
 # Conclusiones
 
 
