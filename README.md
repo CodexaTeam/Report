@@ -10,7 +10,7 @@
 **Sección:** 7380
 **Profesor:** Mori Paiva, Hugo Allan
 
-<h3>INFORME DEL TB1</h3>
+<h3>INFORME DEL TB2</h3>
 
 **Startup:** InnovaSoft
 
@@ -24,7 +24,7 @@ Sagastegui Rodriguez, Luis Jesus - u202014249<br>
 Solis Campos, Estefano Sebastian - u202314354 <br>
  
 
-**Setiembre, 2024**
+**Noviembre, 2025**
 
 </div>
 
@@ -34,8 +34,9 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
 
 | Versión | Fecha      | Autor                                            | Descripción de modificación |
 |---------|------------|--------------------------------------------------|-----------------------------|
-| 1.0     | 24/04/2025 | Todos los integrantes                            | Primer sprint TB1           |
+| 1.0     | 24/08/2025 | Todos los integrantes                            | Primer sprint TB1           |
 | 2.0     | 09/10/2025 | Todos los integrantes                            | Segundo sprint TP           |
+| 3.0     | 15/11/2025 | Todos los integrantes                            | Tercer sprint TB2           |
 
 ## Project Report Collaboration Insights
 | URL de la organización del proyecto |    URL del repositorio del reporte     |
@@ -45,6 +46,10 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
 |            URL del Landing Page            |     URL del Fronted Web Application     |
 |:------------------------------------------:|:---------------------------------------:|
 | https://github.com/CodexaTeam/LandingPage  | https://github.com/CodexaTeam/Frontend  |
+
+|            URL del Back End Application    | 
+|:------------------------------------------:|
+| https://github.com/CodexaTeam/Backend.git  |
 
 ### Entrega TB1
 
@@ -61,6 +66,15 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
 | ![Captura Report](assets/chapter05/sprint2/teamcolaborationsprint2report.png) | ![Captura FrontEnd](assets/chapter05/sprint2/teamcolaborationsprint2frontend.png) |
 
 ---
+
+### Entrega TB2
+
+| Insights Report                                                               | Insights BackEnd                                                                  |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| ![Captura Report](assets/insight1sprint3.png) | ![Captura FrontEnd](assets/insight2sprint3.png) |
+
+---
+
 
 ## Contenido
 
@@ -2148,6 +2162,695 @@ Insights de TRELLO:
 Reunion por discord:
 
 <img src="assets/chapter05/sprint2/evidencia-reunion-TP.png" width=600 >
+
+### 5.2.3. Sprint 3
+
+Para este sprint, se realizará toda la configuración del Backend, configurando todo lo aprendido en clase, para la organización de este sprint, se utilizó GitHub para el manejo del proyecto, usando ramas para que cada integrante pueda subir su parte correspondiente, para luego integrarlo todo en una rama development. El objetivo de este sprint es conseguir realizar la configuración necesaria para que nuestro FrontEnd sea funcional junto con la Backend. 
+
+#### 5.2.3.1. Sprint Planning 3
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            08/11/25         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            16:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Reuniones por Discord y Universidad      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Codexa Team     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Cristhian Joel Huanca Zevallos <br/>
+            - Estefano Sebastian Solís Campos <br/>
+            - Luis Jesus Sagastegui Rodriguez <br/>
+            - Sergio Javier Landa Ortiz <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se concluyo satisfactoriamente la implementacion del front end con todos los User Stories planteados.
+            </br></br>
+            Cada integrante logro realizar su parte de manera eficaz siempre priorizando la comunicacion.  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 2</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Se mantuvo una comunicación para la repartición de las partes asignadas. Cada uno pudo entregar sus partes a tiempo, se logro completar con los objetivos previamente trazados. 
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Velocity</b>
+        </td>
+        <td>
+            82
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            82
+        </td>
+    </tr>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
+
+
+<table  align="left" border="1" width="100%">
+  <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 3</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+
+  <!-- =========================== US01 ============================ -->
+
+  <tr><td rowspan="12"><b>US01</b></td><td rowspan="12"><b>Sign Up</b></td>
+    <td>Configurar Application Properties</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear Entity User</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear ValueObject Email</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear ValueObject Password</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear DTO SignUpRequest</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command RegisterUserCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Query UserExistsQuery</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Service RegisterUserService</td><td>2</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Mapper UserMapper</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Controller SignUpController</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US02 ============================ -->
+
+  <tr><td rowspan="8"><b>US02</b></td><td rowspan="8"><b>Sign In</b></td>
+    <td>Crear DTO SignInRequest</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear DTO SignInResponse</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear AuthService</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Configurar Security Config</td><td>1.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear JWT Provider</td><td>1</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear SignInController</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US03 ============================ -->
+
+  <tr><td rowspan="6"><b>US03</b></td><td rowspan="6"><b>Get All Users</b></td>
+    <td>Crear Query GetAllUsers</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO UserResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getAllUsers</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /users</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US04 ============================ -->
+
+  <tr><td rowspan="6"><b>US04</b></td><td rowspan="6"><b>Update User</b></td>
+    <td>Crear DTO UpdateUserRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command UpdateUserCommand</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service updateUser</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PATCH /users/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US05 ============================ -->
+
+  <tr><td rowspan="6"><b>US05</b></td><td rowspan="6"><b>Change Password</b></td>
+    <td>Crear DTO ChangePasswordRequest</td><td>0.4</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear VO Password</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service changePassword</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PATCH /users/{id}/password</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US06 ============================ -->
+
+  <tr><td rowspan="6"><b>US06</b></td><td rowspan="6"><b>Delete User</b></td>
+    <td>Crear Command DeleteUserCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Service deleteUser</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Implementar DELETE /users/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Manejo de errores (User Not Found)</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US07 ============================ -->
+
+  <tr><td rowspan="8"><b>US07</b></td><td rowspan="8"><b>Create Vehicle</b></td>
+    <td>Crear Entity Vehicle</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear ValueObject PlateNumber</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear DTO CreateVehicleRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command CreateVehicleCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Service createVehicle</td><td>1.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Controller POST /vehicles</td><td>0.7</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US08 ============================ -->
+
+  <tr><td rowspan="6"><b>US08</b></td><td rowspan="6"><b>Update Vehicle</b></td>
+    <td>Crear DTO UpdateVehicleRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command UpdateVehicleCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service updateVehicle</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PUT /vehicles/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US09 ============================ -->
+
+  <tr><td rowspan="5"><b>US09</b></td><td rowspan="5"><b>Delete Vehicle</b></td>
+    <td>Crear Command DeleteVehicleCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service deleteVehicle</td><td>0.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>DELETE /vehicles/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US10 ============================ -->
+
+  <tr><td rowspan="5"><b>US10</b></td><td rowspan="5"><b>Get Vehicle By ID</b></td>
+    <td>Crear Query GetVehicleById</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO VehicleResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>GET /vehicles/{vehicleId}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US11 ============================ -->
+
+  <tr><td rowspan="6"><b>US11</b></td><td rowspan="6"><b>Get All Vehicles</b></td>
+    <td>Crear Query GetAllVehicles</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO VehicleListItem</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getAllVehicles</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /vehicles</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US12 ============================ -->
+
+  <tr><td rowspan="5"><b>US12</b></td><td rowspan="5"><b>My Listings</b></td>
+    <td>Crear Query GetMyListings</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service getMyListings</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /vehicles/my-listings</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+   <!-- =========================== US13 ============================ -->
+
+  <tr><td rowspan="9"><b>US13</b></td><td rowspan="9"><b>Create Booking</b></td>
+    <td>Crear Entity Booking</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear VO BookingDates</td><td>0.7</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear DTO CreateBookingRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command CreateBookingCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Validación de disponibilidad del vehículo</td><td>0.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Service createBooking</td><td>1.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Controller POST /bookings</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US14 ============================ -->
+
+  <tr><td rowspan="6"><b>US14</b></td><td rowspan="6"><b>My Bookings</b></td>
+    <td>Crear Query GetMyBookings</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO BookingResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getMyBookings</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /bookings/my-bookings</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US15 ============================ -->
+
+  <tr><td rowspan="6"><b>US15</b></td><td rowspan="6"><b>Cancel Booking</b></td>
+    <td>Crear Command CancelBookingCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service cancelBooking</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PUT /bookings/{id}/cancel</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Validación de estados permitidos</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US16 ============================ -->
+
+  <tr><td rowspan="6"><b>US16</b></td><td rowspan="6"><b>Confirm Booking</b></td>
+    <td>Crear Command ConfirmBookingCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service confirmBooking</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PUT /bookings/{id}/confirm</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Validación de estados permitidos</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US17 ============================ -->
+
+  <tr><td rowspan="6"><b>US17</b></td><td rowspan="6"><b>Reject Booking</b></td>
+    <td>Crear Command RejectBookingCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service rejectBooking</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PUT /bookings/{id}/reject</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Validación de estados permitidos</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US18 ============================ -->
+
+  <tr><td rowspan="5"><b>US18</b></td><td rowspan="5"><b>Get Booking By ID</b></td>
+    <td>Crear Query GetBookingById</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO BookingDetailResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>GET /bookings/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US19 ============================ -->
+
+  <tr><td rowspan="8"><b>US19</b></td><td rowspan="8"><b>Create Review</b></td>
+    <td>Crear Entity Review</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear VO Rating</td><td>0.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear DTO CreateReviewRequest</td><td>0.4</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command CreateReviewCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service createReview</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Controller POST /reviews</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US20 ============================ -->
+
+  <tr><td rowspan="6"><b>US20</b></td><td rowspan="6"><b>Vehicle Reviews</b></td>
+    <td>Crear Query GetReviewsByVehicleId</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO ReviewResponse</td><td>0.4</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getReviewsByVehicleId</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /reviews/vehicle/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US21 ============================ -->
+
+  <tr><td rowspan="6"><b>US21</b></td><td rowspan="6"><b>My Reviews</b></td>
+    <td>Crear Query GetMyReviews</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO MyReviewResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getMyReviews</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /reviews/my-reviews</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US22 ============================ -->
+
+  <tr><td rowspan="7"><b>US22</b></td><td rowspan="7"><b>Register Telemetry</b></td>
+    <td>Crear Entity Telemetry</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear DTO TelemetryRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command RegisterTelemetryCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service registerTelemetry</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>POST /telemetry</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US23 ============================ -->
+
+  <tr><td rowspan="6"><b>US23</b></td><td rowspan="6"><b>Telemetry By Vehicle</b></td>
+    <td>Crear Query GetTelemetryByVehicleId</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO TelemetryResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getTelemetryByVehicleId</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /telemetry/vehicle/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+</table>
+
+<td><img src="assets/insight3sprint3.png" alt="Imagen del insights" width="1500"></td>
+
+**Link del Product BackLog:** https://trello.com/b/v6yAFQ2f/renticar
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+En esta sección se detalla el trabajo realizado en el repositorio de GitHub correspondiente al backend del proyecto. A través de los commits, se puede observar cómo cada integrante del equipo ha contribuido al desarrollo de diversas funcionalidades y mejoras.
+
+| User Story | Responsable (Backlog) | Usuario GitHub Real | Commit Message | Hash |
+|-----------|------------------------|----------------------|----------------|------|
+| US19 – Create Review | Jesus Rodriguez | **JesusRodriguez7** | feat: added review | f1dc1c4 |
+| US19 – Create Review | Jesus Rodriguez | **JesusRodriguez7** | Merge pull request #4 from CodexaTeam/feat-review | d69f156 |
+| US20 – Vehicle Reviews | Jesus Rodriguez | **JesusRodriguez7** | Delete reviews directory | 8a5d2ca |
+| US20 – Vehicle Reviews | Jesus Rodriguez | **JesusRodriguez7** | feat: added reviews | 4ede5ca |
+| US22 – Register Telemetry (IoT) | Jesus Rodriguez | **JesusRodriguez7** | feat: added iot | 866c44bb |
+| US22 – Register Telemetry (IoT) | Jesus Rodriguez | **JesusRodriguez7** | Delete iot directory | fe0b30e |
+| US22 – Register Telemetry (IoT) | Jesus Rodriguez | **JesusRodriguez7** | Merge pull request #3 from CodexaTeam/feat-iot | 7bb46ea |
+| US13 – Create Booking | Sergio Landa | **Serkes2006** | feat adding booking bounded context | f0dcdab |
+| US13 – Create Booking | Sergio Landa | **Serkes2006** | Merge pull request #6 from CodexaTeam/feat-booking | fbf0caa |
+| US12 – Vehicle Listings | Joel Huanca | **JoelHuancaZevallos** | feat implement vehicle listing commands and queries | 11d692e |
+| US12 – Vehicle Listings | Joel Huanca | **JoelHuancaZevallos** | Merge pull request #5 from CodexaTeam/bc-listings | bc556ed |
+| US01 – Sign Up / IAM | Estefano Solís | **Estefano-Solis-C** | feat: Implementación de IAM | b019f3 |
+| US01 – Sign Up / IAM | Estefano Solís | **Estefano-Solis-C** | feat: Initial commit | 2c9b967 |
+| General Fixes | Estefano Solís | **Estefano-Solis-C** | Minor fix | 8b3b73c |
+| Reviews / IoT / Refactors | Varios | **JesusRodriguez7** | (Multiple commits relacionados) | (varios) |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+En este item, se va a presentar las interacciones con cada endpoint establecido para el proyecto.
+
+<td><img src="assets/swagger1.png" alt="Imagen del insights" width="1500"></td>
+
+<td><img src="assets/swagger2.png" alt="Imagen del insights" width="1500"></td>
+
+<td><img src="assets/swagger3.png" alt="Imagen del insights" width="1500"></td>
+
+**Link para ejecutar el Swagger:** [http://localhost:8080/swagger-ui/index.html](https://backend-production-73c6.up.railway.app/swagger-ui/index.html)
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se realizó el avance de la documentación de Web Services. Se documentaron un total de 28 endopoints utilizando Swagger OpenApi, lo que mejora la claridad y la accesibilidad de nuestra API para los desarrolladores. 
+
+<table align="left" border="1" width="100%">
+    <tr>
+        <th>Endpoint</th>
+        <th>Acción</th>
+        <th>Verbo HTTP</th>
+        <th>Sintaxis de Llamada</th>
+        <th>Parámetros</th>
+    </tr>
+    <!-- Welcome -->
+    <tr>
+        <td>/</td>
+        <td>Obtener mensaje de bienvenida</td>
+        <td>GET</td>
+        <td>/</td>
+        <td>—</td>
+    </tr>
+    <!-- USERS -->
+    <tr>
+        <td>/api/v1/users/{userId}</td>
+        <td>Eliminar usuario</td>
+        <td>DELETE</td>
+        <td>/api/v1/users/{userId}</td>
+        <td>userId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/users/{userId}</td>
+        <td>Modificar perfil de usuario</td>
+        <td>PATCH</td>
+        <td>/api/v1/users/{userId}</td>
+        <td>userId, body(profile fields)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/users/{userId}/password</td>
+        <td>Actualizar contraseña</td>
+        <td>PATCH</td>
+        <td>/api/v1/users/{userId}/password</td>
+        <td>userId, body(password)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/users</td>
+        <td>Obtener todos los usuarios</td>
+        <td>GET</td>
+        <td>/api/v1/users</td>
+        <td>—</td>
+    </tr>
+    <!-- TELEMETRY -->
+    <tr>
+        <td>/api/v1/telemetry</td>
+        <td>Registrar telemetría</td>
+        <td>POST</td>
+        <td>/api/v1/telemetry</td>
+        <td>body(telemetry data)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/telemetry/vehicle/{vehicleId}</td>
+        <td>Obtener telemetría por vehículo</td>
+        <td>GET</td>
+        <td>/api/v1/telemetry/vehicle/{vehicleId}</td>
+        <td>vehicleId</td>
+    </tr>
+    <!-- REVIEWS -->
+    <tr>
+        <td>/api/v1/reviews</td>
+        <td>Crear reseña</td>
+        <td>POST</td>
+        <td>/api/v1/reviews</td>
+        <td>body(review)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/reviews/vehicle/{vehicleId}</td>
+        <td>Obtener reseñas por vehículo</td>
+        <td>GET</td>
+        <td>/api/v1/reviews/vehicle/{vehicleId}</td>
+        <td>vehicleId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/reviews/my-reviews</td>
+        <td>Obtener mis reseñas</td>
+        <td>GET</td>
+        <td>/api/v1/reviews/my-reviews</td>
+        <td>—</td>
+    </tr>
+    <!-- BOOKINGS -->
+    <tr>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>Obtener reserva por ID</td>
+        <td>GET</td>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>Actualizar / renovar reserva</td>
+        <td>PUT</td>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>bookingId, body(update)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>Eliminar reserva</td>
+        <td>DELETE</td>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}/reject</td>
+        <td>Rechazar reserva</td>
+        <td>PUT</td>
+        <td>/api/v1/bookings/{bookingId}/reject</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}/confirm</td>
+        <td>Confirmar reserva</td>
+        <td>PUT</td>
+        <td>/api/v1/bookings/{bookingId}/confirm</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}/cancel</td>
+        <td>Cancelar reserva</td>
+        <td>PUT</td>
+        <td>/api/v1/bookings/{bookingId}/cancel</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings</td>
+        <td>Crear reserva</td>
+        <td>POST</td>
+        <td>/api/v1/bookings</td>
+        <td>body(booking)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/my-requests</td>
+        <td>Obtener solicitudes de reservas (owner)</td>
+        <td>GET</td>
+        <td>/api/v1/bookings/my-requests</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/my-bookings</td>
+        <td>Obtener reservas del renter</td>
+        <td>GET</td>
+        <td>/api/v1/bookings/my-bookings</td>
+        <td>—</td>
+    </tr>
+    <!-- AUTHENTICATION -->
+    <tr>
+        <td>/api/v1/authentication/sign-up</td>
+        <td>Registrar usuario</td>
+        <td>POST</td>
+        <td>/api/v1/authentication/sign-up</td>
+        <td>body(user)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/authentication/sign-in</td>
+        <td>Iniciar sesión</td>
+        <td>POST</td>
+        <td>/api/v1/authentication/sign-in</td>
+        <td>body(credentials)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/authentication</td>
+        <td>Verificar autenticación</td>
+        <td>GET</td>
+        <td>/api/v1/authentication</td>
+        <td>—</td>
+    </tr>
+    <!-- VEHICLES -->
+    <tr>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>Obtener vehículo por ID</td>
+        <td>GET</td>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>vehicleId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>Actualizar vehículo</td>
+        <td>PUT</td>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>vehicleId, body(vehicle)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>Eliminar vehículo</td>
+        <td>DELETE</td>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>vehicleId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles</td>
+        <td>Obtener todos los vehículos</td>
+        <td>GET</td>
+        <td>/api/v1/vehicles</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles</td>
+        <td>Crear vehículo</td>
+        <td>POST</td>
+        <td>/api/v1/vehicles</td>
+        <td>body(vehicle)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles/my-listings</td>
+        <td>Obtener vehículos del owner</td>
+        <td>GET</td>
+        <td>/api/v1/vehicles/my-listings</td>
+        <td>—</td>
+    </tr>
+</table>
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+## Creación de Cuentas y Configuración de Recursos en Proveedores de Servicios en la Nube
+
+# RailWay
+
+Para el despliegue de nuestra aplicación backend, utilizamos Railway. Railway es una plataforma moderna que permite desplegar aplicaciones de forma rápida y eficiente, facilitando la integración continua, el monitoreo del rendimiento y la gestión automática de entornos. Su simplicidad y compatibilidad con múltiples tecnologías nos permitió garantizar un proceso de despliegue estable y sin interrupciones.
+
+**Creación de cuenta en Railway:**
+Para iniciar el proceso, se creó una cuenta en Railway, lo que nos permitió acceder a su panel de control y habilitar los servicios necesarios para alojar nuestra API. Railway ofrece una interfaz intuitiva que facilita la creación y administración de proyectos en la nube.
+
+**Configuración del proyecto en Railway:**
+Dentro de Railway, se configuró un proyecto dedicado al backend de nuestra aplicación. El despliegue se realizó conectando directamente nuestro repositorio desde GitHub, permitiendo que Railway ejecutara automáticamente el proceso de construcción (build) y puesta en marcha (deploy) de la API. Asimismo, se configuraron las variables de entorno necesarias para garantizar el funcionamiento correcto del servidor, como las credenciales de la base de datos, claves JWT y configuraciones específicas del entorno de producción.
+
+Finalmente, Railway generó una URL pública desde la cual el backend quedó accesible, permitiendo la integración directa con el frontend y el uso del Swagger para la documentación interactiva de los servicios.
+
+<td><img src="assets/railway.png" alt="Imagen del deployment" width="1500"></td>
+
+# Configuración de Proyectos de Desarrollo para Integración y Automatización de Deployment
+
+Para el desarrollo y la gestión del código, utilizamos IntelliJ IDEA, que nos proporcionó un entorno de desarrollo integrado (IDE) robusto para manejar nuestro proyecto de API RESTful.
+
+**Configuración del proyecto en IntelliJ:** El proyecto se configuró en IntelliJ, incluyendo la integración con herramientas como Spring Boot y Swagger UI.
+
+**Automatización del deployment:** Se configuraron scripts y herramientas para automatizar el proceso de despliegue, permitiendo un flujo de trabajo más eficiente y menos propenso a errores.
+
+Swagger UI se utilizó para documentar y probar nuestra API, facilitando la visualización y el testing de los endpoints implementados.
+
+**Integración con Swagger UI:** Dentro del proyecto en IntelliJ, se integró Swagger UI para proporcionar una interfaz visual que permite probar los endpoints de la API de manera interactiva.
+
+<td><img src="assets/swagger1.png" alt="Imagen del deployment" width="1500"></td>
+
+Para el desarrollo de la Backend, se utilizaron las siguientes texnologías:
+
+- MySqlWorkbench: Gestión de base de datos que nos sirvió para verificar si las tablas o el funcionamiento dentro de las mismas, es la correcta.
+- Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
+- GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+
+Igualmente, para el correcto control de versiones y el adecuado desarrollo de la backend, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el desarrollo del sprint, el equipo demostró un nivel sólido de colaboración y coordinación, reflejado tanto en la distribución equilibrada de tareas como en la participación activa en los distintos flujos de trabajo. La comunicación entre los integrantes fue fluida, permitiendo resolver dependencias técnicas y alinear criterios de implementación de manera oportuna. Además, el análisis de los commits evidencia un trabajo constante y sincronizado entre los desarrolladores, destacando la integración continua y la revisión conjunta del código antes de cada fusión. Esta dinámica colaborativa permitió mantener la calidad del producto, reducir retrabajos y asegurar el cumplimiento de los objetivos del sprint de forma eficiente.
+
+**Insight del Report**
+
+<td><img src="assets/insight1sprint3.png" alt="Imagen del insights" width="1500"></td>
+
+**Insight del BackEnd**
+
+<td><img src="assets/insight2sprint3.png" alt="Imagen del insights" width="1500"></td>
+
+**Insight del Trello**
+
+<td><img src="assets/insight3sprint3.png" alt="Imagen del insights" width="1500"></td>
 
 # Conclusiones
 
