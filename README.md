@@ -2547,6 +2547,224 @@ En esta sección se detalla el trabajo realizado en el repositorio de GitHub cor
 | Reviews / IoT / Refactors | Varios | **JesusRodriguez7** | (Multiple commits relacionados) | (varios) |
 
 
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se realizó el avance de la documentación de Web Services. Se documentaron un total de 28 endopoints utilizando Swagger OpenApi, lo que mejora la claridad y la accesibilidad de nuestra API para los desarrolladores. 
+
+<table align="left" border="1" width="100%">
+    <tr>
+        <th>Endpoint</th>
+        <th>Acción</th>
+        <th>Verbo HTTP</th>
+        <th>Sintaxis de Llamada</th>
+        <th>Parámetros</th>
+    </tr>
+    <!-- Welcome -->
+    <tr>
+        <td>/</td>
+        <td>Obtener mensaje de bienvenida</td>
+        <td>GET</td>
+        <td>/</td>
+        <td>—</td>
+    </tr>
+    <!-- USERS -->
+    <tr>
+        <td>/api/v1/users/{userId}</td>
+        <td>Eliminar usuario</td>
+        <td>DELETE</td>
+        <td>/api/v1/users/{userId}</td>
+        <td>userId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/users/{userId}</td>
+        <td>Modificar perfil de usuario</td>
+        <td>PATCH</td>
+        <td>/api/v1/users/{userId}</td>
+        <td>userId, body(profile fields)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/users/{userId}/password</td>
+        <td>Actualizar contraseña</td>
+        <td>PATCH</td>
+        <td>/api/v1/users/{userId}/password</td>
+        <td>userId, body(password)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/users</td>
+        <td>Obtener todos los usuarios</td>
+        <td>GET</td>
+        <td>/api/v1/users</td>
+        <td>—</td>
+    </tr>
+    <!-- TELEMETRY -->
+    <tr>
+        <td>/api/v1/telemetry</td>
+        <td>Registrar telemetría</td>
+        <td>POST</td>
+        <td>/api/v1/telemetry</td>
+        <td>body(telemetry data)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/telemetry/vehicle/{vehicleId}</td>
+        <td>Obtener telemetría por vehículo</td>
+        <td>GET</td>
+        <td>/api/v1/telemetry/vehicle/{vehicleId}</td>
+        <td>vehicleId</td>
+    </tr>
+    <!-- REVIEWS -->
+    <tr>
+        <td>/api/v1/reviews</td>
+        <td>Crear reseña</td>
+        <td>POST</td>
+        <td>/api/v1/reviews</td>
+        <td>body(review)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/reviews/vehicle/{vehicleId}</td>
+        <td>Obtener reseñas por vehículo</td>
+        <td>GET</td>
+        <td>/api/v1/reviews/vehicle/{vehicleId}</td>
+        <td>vehicleId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/reviews/my-reviews</td>
+        <td>Obtener mis reseñas</td>
+        <td>GET</td>
+        <td>/api/v1/reviews/my-reviews</td>
+        <td>—</td>
+    </tr>
+    <!-- BOOKINGS -->
+    <tr>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>Obtener reserva por ID</td>
+        <td>GET</td>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>Actualizar / renovar reserva</td>
+        <td>PUT</td>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>bookingId, body(update)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>Eliminar reserva</td>
+        <td>DELETE</td>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}/reject</td>
+        <td>Rechazar reserva</td>
+        <td>PUT</td>
+        <td>/api/v1/bookings/{bookingId}/reject</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}/confirm</td>
+        <td>Confirmar reserva</td>
+        <td>PUT</td>
+        <td>/api/v1/bookings/{bookingId}/confirm</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}/cancel</td>
+        <td>Cancelar reserva</td>
+        <td>PUT</td>
+        <td>/api/v1/bookings/{bookingId}/cancel</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings</td>
+        <td>Crear reserva</td>
+        <td>POST</td>
+        <td>/api/v1/bookings</td>
+        <td>body(booking)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/my-requests</td>
+        <td>Obtener solicitudes de reservas (owner)</td>
+        <td>GET</td>
+        <td>/api/v1/bookings/my-requests</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/my-bookings</td>
+        <td>Obtener reservas del renter</td>
+        <td>GET</td>
+        <td>/api/v1/bookings/my-bookings</td>
+        <td>—</td>
+    </tr>
+    <!-- AUTHENTICATION -->
+    <tr>
+        <td>/api/v1/authentication/sign-up</td>
+        <td>Registrar usuario</td>
+        <td>POST</td>
+        <td>/api/v1/authentication/sign-up</td>
+        <td>body(user)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/authentication/sign-in</td>
+        <td>Iniciar sesión</td>
+        <td>POST</td>
+        <td>/api/v1/authentication/sign-in</td>
+        <td>body(credentials)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/authentication</td>
+        <td>Verificar autenticación</td>
+        <td>GET</td>
+        <td>/api/v1/authentication</td>
+        <td>—</td>
+    </tr>
+    <!-- VEHICLES -->
+    <tr>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>Obtener vehículo por ID</td>
+        <td>GET</td>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>vehicleId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>Actualizar vehículo</td>
+        <td>PUT</td>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>vehicleId, body(vehicle)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>Eliminar vehículo</td>
+        <td>DELETE</td>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>vehicleId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles</td>
+        <td>Obtener todos los vehículos</td>
+        <td>GET</td>
+        <td>/api/v1/vehicles</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles</td>
+        <td>Crear vehículo</td>
+        <td>POST</td>
+        <td>/api/v1/vehicles</td>
+        <td>body(vehicle)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles/my-listings</td>
+        <td>Obtener vehículos del owner</td>
+        <td>GET</td>
+        <td>/api/v1/vehicles/my-listings</td>
+        <td>—</td>
+    </tr>
+</table>
+
+
 # Conclusiones
 
 
