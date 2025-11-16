@@ -2817,6 +2817,18 @@ Para el desarrollo de la Backend, se utilizaron las siguientes texnologías:
 Igualmente, para el correcto control de versiones y el adecuado desarrollo de la backend, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
 
 
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el desarrollo del sprint, el equipo demostró un nivel sólido de colaboración y coordinación, reflejado tanto en la distribución equilibrada de tareas como en la participación activa en los distintos flujos de trabajo. La comunicación entre los integrantes fue fluida, permitiendo resolver dependencias técnicas y alinear criterios de implementación de manera oportuna. Además, el análisis de los commits evidencia un trabajo constante y sincronizado entre los desarrolladores, destacando la integración continua y la revisión conjunta del código antes de cada fusión. Esta dinámica colaborativa permitió mantener la calidad del producto, reducir retrabajos y asegurar el cumplimiento de los objetivos del sprint de forma eficiente.
+
+**Insight del Report**
+
+<td><img src="assets/insight1sprint3.png" alt="Imagen del insights" width="1500"></td>
+
+**Insight del BackEnd**
+
+<td><img src="assets/insight2sprint3.png" alt="Imagen del insights" width="1500"></td>
+
 # Conclusiones
 
 
