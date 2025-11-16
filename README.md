@@ -2546,6 +2546,17 @@ En esta sección se detalla el trabajo realizado en el repositorio de GitHub cor
 | General Fixes | Estefano Solís | **Estefano-Solis-C** | Minor fix | 8b3b73c |
 | Reviews / IoT / Refactors | Varios | **JesusRodriguez7** | (Multiple commits relacionados) | (varios) |
 
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+En este item, se va a presentar las interacciones con cada endpoint establecido para el proyecto.
+
+<td><img src="assets/swagger1.png" alt="Imagen del insights" width="1500"></td>
+
+<td><img src="assets/swagger2.png" alt="Imagen del insights" width="1500"></td>
+
+<td><img src="Images/swagger3.png" alt="Imagen del insights" width="1500"></td>
+
+**Link para ejecutar el Swagger:** [http://localhost:8080/swagger-ui/index.html](https://backend-production-73c6.up.railway.app/swagger-ui/index.html)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
