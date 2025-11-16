@@ -10,7 +10,7 @@
 **Sección:** 7380
 **Profesor:** Mori Paiva, Hugo Allan
 
-<h3>INFORME DEL TB1</h3>
+<h3>INFORME DEL TB2</h3>
 
 **Startup:** InnovaSoft
 
@@ -24,7 +24,7 @@ Sagastegui Rodriguez, Luis Jesus - u202014249<br>
 Solis Campos, Estefano Sebastian - u202314354 <br>
  
 
-**Setiembre, 2024**
+**Noviembre, 2025**
 
 </div>
 
@@ -34,8 +34,9 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
 
 | Versión | Fecha      | Autor                                            | Descripción de modificación |
 |---------|------------|--------------------------------------------------|-----------------------------|
-| 1.0     | 24/04/2025 | Todos los integrantes                            | Primer sprint TB1           |
+| 1.0     | 24/08/2025 | Todos los integrantes                            | Primer sprint TB1           |
 | 2.0     | 09/10/2025 | Todos los integrantes                            | Segundo sprint TP           |
+| 3.0     | 15/11/2025 | Todos los integrantes                            | Tercer sprint TB2           |
 
 ## Project Report Collaboration Insights
 | URL de la organización del proyecto |    URL del repositorio del reporte     |
@@ -45,6 +46,10 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
 |            URL del Landing Page            |     URL del Fronted Web Application     |
 |:------------------------------------------:|:---------------------------------------:|
 | https://github.com/CodexaTeam/LandingPage  | https://github.com/CodexaTeam/Frontend  |
+
+|            URL del Back End Application    | 
+|:------------------------------------------:|
+| https://github.com/CodexaTeam/Backend.git  |
 
 ### Entrega TB1
 
@@ -61,6 +66,15 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
 | ![Captura Report](assets/chapter05/sprint2/teamcolaborationsprint2report.png) | ![Captura FrontEnd](assets/chapter05/sprint2/teamcolaborationsprint2frontend.png) |
 
 ---
+
+### Entrega TB2
+
+| Insights Report                                                               | Insights BackEnd                                                                  |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| ![Captura Report](assets/insight1sprint3.png) | ![Captura FrontEnd](assets/insight2sprint3.png) |
+
+---
+
 
 ## Contenido
 
