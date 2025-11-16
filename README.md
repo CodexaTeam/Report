@@ -2554,7 +2554,7 @@ En este item, se va a presentar las interacciones con cada endpoint establecido 
 
 <td><img src="assets/swagger2.png" alt="Imagen del insights" width="1500"></td>
 
-<td><img src="Images/swagger3.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="assets/swagger3.png" alt="Imagen del insights" width="1500"></td>
 
 **Link para ejecutar el Swagger:** [http://localhost:8080/swagger-ui/index.html](https://backend-production-73c6.up.railway.app/swagger-ui/index.html)
 
