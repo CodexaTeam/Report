@@ -2894,4 +2894,6 @@ aplicado en entornos reales de desarrollo de software.
 - Link del repositorio de Frontend: https://github.com/CodexaTeam/Frontend
 - Link del Frontend desplegada: https://renticar-frontend.netlify.app/
 - Link del trello: https://trello.com/b/v6yAFQ2f/renticar
+- Link del repositorio de BackEnd: https://github.com/CodexaTeam/Backend.git
+- Link del Backend desplegado: https://backend-production-73c6.up.railway.app/swagger-ui/index.html
 
