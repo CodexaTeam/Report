@@ -2524,6 +2524,29 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
 
 </table>
 
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+En esta sección se detalla el trabajo realizado en el repositorio de GitHub correspondiente al backend del proyecto. A través de los commits, se puede observar cómo cada integrante del equipo ha contribuido al desarrollo de diversas funcionalidades y mejoras.
+
+| User Story | Responsable (Backlog) | Usuario GitHub Real | Commit Message | Hash |
+|-----------|------------------------|----------------------|----------------|------|
+| US19 – Create Review | Jesus Rodriguez | **JesusRodriguez7** | feat: added review | f1dc1c4 |
+| US19 – Create Review | Jesus Rodriguez | **JesusRodriguez7** | Merge pull request #4 from CodexaTeam/feat-review | d69f156 |
+| US20 – Vehicle Reviews | Jesus Rodriguez | **JesusRodriguez7** | Delete reviews directory | 8a5d2ca |
+| US20 – Vehicle Reviews | Jesus Rodriguez | **JesusRodriguez7** | feat: added reviews | 4ede5ca |
+| US22 – Register Telemetry (IoT) | Jesus Rodriguez | **JesusRodriguez7** | feat: added iot | 866c44bb |
+| US22 – Register Telemetry (IoT) | Jesus Rodriguez | **JesusRodriguez7** | Delete iot directory | fe0b30e |
+| US22 – Register Telemetry (IoT) | Jesus Rodriguez | **JesusRodriguez7** | Merge pull request #3 from CodexaTeam/feat-iot | 7bb46ea |
+| US13 – Create Booking | Sergio Landa | **Serkes2006** | feat adding booking bounded context | f0dcdab |
+| US13 – Create Booking | Sergio Landa | **Serkes2006** | Merge pull request #6 from CodexaTeam/feat-booking | fbf0caa |
+| US12 – Vehicle Listings | Joel Huanca | **JoelHuancaZevallos** | feat implement vehicle listing commands and queries | 11d692e |
+| US12 – Vehicle Listings | Joel Huanca | **JoelHuancaZevallos** | Merge pull request #5 from CodexaTeam/bc-listings | bc556ed |
+| US01 – Sign Up / IAM | Estefano Solís | **Estefano-Solis-C** | feat: Implementación de IAM | b019f3 |
+| US01 – Sign Up / IAM | Estefano Solís | **Estefano-Solis-C** | feat: Initial commit | 2c9b967 |
+| General Fixes | Estefano Solís | **Estefano-Solis-C** | Minor fix | 8b3b73c |
+| Reviews / IoT / Refactors | Varios | **JesusRodriguez7** | (Multiple commits relacionados) | (varios) |
+
+
 # Conclusiones
 
 
