@@ -189,41 +189,42 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 del ABET – EAC - Student Outcome 3.
 
 <table>
-  <tr>
-    <th>Criterio específico</th>
-    <th>Acciones realizadas</th>
-    <th>Conclusiones</th>
-  </tr>
-  <tr>
-    <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
-    <td> <b>Huanca Zevallos, Cristhian Joel</b> <br> - TB1: Presentación de los antecedentes y la problemática del proyecto; 
-    explicación del modelo de base de datos y sus relaciones; sustentación de las guías de estilo en el equipo.
-    <br> - TP: Presenté los avances del proyecto y expliqué las funcionalidades del frontend al equipo durante las reuniones de coordinación. 
-     <br> - TB2: Comunicacion grupal para poder desarrollar el bc Listings respecto al db <br><br>
-    <b>Sagastegui Rodriguez, Luis Jesus</b> <br> - TB1: Realizacion y busqueda de competidores. Presentacion de los MockUps 
-    y Wireframes de la landing page, codificacion parcial de la landing page e identificacion de User Stories. <br> - TP: Me comunique de manera efectiva mis avances del proyecto con mis compañeros de grupo, siempre haciendoles 
-saber mis dificultades antes cualquier duda o contratiempo. <br> - TB2: Comunicacion grupal y dar ideas respecto a los User Stories trazados para el backend <br><br>
-    <b>Solis Campos, Estefano Sebastian</b> <br> - TB1: Exposición y sustentación del Capítulo 4, explicando verbalmente el marco metodológico y la arquitectura de software propuesta al equipo. <br> - TP1: Presentación al equipo de la arquitectura base del frontend, detallando la estructura de componentes y el sistema de navegación.
-    </td>
-    <td>Se logró transmitir de manera clara los elementos técnicos y de diseño a diferentes audiencias, 
-    adaptando el discurso tanto a compañeros como a docentes, lo que permitió una comprensión efectiva del proyecto.
-    </td>
-
-  </tr>
-  <tr>
-    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
-    <td><b>Huanca Zevallos, Cristhian Joel</b> <br> - TB1: Redacción de los antecedentes y problemática; elaboración de las 
-    guías de estilo; desarrollo del diagrama de base de datos; redacción de las conclusiones del informe. 
-    <br> - TP: Elaboré el informe del Sprint 2, documenté las tareas en Trello y desarrollé el módulo de listado de publicaciones en Angular. 
-    <br> - TB2: Evidencio en el reporte de manera escrita todos los commits de Listings <br><br>
-    <b>Sagastegui Rodriguez, Luis Jesus</b> <br> - TB1: Desarrollo parcial del frontend con el capitulo 5, teniendo en cuenta la metodologia previamente aprendida <br> - TP1: Codificacion parcial del frontend, documentando debidamente cada avance realizado en el Sprint <br> - TB2: Desarrollo parcial de endpoints con su documentacion en el Sprint, considerando los User Stories previamente trazados <br><br>
-    <b>Solis Campos, Estefano Sebastian</b> <br> - TB1: Redacción y desarrollo integral del Capítulo 4, definiendo por escrito el marco metodológico y la arquitectura del software. <br> - TP1: Codificación e implementación de la estructura inicial del frontend, documentando a través del código la base de componentes, vistas y el sistema de enrutamiento.   
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
+    <td>
+      <b>Huanca Zevallos, Cristhian Joel</b> <br> - TB1: Presentación de los antecedentes y la problemática del proyecto;
+      explicación del modelo de base de datos y sus relaciones; sustentación de las guías de estilo en el equipo.
+      <br> - TP: Presenté los avances del proyecto y expliqué las funcionalidades del frontend al equipo durante las reuniones de coordinación. <br><br>
+      <b>Sagastegui Rodriguez, Luis Jesus</b> <br> - TB1: Realizacion y busqueda de competidores. Presentacion de los MockUps
+      y Wireframes de la landing page, codificacion parcial de la landing page e identificacion de User Stories. <br> - TP: Me comunique de manera efectiva mis avances del proyecto con mis compañeros de grupo, siempre haciendoles
+      saber mis dificultades antes cualquier duda o contratiempo. <br> - TB2: Comunicacion grupal y dar ideas respecto a los User Stories trazados para el backend <br><br>
+      <b>Solis Campos, Estefano Sebastian</b> <br> - TB1: Exposición y sustentación del Capítulo 4, explicando verbalmente el marco metodológico y la arquitectura de software propuesta al equipo. <br> - TP1: Presentación al equipo de la arquitectura base del frontend, detallando la estructura de componentes y el sistema de navegación.
+      <br> - TB2: Coordinación y sustentación oral de la implementación del módulo de autenticación (IAM) y la estrategia de integración (merge) del backend. <br><br>
+      <b>Sergio Javier Landa Ortiz</b> <br> - TB1: Exposición y sustentación del Capítulo 3 (Definición del Producto), explicando verbalmente las técnicas de análisis de requisitos, como User Personas e Impact Mapping. <br> - TP1: Presentación al equipo de la arquitectura base del backend, detallando el diseño de la API REST y la configuración inicial de la base de datos. <br> - TB2: Presentación y coordinación de los avances del módulo de reservas (Booking) y colaboración en la unificación del código (merge) con el equipo.
     </td>
+    <td>Se logró transmitir de manera clara los elementos técnicos y de diseño a diferentes audiencias,
+      adaptando el discurso tanto a compañeros como a docentes, lo que permitió una comprensión efectiva del proyecto.
     </td>
-    <td>Se consolidó una comunicación escrita clara y estructurada, ajustada a los estándares académicos y al 
-    Statement, lo que facilitó la presentación del proyecto y aseguró la coherencia del documento final.</td>
-  </tr>
-
+  </tr>
+  <tr>
+    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
+    <td>
+      <b>Huanca Zevallos, Cristhian Joel</b> <br> - TB1: Redacción de los antecedentes y problemática; elaboración de las
+      guías de estilo; desarrollo del diagrama de base de datos; redacción de las conclusiones del informe.
+      <br> - TP: Elaboré el informe del Sprint 2, documenté las tareas en Trello y desarrollé el módulo de listado de publicaciones en Angular. <br><br>
+      <b>Sagastegui Rodriguez, Luis Jesus</b> <br> - TB1: Desarrollo parcial del frontend con el capitulo 5, teniendo en cuenta la metodologia previamente aprendida <br> - TP1: Codificacion parcial del frontend, documentando debidamente cada avance realizado en el Sprint <br> - TB2: Desarrollo parcial de endpoints con su documentacion en el Sprint, considerando los User Stories previamente trazados <br><br>
+      <b>Solis Campos, Estefano Sebastian</b> <br> - TB1: Redacción y desarrollo integral del Capítulo 4, definiendo por escrito el marco metodológico y la arquitectura del software. <br> - TP1: Codificación e implementación de la estructura inicial del frontend, documentando a través del código la base de componentes, vistas y el sistema de enrutamiento.
+      <br> - TB2: Implementación y documentación del módulo de autenticación (IAM). Gestión del merge de las ramas del backend y aporte en la redacción del informe. <br><br>
+      <b>Sergio Javier Landa Ortiz</b> <br> - TB1: Redacción y desarrollo del Capítulo 3 (Definición del Producto), documentando por escrito los perfiles de usuario y las especificaciones de requisitos. <br> - TP1: Codificación e implementación de la estructura inicial del backend (API REST), documentando la configuración del proyecto y los endpoints base. <br> - TB2: Desarrollo e implementación del módulo de reservas (Booking). Colaboración en la gestión de commits para el merge del backend y aporte en la redacción del informe.
+    </td>
+    <td>Se consolidó una comunicación escrita clara y estructurada, ajustada a los estándares académicos y al
+      Statement, lo que facilitó la presentación del proyecto y aseguró la coherencia del documento final.</td>
+  </tr>
 </table>
 
 ---
