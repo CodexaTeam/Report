@@ -37,21 +37,35 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
 | 1.0     | 24/08/2025 | Todos los integrantes                            | Primer sprint TB1           |
 | 2.0     | 09/10/2025 | Todos los integrantes                            | Segundo sprint TP           |
 | 3.0     | 15/11/2025 | Todos los integrantes                            | Tercer sprint TB2           |
+| 4.0     | 03/12/2025 | Todos los integrantes                            | Trabajo Final               |
+---
 
 ## Project Report Collaboration Insights
-| URL de la organización del proyecto |    URL del repositorio del reporte     |
-|:-----------------------------------:|:--------------------------------------:|
-|  https://github.com/CodexaTeam      | https://github.com/CodexaTeam/Report   |
 
-|            URL del Landing Page            |     URL del Fronted Web Application     |
-|:------------------------------------------:|:---------------------------------------:|
-| https://github.com/CodexaTeam/LandingPage  | https://github.com/CodexaTeam/Frontend  |
 
-|            URL del Back End Application    | 
-|:------------------------------------------:|
-| https://github.com/CodexaTeam/Backend.git  |
+A lo largo del desarrollo de este proyecto, se ha trabajado de manera colaborativa utilizando herramientas clave que han facilitado la organización, la gestión de tareas y el seguimiento del progreso. El trabajo se ha realizado principalmente en **GitHub**, donde hemos almacenado y compartido los **repositorios** del proyecto, permitiendo que todos los miembros del equipo contribuyeran de manera organizada y eficiente. Además, se ha utilizado **Trello** para gestionar las tareas y mantener el flujo de trabajo coordinado entre todos los colaboradores.
+
+GitHub ha sido nuestra plataforma principal de colaboración, y aquí se encuentran los enlaces a los repositorios donde se ha trabajado en cada fase del proyecto. Cada entrega, desde la **TB1**, el **trabajo parcial**, la **TB2**, hasta el **TF**, se ha registrado en estos repositorios, y cada una contiene los **insights** generados a medida que el proyecto avanzaba.
+
+A continuación, se presentan los enlaces a los repositorios de GitHub donde se ha trabajado y donde se encuentran los **reportes de Insights** correspondientes a cada entrega. Estos informes reflejan el progreso del equipo en cada fase del proyecto y contienen las imágenes de los **Insights** obtenidos a través de nuestras colaboraciones en GitHub.
+
+|                    URL de la organización del proyecto                    |                     URL del repositorio del reporte                      |
+|:-------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
+| [Link del Repositorio de la Organizacion](https://github.com/CodexaTeam ) | [Link del Repositorio del reporte](https://github.com/CodexaTeam/Report) |
+
+|                                URL del Landing Page                                |                      URL del Fronted Web Application                       |
+|:----------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
+| [Link del Repositorio del Landing Page](https://github.com/CodexaTeam/LandingPage) | [Link del Repositorio del Fronted](https://github.com/CodexaTeam/Frontend) |
+
+|                         URL del Back End Application                          |                URL del TRELLO del projecto                | 
+|:-----------------------------------------------------------------------------:|:---------------------------------------------------------:|
+| [Link del Repositorio del Backend](https://github.com/CodexaTeam/Backend.git) | [Link del Trello](https://trello.com/b/v6yAFQ2f/renticar) |
+---
 
 ### Entrega TB1
+
+En la **primera entrega (TB1)**, el equipo trabajó principalmente en dos elementos clave: el **report** y el **Landing Page**.
+
 
 | Insights Report                                                               | Insights Landing Page                                                                        |
 |-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
@@ -61,6 +75,9 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
 
 ### Entrega TP
 
+En esta fase intermedia del proyecto, el equipo hizo mejoras significativas tanto en el **report** como en el desarrollo del **frontend**.
+
+
 | Insights Report                                                               | Insights FrontEnd                                                                 |
 |-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | ![Captura Report](assets/chapter05/sprint2/teamcolaborationsprint2report.png) | ![Captura FrontEnd](assets/chapter05/sprint2/teamcolaborationsprint2frontend.png) |
@@ -69,9 +86,23 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
 
 ### Entrega TB2
 
-| Insights Report                                                               | Insights BackEnd                                                                  |
-|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+En esta entrega, el enfoque principal fue completar el desarrollo del **backend** y seguir trabajando en la mejora del **report**.
+
+
+| Insights Report                                                               | Insights BackEnd                                |
+|-------------------------------------------------------------------------------|-------------------------------------------------|
 | ![Captura Report](assets/insight1sprint3.png) | ![Captura FrontEnd](assets/insight2sprint3.png) |
+
+---
+
+### Entrega TF
+
+En la entrega final (TF), se entregó el producto completo, integrando todas las partes desarrolladas a lo largo del proyecto.
+
+
+| Insights Report                                                               | Insights FrontEnd                                | Insights BackEnd                                |
+|-------------------------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| ![Captura Report](assets/insight1sprint3.png) | ![Captura FrontEnd](assets/chapter05/sprint2/teamcolaborationsprint2frontend.png) | ![Captura FrontEnd](assets/insight2sprint3.png) |
 
 ---
 
@@ -172,8 +203,32 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
           - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
           - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
           - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.3. Sprint 3](#523-sprint-3)
+          - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+          - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+          - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+          - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+          - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+          - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+          - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+          - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+        - [5.2.4. Sprint 4](#524-sprint-4)
+          - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+          - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+          - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+          - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+          - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+          - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+          - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+          - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+        - [5.3.1. Diseño de entrevistas de validación](#531-diseño-de-entrevistas-de-validación)
+        - [5.3.2. Registro de entrevistas de validación](#532-registro-de-entrevistas-de-validación)
+        - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 - [Conclusiones](#conclusiones)
+- [Recomendaciones](#recomendaciones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -199,7 +254,9 @@ del ABET – EAC - Student Outcome 3.
     <td>
       <b>Huanca Zevallos, Cristhian Joel</b> <br> - TB1: Presentación de los antecedentes y la problemática del proyecto;
       explicación del modelo de base de datos y sus relaciones; sustentación de las guías de estilo en el equipo.
-      <br> - TP: Presenté los avances del proyecto y expliqué las funcionalidades del frontend al equipo durante las reuniones de coordinación. <br><br>
+        <br> - TP: Presenté los avances del proyecto y expliqué las funcionalidades del frontend al equipo durante las reuniones de coordinación.
+        <br> - TB2: Colabore con los apartados de listing en reuniones con mis compañeros y grabacion de exposicion.
+        <br> - TF: Organize la distribucion de tareas mediante reuniones para informar a todos los mienbros del equipo. <br><br>
       <b>Sagastegui Rodriguez, Luis Jesus</b> <br> - TB1: Realizacion y busqueda de competidores. Presentacion de los MockUps
       y Wireframes de la landing page, codificacion parcial de la landing page e identificacion de User Stories. <br> - TP: Me comunique de manera efectiva mis avances del proyecto con mis compañeros de grupo, siempre haciendoles
       saber mis dificultades antes cualquier duda o contratiempo. <br> - TB2: Comunicacion grupal y dar ideas respecto a los User Stories trazados para el backend <br><br>
@@ -216,7 +273,9 @@ del ABET – EAC - Student Outcome 3.
     <td>
       <b>Huanca Zevallos, Cristhian Joel</b> <br> - TB1: Redacción de los antecedentes y problemática; elaboración de las
       guías de estilo; desarrollo del diagrama de base de datos; redacción de las conclusiones del informe.
-      <br> - TP: Elaboré el informe del Sprint 2, documenté las tareas en Trello y desarrollé el módulo de listado de publicaciones en Angular. <br><br>
+        <br> - TP: Elaboré el informe del Sprint 2, documenté las tareas en Trello y desarrollé el módulo de listado de publicaciones en Angular. 
+        <br> - TB2: Organize mediante el trello y mensajes por escrito sobre mi avance en el BC listing.
+        <br> - TF: Delegue als diferentes tareas al equipo de desarrollo mediante trello para tener un mayor control del tiempo. <br><br>
       <b>Sagastegui Rodriguez, Luis Jesus</b> <br> - TB1: Desarrollo parcial del frontend con el capitulo 5, teniendo en cuenta la metodologia previamente aprendida <br> - TP1: Codificacion parcial del frontend, documentando debidamente cada avance realizado en el Sprint <br> - TB2: Desarrollo parcial de endpoints con su documentacion en el Sprint, considerando los User Stories previamente trazados <br><br>
       <b>Solis Campos, Estefano Sebastian</b> <br> - TB1: Redacción y desarrollo integral del Capítulo 4, definiendo por escrito el marco metodológico y la arquitectura del software. <br> - TP1: Codificación e implementación de la estructura inicial del frontend, documentando a través del código la base de componentes, vistas y el sistema de enrutamiento.
       <br> - TB2: Implementación y documentación del módulo de autenticación (IAM). Gestión del merge de las ramas del backend y aporte en la redacción del informe. <br><br>
@@ -453,11 +512,11 @@ Personas que necesitan un vehículo de manera temporal que tengan edad entre 25 
 
 ## 2.1. Competidores
 
-| Nombre del Competidor | Descripción |
-| :-------------------: | :---------- |
-| Peru Rent a Car <img src="./assets/PeruRentCar.jpg" alt="PeruRentCar" width="600"> https://www.perurentacar.com/ | Life Alert es una de las marcas más reconocidas en sistemas de alerta médica, famosa por su eslogan “¡He caído y no puedo levantarme!”. Ofrece sistemas de emergencia diseñados para ayudar a personas mayores a solicitar asistencia rápidamente. Su principal dispositivo es un botón de emergencia que puede usarse en el hogar o fuera de él, enviando alertas a un centro de monitoreo disponible las 24 horas del día. |
-| Clase A Rent a Car <img src="./assets/ClaseARentCar.png" alt="ClaseARentCar" width="600"> https://www.alquilerautoslima.net/  | MobileHelp es un proveedor líder de sistemas de alerta médica que ofrece dispositivos portátiles y basados en el hogar para personas mayores. Sus dispositivos están diseñados para alertar a los servicios de emergencia en caso de una caída u otro incidente. Además de las soluciones de emergencia en el hogar, MobileHelp destaca por su cobertura fuera de casa gracias a su integración con redes móviles, lo que ofrece a los usuarios mayor independencia y movilidad. |
-| Rento <img src="./assets/RentoRent.jpg" alt="RentoRent" width="600"> https://rento.pe/  | CarePredict es una empresa tecnológica que se enfoca en el monitoreo preventivo para adultos mayores. Utiliza dispositivos portátiles equipados con sensores para rastrear patrones de comportamiento y signos vitales. A través de la inteligencia artificial, CarePredict predice posibles problemas de salud antes de que ocurran, como caídas o infecciones, y permite la intervención proactiva de cuidadores y familiares. |
+|                                                        Nombre del Competidor                                                         | Descripción |
+|:------------------------------------------------------------------------------------------------------------------------------------:| :---------- |
+|       Peru Rent a Car <img src="./assets/PeruRentCar.jpg" alt="PeruRentCar" width="600"> [Link](https://www.perurentacar.com/)       | Life Alert es una de las marcas más reconocidas en sistemas de alerta médica, famosa por su eslogan “¡He caído y no puedo levantarme!”. Ofrece sistemas de emergencia diseñados para ayudar a personas mayores a solicitar asistencia rápidamente. Su principal dispositivo es un botón de emergencia que puede usarse en el hogar o fuera de él, enviando alertas a un centro de monitoreo disponible las 24 horas del día. |
+| Clase A Rent a Car <img src="./assets/ClaseARentCar.png" alt="ClaseARentCar" width="600"> [Link](https://www.alquilerautoslima.net/) | MobileHelp es un proveedor líder de sistemas de alerta médica que ofrece dispositivos portátiles y basados en el hogar para personas mayores. Sus dispositivos están diseñados para alertar a los servicios de emergencia en caso de una caída u otro incidente. Además de las soluciones de emergencia en el hogar, MobileHelp destaca por su cobertura fuera de casa gracias a su integración con redes móviles, lo que ofrece a los usuarios mayor independencia y movilidad. |
+|                    Rento <img src="./assets/RentoRent.jpg" alt="RentoRent" width="600"> [Link](https://rento.pe/)                    | CarePredict es una empresa tecnológica que se enfoca en el monitoreo preventivo para adultos mayores. Utiliza dispositivos portátiles equipados con sensores para rastrear patrones de comportamiento y signos vitales. A través de la inteligencia artificial, CarePredict predice posibles problemas de salud antes de que ocurran, como caídas o infecciones, y permite la intervención proactiva de cuidadores y familiares. |
 
 
 ### 2.1.1. Análisis competitivo
@@ -1956,7 +2015,7 @@ Para la implementación del **Front-End**, correspondiente al desarrollo de las 
 | **Deployment y Versionado**          | Sergio Landa     | Jesus Sagastegui               | Configuración del entorno de producción, despliegue en Vercel y GitHub Pages. Control de versiones, ramas y revisiones de código en GitHub.                            |
 | **Documentación Técnica & Reportes** | Cristhian Huanca | Cristhian Huanca               | Redacción del informe de Sprint 2, evidencias técnicas, guía de instalación, convenciones de Angular y documentación del código y componentes desarrollados.           |
 
-#### 5.2.2.3. Sprint Backlog 2 
+#### 5.2.2.3. Sprint Backlog 2
 
 | Orden | User Story ID | Título                        | **Tareas técnicas (Sprint 2)**                                       | Story Points |
 |-------|---------------|-------------------------------|----------------------------------------------------------------------|--------------|
@@ -2276,7 +2335,20 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
     </tr>
 </table>
 
-#### 5.2.3.2. Sprint Backlog 3
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+Para la implementación del **Back-End**, correspondiente al desarrollo de las **User Stories del sprint**, se asignaron los siguientes responsables por aspecto, con el fin de asegurar una distribución equitativa de tareas, colaboración efectiva y cumplimiento de objetivos del sprint.
+
+| **Aspecto**                          | **Líder**        | **Colaboradores**              | **Responsabilidades**                                                                                                                                                  |
+|--------------------------------------|------------------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Back-End**                         | Jesus Sagastegui | Todos los integrantes          | Implementación de componentes, rutas, servicios y lógica de negocio en Angular. Integración del sistema de reservas, publicaciones, autenticación y perfil de usuario. |
+| **Diseño**                           | Cristhian Huanca | Sergio Landa                   | Diseño de vistas y mejora de experiencia de usuario. Definición de estructura visual coherente, colores, tipografía y responsividad.                                   |
+| **Integración y Testing**            | Sebastian Solis  | Jesus Sagastegui, Sergio Landa | Pruebas unitarias y de integración en componentes. Validación del flujo de usuario, revisión de errores y control de calidad de las funcionalidades implementadas.     |
+| **Deployment y Versionado**          | Sergio Landa     | Jesus Sagastegui               | Configuración del entorno de producción, despliegue . Control de versiones, ramas y revisiones de código en GitHub.                                                    |
+| **Documentación Técnica & Reportes** | Cristhian Huanca | Cristhian Huanca               | Redacción del informe de Sprint 3, evidencias técnicas, guía de instalación, convenciones de Angular y documentación del código y componentes desarrollados.           |
+
+
+#### 5.2.3.3. Sprint Backlog 3
 
 En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
 
@@ -2547,7 +2619,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
 
 **Link del Product BackLog:** https://trello.com/b/v6yAFQ2f/renticar
 
-#### 5.2.3.3. Development Evidence for Sprint Review
+#### 5.2.3.4. Development Evidence for Sprint Review
 
 En esta sección se detalla el trabajo realizado en el repositorio de GitHub correspondiente al backend del proyecto. A través de los commits, se puede observar cómo cada integrante del equipo ha contribuido al desarrollo de diversas funcionalidades y mejoras.
 
@@ -2856,6 +2928,172 @@ Durante el desarrollo del sprint, el equipo demostró un nivel sólido de colabo
 
 <td><img src="assets/insight3sprint3.png" alt="Imagen del insights" width="1500"></td>
 
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+#### 5.2.4.2. Aspect Leaders and Collaborators
+#### 5.2.4.3. Sprint Backlog 4
+#### 5.2.4.4. Development Evidence for Sprint Review
+#### 5.2.4.5. Execution Evidence for Sprint Review
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de entrevistas de validación
+### 5.3.2. Registro de entrevistas de validación
+### 5.3.3. Evaluaciones según heurísticas
+
+#### Evaluación de Heurísticas y Principios de UX
+
+**Curso:** 1ASI0729 - Desarrollo de Aplicaciones Open Source  
+**Profesorado:** Bautista Ubillús, Efraín Ricardo; Castro Veramendi, Rafael Oswaldo; Espinoza Bravo, Wilder Julio; Flores Moroco, Juan Antonio; Mori Paiva, Hugo Allan; Robles Fernández, Iván; Velásquez Núñez, Ángel Augusto  
+**Cliente:** RentiCar
+
+##### **Tareas Evaluadas:**
+
+Esta evaluación se enfoca en la usabilidad y experiencia de usuario de las siguientes tareas en la aplicación:
+
+###### **Landing Page (Desktop)**
+- Presentación general de la plataforma y sus funcionalidades.
+- Descripción del equipo de trabajo.
+- Funcionalidad de los elementos de navegación (header y footer).
+- Eficiencia de la llamada a la acción (Call to Action - CTA).
+
+###### **Aplicación Web (Desktop)**
+- Gestión de inventarios: Adición de elementos.
+- Visualización del dashboard de arrendadores y arrendatarios.
+- Agregar y gestionar asistencias de vehículos.
+- Visualización de horarios de los empleados.
+
+###### **Exclusiones para Esta Evaluación:**
+
+**Landing Page (Desktop):**
+- Enlaces a términos y condiciones.
+- Política de privacidad y condiciones de uso.
+
+**Aplicación Web (Desktop):**
+- Visualización del perfil de usuario.
+- Descripción detallada del proceso de creación de asistencias.
+- Gestión del inventario.
+- Registro de nuevos usuarios.
+
+---
+
+#### **Escala de Severidad de los Problemas Identificados:**
+
+Los problemas identificados durante la evaluación de usabilidad se clasificaron de acuerdo con la siguiente escala:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario y ocurre raramente. |
+| 2     | Problema menor: ocurre con algo más de frecuencia y es moderadamente difícil de superar. |
+| 3     | Problema mayor: ocurre con frecuencia y los usuarios no pueden resolverlo por sí mismos. |
+| 4     | Problema grave: error de alto impacto que impide el uso de la plataforma. |
+
+---
+
+#### **Tabla Resumen de Problemas y Heurísticas Violadas:**
+
+##### **Aplicación Web**
+
+| #   | Problema                                                                                         | Severidad | Heurística/Principio Violado                                 |
+|-----|--------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------|
+| 1   | Los filtros de búsqueda son limitados y no permiten una búsqueda avanzada de vehículos.         | 2         | Usabilidad - Flexibilidad y eficiencia de uso                 |
+| 2   | La visualización de la disponibilidad de los vehículos no es clara ni en tiempo real.            | 3         | Usabilidad - Retroalimentación y estado del sistema           |
+| 3   | Los arrendadores tienen dificultades para modificar los detalles de sus vehículos.               | 2         | Usabilidad - Consistencia y estándares                        |
+| 4   | Falta un mapa interactivo para visualizar la ubicación y disponibilidad de los vehículos.         | 3         | IA - ¿Es encontrable?                                         |
+
+##### **Landing Page**
+
+| #   | Problema                                                                                         | Severidad | Heurística/Principio Violado                                 |
+|-----|--------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------|
+| 1   | El texto descriptivo sobre la plataforma no tiene suficiente claridad, dificultando la comprensión. | 1         | IA - ¿Es claro?                                               |
+| 2   | Los botones de call to action no comunican claramente la acción esperada, afectando la interacción.| 2         | IA - ¿Es usable?                                              |
+| 3   | Las cards de los vehículos no incluyen información completa, como el número de placa.            | 2         | Usabilidad - Consistencia y estándares                        |
+| 4   | El diseño visual no tiene una jerarquía clara, dificultando la navegación de los usuarios.        | 3         | IA - ¿Es encontrable?                                         |
+
+---
+
+#### **Descripción de Problemas y Recomendaciones:**
+
+##### **Landing Page**
+
+###### **Problema 1:**
+- **Severidad:** 1
+- **Heurística violada:** IA - ¿Es claro?
+- **Descripción:** El texto de la página de aterrizaje es ambiguo, dificultando que los usuarios comprendan de inmediato la propuesta de valor de la plataforma.
+- **Recomendación:** Mejorar la estructura y claridad del texto, utilizando títulos más claros y descripciones concisas. Usar listas y puntos destacados para facilitar la comprensión rápida.
+
+###### **Problema 2:**
+- **Severidad:** 2
+- **Heurística violada:** IA - ¿Es usable?
+- **Descripción:** Los botones de acción ("Reservar ahora") no son lo suficientemente claros ni atractivos, lo que genera dudas sobre su función.
+- **Recomendación:** Rediseñar los botones de *call to action* con textos más específicos y visibles, como “Reserva tu vehículo ahora”, para transmitir claramente lo que ocurrirá al hacer clic.
+
+###### **Problema 3:**
+- **Severidad:** 2
+- **Heurística violada:** Usabilidad - Consistencia y estándares
+- **Descripción:** Las cards de los vehículos no contienen todos los detalles relevantes (por ejemplo, el número de placa), lo que puede generar confusión o desconfianza en los usuarios.
+- **Recomendación:** Asegurarse de que cada card incluya toda la información básica, como el número de placa, el modelo del vehículo, y otros datos clave, de manera coherente en todas las opciones.
+
+###### **Problema 4:**
+- **Severidad:** 3
+- **Heurística violada:** IA - ¿Es encontrable?
+- **Descripción:** La jerarquía visual no está bien definida, lo que dificulta la navegación y la identificación rápida de los elementos más importantes.
+- **Recomendación:** Rediseñar la página para establecer una jerarquía visual clara, asegurando que las secciones más importantes, como el *call to action*, sean fácilmente accesibles.
+
+---
+
+##### **Aplicación Web**
+
+###### **Problema 1:**
+- **Severidad:** 2
+- **Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso
+- **Descripción:** Los filtros de búsqueda disponibles no permiten una búsqueda avanzada por características específicas del vehículo, lo que dificulta a los usuarios encontrar opciones específicas.
+- **Recomendación:** Mejorar el sistema de búsqueda añadiendo filtros más detallados, como tipo de vehículo, precio, ubicación, y características específicas.
+
+###### **Problema 2:**
+- **Severidad:** 3
+- **Heurística violada:** Usabilidad - Retroalimentación y estado del sistema
+- **Descripción:** La plataforma no muestra la disponibilidad de los vehículos en tiempo real, lo que causa incertidumbre en los arrendatarios.
+- **Recomendación:** Implementar un sistema de retroalimentación en tiempo real que actualice constantemente la disponibilidad de los vehículos y muestre mensajes claros cuando no haya vehículos disponibles.
+
+###### **Problema 3:**
+- **Severidad:** 2
+- **Heurística violada:** Usabilidad - Consistencia y estándares
+- **Descripción:** Los arrendadores tienen dificultades para modificar los detalles de sus vehículos debido a la falta de consistencia en la interfaz.
+- **Recomendación:** Estandarizar los formularios y procesos para la edición de vehículos, asegurándose de que el flujo sea sencillo y consistente con el resto de la plataforma.
+
+###### **Problema 4:**
+- **Severidad:** 3
+- **Heurística violada:** IA - ¿Es encontrable?
+- **Descripción:** La falta de un mapa interactivo impide a los arrendatarios localizar los vehículos disponibles fácilmente.
+- **Recomendación:** Implementar un mapa interactivo para que los arrendatarios puedan visualizar los vehículos disponibles en su área, mejorando así la accesibilidad y la facilidad de uso de la plataforma.
+
+---
+
+Estas mejoras y recomendaciones están diseñadas para optimizar la experiencia del usuario, mejorar la accesibilidad y garantizar la eficiencia de las funcionalidades clave de la plataforma. La implementación de estas sugerencias fortalecerá la plataforma, haciéndola más intuitiva y eficiente para todos los usuarios.
+Con estos cambios, la evaluación de las heurísticas estará más alineada con los estándares profesionales y será clara y efectiva en su presentación. Si necesitas más ajustes o deseas ampliar algún aspecto específico, ¡avísame!
+
+---
+## 5.4. Video About-the-Product
+
+### Resumen del Video About-The-Product
+
+El video *About-The-Product* tiene como objetivo proporcionar una descripción completa y concisa sobre el modelo de negocio y las características principales de la solución propuesta. Está dirigido tanto a los visitantes del *Landing Page* que desean conocer más sobre el producto, como a los usuarios que interactúan con las aplicaciones, buscando tareas relacionadas con los procesos del negocio.
+
+<img src="./assets/sprint4/about-the-product.png" alt="Jesus Sagastegui"  width="600">
+
+#### **URL del Video:**
+- [**Microsoft Stream URL**](Linkyoutube.com)
+- [**YouTube URL (para el *Landing Page*)**](Linkyoutube.com)
+
+---
+
+#### **Objetivo del Video:**
+El objetivo principal del video es ofrecer una visión completa del producto y cómo satisface las necesidades del mercado de alquiler de vehículos. Se busca generar confianza en los usuarios y promover la adopción de la plataforma, destacando sus funcionalidades clave y cómo facilita la interacción entre arrendadores y arrendatarios de manera digital, eficiente y segura. Este video complementa el trabajo realizado durante el ciclo de desarrollo de la plataforma, reflejando los avances y la colaboración de todos los miembros del equipo en la creación del producto.
+
+
 # Conclusiones
 
 
@@ -2880,6 +3118,57 @@ aplicaciones web, sino que también fomentó la capacidad de **planificación es
 de requerimientos y trabajo colaborativo**, consolidando un aprendizaje integral que puede ser 
 aplicado en entornos reales de desarrollo de software.
 
+# Recomendaciones
+
+1. **Fortalecer la Confianza en la Plataforma:**
+   La confianza sigue siendo el principal factor que determina el éxito en el mercado del alquiler de vehículos. Para mejorar la seguridad en la plataforma, recomendamos:
+    - Incorporar un **sistema de monitoreo en tiempo real** para que tanto arrendadores como arrendatarios puedan verificar la ubicación del vehículo durante el alquiler.
+    - Mejorar el **proceso de certificación de usuarios**, incluyendo más pasos de validación como referencias y verificación de antecedentes.
+    - Crear una **sección de testimonios** o **reseñas verificadas** donde los usuarios puedan compartir sus experiencias y así aumentar la transparencia del servicio.
+<br><br>
+2. **Optimizar la Experiencia de Usuario:**
+   La plataforma debe ser fácil de usar, especialmente para aquellos menos familiarizados con la tecnología. Algunas sugerencias son:
+    - **Simplificar el proceso de reserva**, asegurándose de que los arrendatarios puedan completar sus reservas rápidamente sin complicaciones.
+    - Mejorar el **diseño de la página principal** y las **secciones destacadas** para que los usuarios encuentren más fácilmente lo que buscan.
+    - Agregar un **sistema de filtros** para que los arrendatarios puedan filtrar opciones según tipo de vehículo, precio y ubicación, facilitando la búsqueda.
+      <br><br>
+3. **Incorporar Funciones de Seguridad Avanzadas:**
+   Para brindar mayor seguridad a ambos segmentos, los arrendadores y arrendatarios, se recomienda:
+    - Ofrecer **seguros opcionales** que protejan a ambos en caso de accidentes o problemas durante el alquiler.
+    - Crear una **cláusula de garantía digital** que cubra daños o incidencias durante el alquiler y sea fácilmente accesible a los usuarios.
+      <br><br>
+4. **Estrategia de Marketing y Captación de Usuarios:**
+   La construcción de una base sólida de usuarios es esencial para el éxito del proyecto. Algunas recomendaciones son:
+    - **Ofrecer promociones iniciales**, como descuentos en las primeras reservas o incentivos por referir nuevos usuarios.
+    - Realizar **campañas de marketing digital** enfocadas en mostrar los beneficios de una plataforma segura y confiable.
+    - **Establecer alianzas estratégicas** con aseguradoras, instituciones financieras y agencias de turismo para aumentar la visibilidad de la plataforma y agregar valor para los usuarios.
+      <br><br>
+5. **Expansión del Modelo de Negocio:**
+   Una vez validado el modelo en Lima, se recomienda ampliar el servicio a otras ciudades de Perú. Además:
+    - **Expandir a otras regiones** del país, comenzando con ciudades como Arequipa, Trujillo y Cusco, que también presentan una alta demanda de alquiler de vehículos.
+    - Considerar la **expansión internacional** a otros países de Latinoamérica, como Chile o Colombia, que enfrentan problemas similares en el mercado de alquiler de vehículos.
+      <br><br>
+6. **Monitoreo Continuo del MVP:**
+   La plataforma debe seguir siendo adaptada y mejorada constantemente con base en el feedback de los usuarios. Para ello:
+    - Realizar **pruebas continuas de usabilidad** con grupos de usuarios para recolectar datos sobre su experiencia y mejorar la plataforma.
+    - **Medir el éxito** a través de indicadores clave como la tasa de adopción, la satisfacción del usuario, el número de reservas realizadas y la cantidad de vehículos registrados.
+      <br><br>
+7. **Desarrollo de Funcionalidades Avanzadas:**
+   A largo plazo, sería recomendable agregar funcionalidades que proporcionen aún más valor al servicio, como:
+    - **Desarrollo de aplicaciones móviles** para facilitar el acceso a los usuarios.
+    - Incluir **vehículos eléctricos** en la oferta para atraer a un público más consciente del medio ambiente.
+    - Ofrecer **servicios complementarios**, como alquiler por suscripción o alquiler de vehículos con conductor, para diversificar las opciones disponibles.
+
+---
+
+## Pasos Siguientes:
+
+1. **Mejorar las funcionalidades y lanzar nuevas características**, con énfasis en las mejoras de seguridad y la optimización de la experiencia del usuario.
+2. **Realizar campañas de marketing digital** con énfasis en las ventajas de usar una plataforma digital confiable, destacando testimonios y casos de éxito.
+3. **Monitorear la adopción** del MVP y realizar pruebas continuas para ajustar y mejorar la plataforma según las necesidades de los usuarios.
+
+Con estas recomendaciones, *RentiCar* tiene un gran potencial para transformar el mercado de alquiler de vehículos en Perú, ofreciendo una experiencia digital innovadora y confiable para ambos segmentos.
+
 # Bibliografía
 
 - Cohn, M. (2004). *User Stories Applied: For Agile Software Development*. Addison-Wesley Professional.
@@ -2891,13 +3180,13 @@ aplicado en entornos reales de desarrollo de software.
 
 # Anexos
 
-- Link de la organización de GitHub: https://github.com/CodexaTeam
-- Link del repositorio del reporte: https://github.com/CodexaTeam/Report
-- Link del repositorio de landing page: https://github.com/CodexaTeam/LandingPage
-- Link de la landing page desplegada: https://renticarlandingpage.vercel.app/
-- Link del repositorio de Frontend: https://github.com/CodexaTeam/Frontend
-- Link del Frontend desplegada: https://renticar-frontend.netlify.app/
-- Link del trello: https://trello.com/b/v6yAFQ2f/renticar
-- Link del repositorio de BackEnd: https://github.com/CodexaTeam/Backend.git
-- Link del Backend desplegado: https://backend-production-73c6.up.railway.app/swagger-ui/index.html
+- [Link de la organización de GitHub](https://github.com/CodexaTeam)
+- [Link del repositorio del reporte](https://github.com/CodexaTeam/Report)
+- [Link del repositorio de landing page](https://github.com/CodexaTeam/LandingPage)
+- [Link de la landing page desplegada](https://renticarlandingpage.vercel.app/)
+- [Link del repositorio de Frontend](https://github.com/CodexaTeam/Frontend)
+- [Link del Frontend desplegada](https://renticar-frontend.netlify.app/)
+- [Link del repositorio de BackEnd](https://github.com/CodexaTeam/Backend.git)
+- [Link del Backend desplegado](https://backend-production-73c6.up.railway.app/swagger-ui/index.html)
+- [Link del trello](https://trello.com/b/v6yAFQ2f/renticar)
 
