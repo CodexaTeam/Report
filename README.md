@@ -3087,7 +3087,7 @@ El video *About-The-Product* tiene como objetivo proporcionar una descripción c
 
 #### **URL del Video:**
 - [**Microsoft Stream URL**](Linkyoutube.com)
-- [**YouTube URL (para el *Landing Page*)**](Linkyoutube.com)
+- [**YouTube URL**](Linkyoutube.com)
 
 ---
 
@@ -3105,7 +3105,7 @@ El video *About-The-Team* tiene como objetivo proporcionar una visión general s
 
 #### **URL del Video:**
 - [**Microsoft Stream URL**](Linkyoutube.com)
-- [**YouTube URL (para el *Landing Page*)**](Linkyoutube.com)
+- [**YouTube URL**](Linkyoutube.com)
 
 ---
 
