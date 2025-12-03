@@ -37,19 +37,22 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
 | 1.0     | 24/08/2025 | Todos los integrantes                            | Primer sprint TB1           |
 | 2.0     | 09/10/2025 | Todos los integrantes                            | Segundo sprint TP           |
 | 3.0     | 15/11/2025 | Todos los integrantes                            | Tercer sprint TB2           |
+| 4.0     | 03/12/2025 | Todos los integrantes                            | Trabajo Final               |
+---
 
 ## Project Report Collaboration Insights
-| URL de la organización del proyecto |    URL del repositorio del reporte     |
-|:-----------------------------------:|:--------------------------------------:|
-|  https://github.com/CodexaTeam      | https://github.com/CodexaTeam/Report   |
+|                    URL de la organización del proyecto                    |                     URL del repositorio del reporte                      |
+|:-------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
+| [Link del Repositorio de la Organizacion](https://github.com/CodexaTeam ) | [Link del Repositorio del reporte](https://github.com/CodexaTeam/Report) |
 
-|            URL del Landing Page            |     URL del Fronted Web Application     |
-|:------------------------------------------:|:---------------------------------------:|
-| https://github.com/CodexaTeam/LandingPage  | https://github.com/CodexaTeam/Frontend  |
+|                                URL del Landing Page                                |                      URL del Fronted Web Application                       |
+|:----------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
+| [Link del Repositorio del Landing Page](https://github.com/CodexaTeam/LandingPage) | [Link del Repositorio del Fronted](https://github.com/CodexaTeam/Frontend) |
 
-|            URL del Back End Application    | 
-|:------------------------------------------:|
-| https://github.com/CodexaTeam/Backend.git  |
+|                         URL del Back End Application                          | 
+|:-----------------------------------------------------------------------------:|
+| [Link del Repositorio del Backend](https://github.com/CodexaTeam/Backend.git) |
+---
 
 ### Entrega TB1
 
@@ -69,9 +72,17 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
 
 ### Entrega TB2
 
-| Insights Report                                                               | Insights BackEnd                                                                  |
-|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Insights Report                                                               | Insights BackEnd                                |
+|-------------------------------------------------------------------------------|-------------------------------------------------|
 | ![Captura Report](assets/insight1sprint3.png) | ![Captura FrontEnd](assets/insight2sprint3.png) |
+
+---
+
+### Entrega TF
+
+| Insights Report                                                               | Insights FrontEnd                                | Insights BackEnd                                |
+|-------------------------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| ![Captura Report](assets/insight1sprint3.png) | ![Captura FrontEnd](assets/chapter05/sprint2/teamcolaborationsprint2frontend.png) | ![Captura FrontEnd](assets/insight2sprint3.png) |
 
 ---
 
@@ -172,6 +183,29 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
           - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
           - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
           - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.3. Sprint 3](#523-sprint-3)
+          - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+          - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+          - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+          - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+          - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+          - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+          - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+          - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+        - [5.2.4. Sprint 4](#524-sprint-4)
+          - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+          - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+          - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+          - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+          - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+          - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+          - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+          - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+        - [5.3.1. Diseño de entrevistas de validación](#531-diseño-de-entrevistas-de-validación)
+        - [5.3.2. Registro de entrevistas de validación](#532-registro-de-entrevistas-de-validación)
+        - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
@@ -1956,7 +1990,7 @@ Para la implementación del **Front-End**, correspondiente al desarrollo de las 
 | **Deployment y Versionado**          | Sergio Landa     | Jesus Sagastegui               | Configuración del entorno de producción, despliegue en Vercel y GitHub Pages. Control de versiones, ramas y revisiones de código en GitHub.                            |
 | **Documentación Técnica & Reportes** | Cristhian Huanca | Cristhian Huanca               | Redacción del informe de Sprint 2, evidencias técnicas, guía de instalación, convenciones de Angular y documentación del código y componentes desarrollados.           |
 
-#### 5.2.2.3. Sprint Backlog 2 
+#### 5.2.2.3. Sprint Backlog 2
 
 | Orden | User Story ID | Título                        | **Tareas técnicas (Sprint 2)**                                       | Story Points |
 |-------|---------------|-------------------------------|----------------------------------------------------------------------|--------------|
@@ -2276,7 +2310,20 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
     </tr>
 </table>
 
-#### 5.2.3.2. Sprint Backlog 3
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+Para la implementación del **Back-End**, correspondiente al desarrollo de las **User Stories del sprint**, se asignaron los siguientes responsables por aspecto, con el fin de asegurar una distribución equitativa de tareas, colaboración efectiva y cumplimiento de objetivos del sprint.
+
+| **Aspecto**                          | **Líder**        | **Colaboradores**              | **Responsabilidades**                                                                                                                                                  |
+|--------------------------------------|------------------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Back-End**                         | Jesus Sagastegui | Todos los integrantes          | Implementación de componentes, rutas, servicios y lógica de negocio en Angular. Integración del sistema de reservas, publicaciones, autenticación y perfil de usuario. |
+| **Diseño**                           | Cristhian Huanca | Sergio Landa                   | Diseño de vistas y mejora de experiencia de usuario. Definición de estructura visual coherente, colores, tipografía y responsividad.                                   |
+| **Integración y Testing**            | Sebastian Solis  | Jesus Sagastegui, Sergio Landa | Pruebas unitarias y de integración en componentes. Validación del flujo de usuario, revisión de errores y control de calidad de las funcionalidades implementadas.     |
+| **Deployment y Versionado**          | Sergio Landa     | Jesus Sagastegui               | Configuración del entorno de producción, despliegue . Control de versiones, ramas y revisiones de código en GitHub.                                                    |
+| **Documentación Técnica & Reportes** | Cristhian Huanca | Cristhian Huanca               | Redacción del informe de Sprint 3, evidencias técnicas, guía de instalación, convenciones de Angular y documentación del código y componentes desarrollados.           |
+
+
+#### 5.2.3.3. Sprint Backlog 3
 
 En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
 
@@ -2547,7 +2594,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
 
 **Link del Product BackLog:** https://trello.com/b/v6yAFQ2f/renticar
 
-#### 5.2.3.3. Development Evidence for Sprint Review
+#### 5.2.3.4. Development Evidence for Sprint Review
 
 En esta sección se detalla el trabajo realizado en el repositorio de GitHub correspondiente al backend del proyecto. A través de los commits, se puede observar cómo cada integrante del equipo ha contribuido al desarrollo de diversas funcionalidades y mejoras.
 
@@ -2855,6 +2902,22 @@ Durante el desarrollo del sprint, el equipo demostró un nivel sólido de colabo
 **Insight del Trello**
 
 <td><img src="assets/insight3sprint3.png" alt="Imagen del insights" width="1500"></td>
+
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+#### 5.2.4.2. Aspect Leaders and Collaborators
+#### 5.2.4.3. Sprint Backlog 4
+#### 5.2.4.4. Development Evidence for Sprint Review
+#### 5.2.4.5. Execution Evidence for Sprint Review
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de entrevistas de validación
+### 5.3.2. Registro de entrevistas de validación
+### 5.3.3. Evaluaciones según heurísticas
+## 5.4. Video About-the-Product
 
 # Conclusiones
 
