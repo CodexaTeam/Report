@@ -10,7 +10,7 @@
 **Sección:** 7380
 **Profesor:** Mori Paiva, Hugo Allan
 
-<h3>INFORME DEL TB1</h3>
+<h3>INFORME DEL TB2</h3>
 
 **Startup:** InnovaSoft
 
@@ -24,7 +24,7 @@ Sagastegui Rodriguez, Luis Jesus - u202014249<br>
 Solis Campos, Estefano Sebastian - u202314354 <br>
  
 
-**Setiembre, 2024**
+**Noviembre, 2025**
 
 </div>
 
@@ -32,14 +32,80 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha       | Autor                                            | Descripción de modificación |
-|---------|-------------|--------------------------------------------------|-----------------------------|
-| 0.1     | 24/04/2025  | Todos los integrantes                            | Primer sprint TB1           |
+| Versión | Fecha      | Autor                                            | Descripción de modificación |
+|---------|------------|--------------------------------------------------|-----------------------------|
+| 1.0     | 24/08/2025 | Todos los integrantes                            | Primer sprint TB1           |
+| 2.0     | 09/10/2025 | Todos los integrantes                            | Segundo sprint TP           |
+| 3.0     | 15/11/2025 | Todos los integrantes                            | Tercer sprint TB2           |
+| 4.0     | 03/12/2025 | Todos los integrantes                            | Trabajo Final               |
+---
 
 ## Project Report Collaboration Insights
-| URL de la organización del proyecto |    URL del repositorio del reporte    |
-|:-----------------------------------:|:-------------------------------------:|
-|   https://github.com/CodexaTeam      | https://github.com/CodexaTeam/Report  |
+
+
+A lo largo del desarrollo de este proyecto, se ha trabajado de manera colaborativa utilizando herramientas clave que han facilitado la organización, la gestión de tareas y el seguimiento del progreso. El trabajo se ha realizado principalmente en **GitHub**, donde hemos almacenado y compartido los **repositorios** del proyecto, permitiendo que todos los miembros del equipo contribuyeran de manera organizada y eficiente. Además, se ha utilizado **Trello** para gestionar las tareas y mantener el flujo de trabajo coordinado entre todos los colaboradores.
+
+GitHub ha sido nuestra plataforma principal de colaboración, y aquí se encuentran los enlaces a los repositorios donde se ha trabajado en cada fase del proyecto. Cada entrega, desde la **TB1**, el **trabajo parcial**, la **TB2**, hasta el **TF**, se ha registrado en estos repositorios, y cada una contiene los **insights** generados a medida que el proyecto avanzaba.
+
+A continuación, se presentan los enlaces a los repositorios de GitHub donde se ha trabajado y donde se encuentran los **reportes de Insights** correspondientes a cada entrega. Estos informes reflejan el progreso del equipo en cada fase del proyecto y contienen las imágenes de los **Insights** obtenidos a través de nuestras colaboraciones en GitHub.
+
+|                    URL de la organización del proyecto                    |                     URL del repositorio del reporte                      |
+|:-------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
+| [Link del Repositorio de la Organizacion](https://github.com/CodexaTeam ) | [Link del Repositorio del reporte](https://github.com/CodexaTeam/Report) |
+
+|                                URL del Landing Page                                |                      URL del Fronted Web Application                       |
+|:----------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
+| [Link del Repositorio del Landing Page](https://github.com/CodexaTeam/LandingPage) | [Link del Repositorio del Fronted](https://github.com/CodexaTeam/Frontend) |
+
+|                         URL del Back End Application                          |                URL del TRELLO del projecto                | 
+|:-----------------------------------------------------------------------------:|:---------------------------------------------------------:|
+| [Link del Repositorio del Backend](https://github.com/CodexaTeam/Backend.git) | [Link del Trello](https://trello.com/b/v6yAFQ2f/renticar) |
+---
+
+### Entrega TB1
+
+En la **primera entrega (TB1)**, el equipo trabajó principalmente en dos elementos clave: el **report** y el **Landing Page**.
+
+
+| Insights Report                                                               | Insights Landing Page                                                                        |
+|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| ![Captura Report](assets/project-report-collaboration/captura-report-tb1.png) | ![Captura Landing Page](assets/project-report-collaboration/captura-landing-tb1.png) |
+
+---
+
+### Entrega TP
+
+En esta fase intermedia del proyecto, el equipo hizo mejoras significativas tanto en el **report** como en el desarrollo del **frontend**.
+
+
+| Insights Report                                                               | Insights FrontEnd                                                                 |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| ![Captura Report](assets/chapter05/sprint2/teamcolaborationsprint2report.png) | ![Captura FrontEnd](assets/chapter05/sprint2/teamcolaborationsprint2frontend.png) |
+
+---
+
+### Entrega TB2
+
+En esta entrega, el enfoque principal fue completar el desarrollo del **backend** y seguir trabajando en la mejora del **report**.
+
+
+| Insights Report                                                               | Insights BackEnd                                |
+|-------------------------------------------------------------------------------|-------------------------------------------------|
+| ![Captura Report](assets/insight1sprint3.png) | ![Captura FrontEnd](assets/insight2sprint3.png) |
+
+---
+
+### Entrega TF
+
+En la entrega final (TF), se entregó el producto completo, integrando todas las partes desarrolladas a lo largo del proyecto.
+
+
+| Insights Report                                                               | Insights FrontEnd                                | Insights BackEnd                                |
+|-------------------------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| ![Captura Report](assets/insight1sprint3.png) | ![Captura FrontEnd](assets/chapter05/sprint2/teamcolaborationsprint2frontend.png) | ![Captura FrontEnd](assets/insight2sprint3.png) |
+
+---
+
 
 ## Contenido
 
@@ -128,8 +194,41 @@ Solis Campos, Estefano Sebastian - u202314354 <br>
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
             - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+        - [5.2.2. Sprint 2](#522-sprint-2)
+          - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+          - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+          - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+          - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+          - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+          - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+          - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+          - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.3. Sprint 3](#523-sprint-3)
+          - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+          - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+          - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+          - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+          - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+          - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+          - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+          - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+        - [5.2.4. Sprint 4](#524-sprint-4)
+          - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+          - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+          - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+          - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+          - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+          - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+          - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+          - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+        - [5.3.1. Diseño de entrevistas de validación](#531-diseño-de-entrevistas-de-validación)
+        - [5.3.2. Registro de entrevistas de validación](#532-registro-de-entrevistas-de-validación)
+        - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 - [Conclusiones](#conclusiones)
+- [Recomendaciones](#recomendaciones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -152,24 +251,39 @@ del ABET – EAC - Student Outcome 3.
   </tr>
   <tr>
     <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
-    <td> Huanca Zevallos, Cristhian Joel <br> - TB1: Presentación de los antecedentes y la problemática del proyecto; 
-    explicación del modelo de base de datos y sus relaciones; sustentación de las guías de estilo en el equipo. 
-    Sagastegui Rodriguez, Luis Jesus <br> - TB1: Realizacion y busqueda de competidores. Presentacion de los MockUps 
-    y Wireframes de la landing page, codificacion parcial de la landing page e identificacion de User Stories.
+    <td>
+      <b>Huanca Zevallos, Cristhian Joel</b> <br> - TB1: Presentación de los antecedentes y la problemática del proyecto;
+      explicación del modelo de base de datos y sus relaciones; sustentación de las guías de estilo en el equipo.
+        <br> - TP: Presenté los avances del proyecto y expliqué las funcionalidades del frontend al equipo durante las reuniones de coordinación.
+        <br> - TB2: Colabore con los apartados de listing en reuniones con mis compañeros y grabacion de exposicion.
+        <br> - TF: Organize la distribucion de tareas mediante reuniones para informar a todos los mienbros del equipo. <br><br>
+      <b>Sagastegui Rodriguez, Luis Jesus</b> <br> - TB1: Realizacion y busqueda de competidores. Presentacion de los MockUps
+      y Wireframes de la landing page, codificacion parcial de la landing page e identificacion de User Stories. <br> - TP: Me comunique de manera efectiva mis avances del proyecto con mis compañeros de grupo, siempre haciendoles
+      saber mis dificultades antes cualquier duda o contratiempo. <br> - TB2: Comunicacion grupal y dar ideas respecto a los User Stories trazados para el backend <br><br>
+      <b>Solis Campos, Estefano Sebastian</b> <br> - TB1: Exposición y sustentación del Capítulo 4, explicando verbalmente el marco metodológico y la arquitectura de software propuesta al equipo. <br> - TP1: Presentación al equipo de la arquitectura base del frontend, detallando la estructura de componentes y el sistema de navegación.
+      <br> - TB2: Coordinación y sustentación oral de la implementación del módulo de autenticación (IAM) y la estrategia de integración (merge) del backend. <br><br>
+      <b>Sergio Javier Landa Ortiz</b> <br> - TB1: Exposición y sustentación del Capítulo 3 (Definición del Producto), explicando verbalmente las técnicas de análisis de requisitos, como User Personas e Impact Mapping. <br> - TP1: Presentación al equipo de la arquitectura base del backend, detallando el diseño de la API REST y la configuración inicial de la base de datos. <br> - TB2: Presentación y coordinación de los avances del módulo de reservas (Booking) y colaboración en la unificación del código (merge) con el equipo.
     </td>
-    <td>Se logró transmitir de manera clara los elementos técnicos y de diseño a diferentes audiencias, 
-    adaptando el discurso tanto a compañeros como a docentes, lo que permitió una comprensión efectiva del proyecto.
+    <td>Se logró transmitir de manera clara los elementos técnicos y de diseño a diferentes audiencias,
+      adaptando el discurso tanto a compañeros como a docentes, lo que permitió una comprensión efectiva del proyecto.
     </td>
-
   </tr>
   <tr>
     <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
-    <td>Huanca Zevallos, Cristhian Joel <br> - TB1: Redacción de los antecedentes y problemática; elaboración de las 
-    guías de estilo; desarrollo del diagrama de base de datos; redacción de las conclusiones del informe. </td>
-    <td>Se consolidó una comunicación escrita clara y estructurada, ajustada a los estándares académicos y al 
-    Statement, lo que facilitó la presentación del proyecto y aseguró la coherencia del documento final.</td>
+    <td>
+      <b>Huanca Zevallos, Cristhian Joel</b> <br> - TB1: Redacción de los antecedentes y problemática; elaboración de las
+      guías de estilo; desarrollo del diagrama de base de datos; redacción de las conclusiones del informe.
+        <br> - TP: Elaboré el informe del Sprint 2, documenté las tareas en Trello y desarrollé el módulo de listado de publicaciones en Angular. 
+        <br> - TB2: Organize mediante el trello y mensajes por escrito sobre mi avance en el BC listing.
+        <br> - TF: Delegue als diferentes tareas al equipo de desarrollo mediante trello para tener un mayor control del tiempo. <br><br>
+      <b>Sagastegui Rodriguez, Luis Jesus</b> <br> - TB1: Desarrollo parcial del frontend con el capitulo 5, teniendo en cuenta la metodologia previamente aprendida <br> - TP1: Codificacion parcial del frontend, documentando debidamente cada avance realizado en el Sprint <br> - TB2: Desarrollo parcial de endpoints con su documentacion en el Sprint, considerando los User Stories previamente trazados <br><br>
+      <b>Solis Campos, Estefano Sebastian</b> <br> - TB1: Redacción y desarrollo integral del Capítulo 4, definiendo por escrito el marco metodológico y la arquitectura del software. <br> - TP1: Codificación e implementación de la estructura inicial del frontend, documentando a través del código la base de componentes, vistas y el sistema de enrutamiento.
+      <br> - TB2: Implementación y documentación del módulo de autenticación (IAM). Gestión del merge de las ramas del backend y aporte en la redacción del informe. <br><br>
+      <b>Sergio Javier Landa Ortiz</b> <br> - TB1: Redacción y desarrollo del Capítulo 3 (Definición del Producto), documentando por escrito los perfiles de usuario y las especificaciones de requisitos. <br> - TP1: Codificación e implementación de la estructura inicial del backend (API REST), documentando la configuración del proyecto y los endpoints base. <br> - TB2: Desarrollo e implementación del módulo de reservas (Booking). Colaboración en la gestión de commits para el merge del backend y aporte en la redacción del informe.
+    </td>
+    <td>Se consolidó una comunicación escrita clara y estructurada, ajustada a los estándares académicos y al
+      Statement, lo que facilitó la presentación del proyecto y aseguró la coherencia del documento final.</td>
   </tr>
-
 </table>
 
 ---
@@ -398,11 +512,11 @@ Personas que necesitan un vehículo de manera temporal que tengan edad entre 25 
 
 ## 2.1. Competidores
 
-| Nombre del Competidor | Descripción |
-| :-------------------: | :---------- |
-| Peru Rent a Car <img src="./assets/PeruRentCar.jpg" alt="PeruRentCar" width="600"> https://www.perurentacar.com/ | Life Alert es una de las marcas más reconocidas en sistemas de alerta médica, famosa por su eslogan “¡He caído y no puedo levantarme!”. Ofrece sistemas de emergencia diseñados para ayudar a personas mayores a solicitar asistencia rápidamente. Su principal dispositivo es un botón de emergencia que puede usarse en el hogar o fuera de él, enviando alertas a un centro de monitoreo disponible las 24 horas del día. |
-| Clase A Rent a Car <img src="./assets/ClaseARentCar.png" alt="ClaseARentCar" width="600"> https://www.alquilerautoslima.net/  | MobileHelp es un proveedor líder de sistemas de alerta médica que ofrece dispositivos portátiles y basados en el hogar para personas mayores. Sus dispositivos están diseñados para alertar a los servicios de emergencia en caso de una caída u otro incidente. Además de las soluciones de emergencia en el hogar, MobileHelp destaca por su cobertura fuera de casa gracias a su integración con redes móviles, lo que ofrece a los usuarios mayor independencia y movilidad. |
-| Rento <img src="./assets/RentoRent.jpg" alt="RentoRent" width="600"> https://rento.pe/  | CarePredict es una empresa tecnológica que se enfoca en el monitoreo preventivo para adultos mayores. Utiliza dispositivos portátiles equipados con sensores para rastrear patrones de comportamiento y signos vitales. A través de la inteligencia artificial, CarePredict predice posibles problemas de salud antes de que ocurran, como caídas o infecciones, y permite la intervención proactiva de cuidadores y familiares. |
+|                                                        Nombre del Competidor                                                         | Descripción |
+|:------------------------------------------------------------------------------------------------------------------------------------:| :---------- |
+|       Peru Rent a Car <img src="./assets/PeruRentCar.jpg" alt="PeruRentCar" width="600"> [Link](https://www.perurentacar.com/)       | Life Alert es una de las marcas más reconocidas en sistemas de alerta médica, famosa por su eslogan “¡He caído y no puedo levantarme!”. Ofrece sistemas de emergencia diseñados para ayudar a personas mayores a solicitar asistencia rápidamente. Su principal dispositivo es un botón de emergencia que puede usarse en el hogar o fuera de él, enviando alertas a un centro de monitoreo disponible las 24 horas del día. |
+| Clase A Rent a Car <img src="./assets/ClaseARentCar.png" alt="ClaseARentCar" width="600"> [Link](https://www.alquilerautoslima.net/) | MobileHelp es un proveedor líder de sistemas de alerta médica que ofrece dispositivos portátiles y basados en el hogar para personas mayores. Sus dispositivos están diseñados para alertar a los servicios de emergencia en caso de una caída u otro incidente. Además de las soluciones de emergencia en el hogar, MobileHelp destaca por su cobertura fuera de casa gracias a su integración con redes móviles, lo que ofrece a los usuarios mayor independencia y movilidad. |
+|                    Rento <img src="./assets/RentoRent.jpg" alt="RentoRent" width="600"> [Link](https://rento.pe/)                    | CarePredict es una empresa tecnológica que se enfoca en el monitoreo preventivo para adultos mayores. Utiliza dispositivos portátiles equipados con sensores para rastrear patrones de comportamiento y signos vitales. A través de la inteligencia artificial, CarePredict predice posibles problemas de salud antes de que ocurran, como caídas o infecciones, y permite la intervención proactiva de cuidadores y familiares. |
 
 
 ### 2.1.1. Análisis competitivo
@@ -1871,9 +1985,1117 @@ Reunion por discord:
 
 <img src="assets/chapter05/evidence.png" width=600 >
 
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+
+
+| Sprint #                               | Sprint 2                                                     |
+|----------------------------------------|--------------------------------------------------------------|
+| **Date**                               | 2025-10-05                                                   |
+| **Time**                               | 07:00 PM                                                     |
+| **Location**                           | Discord                                                      |
+| **Prepared By**                        | Cristhian Huanca                                             |
+| **Attendees (to planning meeting)**    | Todos los integrantes                                        |
+| **Sprint 1 Review Summary**        | Se logro realizar de manera completa y satifactoria la landing page, abarcando todas las historias de usuario que habiamos trazado desde un primer comienzo. |
+| **Sprint 1 Retrospective Summary** | La organizacion de las tareas para el desarrollo de las caracteristicas fundamentales fue correctamente realizada, la realizacion de esta misma fue realizada en los tiempos adecuados. En el anterior sprint consideramos que aun nos faltaba un intervalo de tiempo en donde todos nos podamos reunir como equipo. Se priorizaba las tareas mas complejas y la perfecta distribucion.                                                           |
+| **Sprint 2 Goal**                      | Completar el reporte, implementar el frontend y desplegarlo. |
+| **Sprint 2 Velocity**                  | 93 story points                                              |
+| **Sum of Story Points**                | 93 story points                                              |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+Para la implementación del **Front-End**, correspondiente al desarrollo de las **User Stories del 1 al 21**, se asignaron los siguientes responsables por aspecto, con el fin de asegurar una distribución equitativa de tareas, colaboración efectiva y cumplimiento de objetivos del sprint.
+
+| **Aspecto**                          | **Líder**        | **Colaboradores**              | **Responsabilidades**                                                                                                                                                  |
+|--------------------------------------|------------------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Front-End**                        | Jesus Sagastegui | Todos los integrantes          | Implementación de componentes, rutas, servicios y lógica de negocio en Angular. Integración del sistema de reservas, publicaciones, autenticación y perfil de usuario. |
+| **Diseño Gráfico & UX/UI**           | Cristhian Huanca | Sergio Landa                   | Diseño de vistas y mejora de experiencia de usuario. Definición de estructura visual coherente, colores, tipografía y responsividad en Angular Material y CSS.         |
+| **Integración y Testing**            | Sebastian Solis  | Jesus Sagastegui, Sergio Landa | Pruebas unitarias y de integración en componentes. Validación del flujo de usuario, revisión de errores y control de calidad de las funcionalidades implementadas.     |
+| **Deployment y Versionado**          | Sergio Landa     | Jesus Sagastegui               | Configuración del entorno de producción, despliegue en Vercel y GitHub Pages. Control de versiones, ramas y revisiones de código en GitHub.                            |
+| **Documentación Técnica & Reportes** | Cristhian Huanca | Cristhian Huanca               | Redacción del informe de Sprint 2, evidencias técnicas, guía de instalación, convenciones de Angular y documentación del código y componentes desarrollados.           |
+
+#### 5.2.2.3. Sprint Backlog 2
+
+| Orden | User Story ID | Título                        | **Tareas técnicas (Sprint 2)**                                       | Story Points |
+|-------|---------------|-------------------------------|----------------------------------------------------------------------|--------------|
+| 1     | US-01         | Registro de Usuario           | Permitir registro de visitantes para publicar o alquilar vehículos.  | 5            |
+| 2     | US-02         | Inicio de Sesión              | Autenticar usuarios registrados para acceder al sistema.             | 5            |
+| 3     | US-03         | Recuperar Contraseña          | Restablecer la contraseña de usuarios que la olvidaron.              | 3            |
+| 4     | US-04         | Dashboard del Usuario         | Mostrar panel principal con información de reservas y publicaciones. | 5            |
+| 5     | US-05         | Destacados en el Dashboard    | Visualizar autos destacados/recomendados en el Dashboard.            | 3            |
+| 6     | US-06         | Publicaciones en el Dashboard | Visualizar y gestionar publicaciones desde el Dashboard.             | 5            |
+| 7     | US-07         | Cancelar Reserva de Vehículo  | Cancelar una o varias reservas activas desde el Dashboard.           | 5            |
+| 8     | US-08         | Pestaña de Publicación        | Acceder a sección para crear y gestionar publicaciones.              | 3            |
+| 9     | US-09         | Crear Publicación             | Registrar publicaciones de vehículos disponibles para alquiler.      | 5            |
+| 10    | US-10         | Visualizar Publicación        | Consultar la información de una publicación existente.               | 3            |
+| 11    | US-11         | Eliminar Publicación          | Eliminar publicaciones individuales o múltiples.                     | 3            |
+| 12    | US-12         | Navegación de Publicaciones   | Recorrer publicaciones de autos disponibles.                         | 3            |
+| 13    | US-13         | Ordenar por Precio            | Ordenar publicaciones según el precio del alquiler.                  | 3            |
+| 14    | US-14         | Filtrar por Marca             | Filtrar publicaciones de autos por su marca.                         | 3            |
+| 15    | US-15         | Reseñar Publicaciones         | Dejar reseñas de autos después de completar una reserva.             | 5            |
+| 16    | US-16         | Reservar Vehículo             | Realizar reserva de un vehículo seleccionando fecha y horario.       | 8            |
+| 17    | US-17         | Ver estado IoT del auto       | Visualizar estado y ubicación básica IoT del vehículo reservado.     | 8            |
+| 18    | US-18         | Pestaña de Perfil             | Acceder a perfil con datos personales y documentos.                  | 3            |
+| 19    | US-19         | Crear Perfil                  | Crear perfil personal ingresando datos básicos.                      | 5            |
+| 20    | US-20         | Modificar Perfil              | Editar la información personal registrada en el perfil.              | 5            |
+| 21    | US-21         | Cargar Documentos de Garantía | Subir documentos personales en el perfil para validar identidad.     | 5            |
+
+Además, creamos un board de trello con el registro de los sprints
+
+<img src="assets/chapter05/sprint2/trello-evidence-sprint2.png" width=600 >
+
+Link del trello: https://trello.com/b/v6yAFQ2f/renticar
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los commits realizados en el repositorio de GitHub, donde se puede observar el trabajo colaborativo de cada integrante del equipo en el desarrollo de RentiCar. A continuación, se detallan las contribuciones individuales en diversas ramas del proyecto, incluyendo las implementaciones de las funcionalidades principales y las integraciones necesarias para el despliegue final del producto.
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=19>Frontend</td>
+        <td>main</td>
+        <td>103935c</td>
+        <td>Estefano Solis</td>
+        <td>Initial commit</td>
+        <td>08/10/2025</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>c84fef5</td>
+        <td>Estefano Solis</td>
+        <td>BasicImplementation</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>ce68b89</td>
+        <td>Sergio Landa</td>
+        <td>booking-request</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-listing</td>
+        <td>f6e6670</td>
+        <td>Cristhian Huanca</td>
+        <td>vehicle-assembler-model</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-listing</td>
+        <td>7c71565</td>
+        <td>Cristhian Huanca</td>
+        <td>vehicle-management</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-listing</td>
+        <td>069e7d5</td>
+        <td>Cristhian Huanca</td>
+        <td>vehicle-details</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-listing</td>
+        <td>81738b0</td>
+        <td>Cristhian Huanca</td>
+        <td>vehicle-operations</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-iot</td>
+        <td>cebf14a</td>
+        <td>Jesus Sagastegui</td>
+        <td>iot-models</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-iot</td>
+        <td>d8ee5f0</td>
+        <td>Jesus Sagastegui</td>
+        <td>iot-tracking</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-iot</td>
+        <td>21b057f</td>
+        <td>Jesus Sagastegui</td>
+        <td>iot-services</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-iot</td>
+        <td>21c57f9</td>
+        <td>Jesus Sagastegui</td>
+        <td>review-assemblers</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-iot</td>
+        <td>f6a1879</td>
+        <td>Jesus Sagastegui</td>
+        <td>review-components</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-iot</td>
+        <td>5ea6c2c</td>
+        <td>Jesus Sagastegui</td>
+        <td>review-models</td>
+        <td>10/10/2025</td>
+    </tr>
+    <tr>
+        <td>bc-iot</td>
+        <td>2499f23</td>
+        <td>Jesus Sagastegui</td>
+        <td>review-services</td>
+        <td>10/10/2025</td>
+    </tr>
+</table>
+
+
+
+
+
+<img src="assets/chapter05/sprint2/commits-sprint2-report.png" width=600 >
+
+Commits realizados en el repositorio del frontend:
+
+<img src="assets/chapter05/sprint2/commits-sprint2-frontend.png" width=600 >
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+Se adjuntan evidencias del despliegue de la primera version del frontend, cubriendo las user stories previamente mencionadas
+
+
+<img src="assets/chapter05/sprint2/evidence-execution2.jpg" width=600 >
+
+<img src="assets/chapter05/sprint2/evidence-execution1.png" width=600 >
+
+<img src="assets/chapter05/sprint2/evidence-execution3.jpg" width=300 >
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Nuestro frontend consumen diversos endpoints localizados en la carpeta server en la raíz de nuestro proyecto:
+
+<img src="assets/chapter05/sprint2/services1-sprint2.png" width=600 >
+<img src="assets/chapter05/sprint2/services-sprint2.png" width=600 >
+
+Arrancamos dicho server de manera local con el siguiente comando:
+```bash
+npx json-server --watch server/db.json --routes server/routes.json
+```
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+El frontend fue desplegado en Netlify, el cual se enlaza con el repositorio de github del frontend. El proceso de despliegue es similar al de la landing page, pero en este caso se utilizó el branch main.
+
+<img src="assets/sprint2/netlify.png" width=600 >
+
+Como se puede apreciar en la dirección URL se encuentra netlify.app como parte de la misma
+
+<img src="assets/sprint2/publication.png" width=600 >
+
+**Link del front desplegado** https://renticar-frontend.netlify.app/
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Insights del repositorio de report:
+
+<img src="assets/chapter05/sprint2/teamcolaborationsprint2report.png" width=600 >
+
+Insights del repositorio de Frontend:
+
+<img src="assets/chapter05/sprint2/teamcolaborationsprint2frontend.png" width=600 >
+
+Insights de TRELLO:
+
+<img src="assets/chapter05/sprint2/teamcolaborationsprint2rtrello.png" width=300 >
+
+Reunion por discord:
+
+<img src="assets/chapter05/sprint2/evidencia-reunion-TP.png" width=600 >
+
+### 5.2.3. Sprint 3
+
+Para este sprint, se realizará toda la configuración del Backend, configurando todo lo aprendido en clase, para la organización de este sprint, se utilizó GitHub para el manejo del proyecto, usando ramas para que cada integrante pueda subir su parte correspondiente, para luego integrarlo todo en una rama development. El objetivo de este sprint es conseguir realizar la configuración necesaria para que nuestro FrontEnd sea funcional junto con la Backend. 
+
+#### 5.2.3.1. Sprint Planning 3
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            08/11/25         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            16:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Reuniones por Discord y Universidad      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Codexa Team     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Cristhian Joel Huanca Zevallos <br/>
+            - Estefano Sebastian Solís Campos <br/>
+            - Luis Jesus Sagastegui Rodriguez <br/>
+            - Sergio Javier Landa Ortiz <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se concluyo satisfactoriamente la implementacion del front end con todos los User Stories planteados.
+            </br></br>
+            Cada integrante logro realizar su parte de manera eficaz siempre priorizando la comunicacion.  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 2</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Se mantuvo una comunicación para la repartición de las partes asignadas. Cada uno pudo entregar sus partes a tiempo, se logro completar con los objetivos previamente trazados. 
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Velocity</b>
+        </td>
+        <td>
+            82
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            82
+        </td>
+    </tr>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+Para la implementación del **Back-End**, correspondiente al desarrollo de las **User Stories del sprint**, se asignaron los siguientes responsables por aspecto, con el fin de asegurar una distribución equitativa de tareas, colaboración efectiva y cumplimiento de objetivos del sprint.
+
+| **Aspecto**                          | **Líder**        | **Colaboradores**              | **Responsabilidades**                                                                                                                                                  |
+|--------------------------------------|------------------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Back-End**                         | Jesus Sagastegui | Todos los integrantes          | Implementación de componentes, rutas, servicios y lógica de negocio en Angular. Integración del sistema de reservas, publicaciones, autenticación y perfil de usuario. |
+| **Diseño**                           | Cristhian Huanca | Sergio Landa                   | Diseño de vistas y mejora de experiencia de usuario. Definición de estructura visual coherente, colores, tipografía y responsividad.                                   |
+| **Integración y Testing**            | Sebastian Solis  | Jesus Sagastegui, Sergio Landa | Pruebas unitarias y de integración en componentes. Validación del flujo de usuario, revisión de errores y control de calidad de las funcionalidades implementadas.     |
+| **Deployment y Versionado**          | Sergio Landa     | Jesus Sagastegui               | Configuración del entorno de producción, despliegue . Control de versiones, ramas y revisiones de código en GitHub.                                                    |
+| **Documentación Técnica & Reportes** | Cristhian Huanca | Cristhian Huanca               | Redacción del informe de Sprint 3, evidencias técnicas, guía de instalación, convenciones de Angular y documentación del código y componentes desarrollados.           |
+
+
+#### 5.2.3.3. Sprint Backlog 3
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
+
+
+<table  align="left" border="1" width="100%">
+  <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 3</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+
+  <!-- =========================== US01 ============================ -->
+
+  <tr><td rowspan="12"><b>US01</b></td><td rowspan="12"><b>Sign Up</b></td>
+    <td>Configurar Application Properties</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear Entity User</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear ValueObject Email</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear ValueObject Password</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear DTO SignUpRequest</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command RegisterUserCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Query UserExistsQuery</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Service RegisterUserService</td><td>2</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Mapper UserMapper</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Controller SignUpController</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US02 ============================ -->
+
+  <tr><td rowspan="8"><b>US02</b></td><td rowspan="8"><b>Sign In</b></td>
+    <td>Crear DTO SignInRequest</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear DTO SignInResponse</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear AuthService</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Configurar Security Config</td><td>1.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear JWT Provider</td><td>1</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear SignInController</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US03 ============================ -->
+
+  <tr><td rowspan="6"><b>US03</b></td><td rowspan="6"><b>Get All Users</b></td>
+    <td>Crear Query GetAllUsers</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO UserResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getAllUsers</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /users</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US04 ============================ -->
+
+  <tr><td rowspan="6"><b>US04</b></td><td rowspan="6"><b>Update User</b></td>
+    <td>Crear DTO UpdateUserRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command UpdateUserCommand</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service updateUser</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PATCH /users/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US05 ============================ -->
+
+  <tr><td rowspan="6"><b>US05</b></td><td rowspan="6"><b>Change Password</b></td>
+    <td>Crear DTO ChangePasswordRequest</td><td>0.4</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear VO Password</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service changePassword</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PATCH /users/{id}/password</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US06 ============================ -->
+
+  <tr><td rowspan="6"><b>US06</b></td><td rowspan="6"><b>Delete User</b></td>
+    <td>Crear Command DeleteUserCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Service deleteUser</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Implementar DELETE /users/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Manejo de errores (User Not Found)</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US07 ============================ -->
+
+  <tr><td rowspan="8"><b>US07</b></td><td rowspan="8"><b>Create Vehicle</b></td>
+    <td>Crear Entity Vehicle</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear ValueObject PlateNumber</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear DTO CreateVehicleRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command CreateVehicleCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Service createVehicle</td><td>1.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear Controller POST /vehicles</td><td>0.7</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US08 ============================ -->
+
+  <tr><td rowspan="6"><b>US08</b></td><td rowspan="6"><b>Update Vehicle</b></td>
+    <td>Crear DTO UpdateVehicleRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command UpdateVehicleCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service updateVehicle</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PUT /vehicles/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US09 ============================ -->
+
+  <tr><td rowspan="5"><b>US09</b></td><td rowspan="5"><b>Delete Vehicle</b></td>
+    <td>Crear Command DeleteVehicleCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service deleteVehicle</td><td>0.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>DELETE /vehicles/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US10 ============================ -->
+
+  <tr><td rowspan="5"><b>US10</b></td><td rowspan="5"><b>Get Vehicle By ID</b></td>
+    <td>Crear Query GetVehicleById</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO VehicleResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>GET /vehicles/{vehicleId}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US11 ============================ -->
+
+  <tr><td rowspan="6"><b>US11</b></td><td rowspan="6"><b>Get All Vehicles</b></td>
+    <td>Crear Query GetAllVehicles</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO VehicleListItem</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getAllVehicles</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /vehicles</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US12 ============================ -->
+
+  <tr><td rowspan="5"><b>US12</b></td><td rowspan="5"><b>My Listings</b></td>
+    <td>Crear Query GetMyListings</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service getMyListings</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /vehicles/my-listings</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+   <!-- =========================== US13 ============================ -->
+
+  <tr><td rowspan="9"><b>US13</b></td><td rowspan="9"><b>Create Booking</b></td>
+    <td>Crear Entity Booking</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear VO BookingDates</td><td>0.7</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear DTO CreateBookingRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command CreateBookingCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Validación de disponibilidad del vehículo</td><td>0.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Service createBooking</td><td>1.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Controller POST /bookings</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US14 ============================ -->
+
+  <tr><td rowspan="6"><b>US14</b></td><td rowspan="6"><b>My Bookings</b></td>
+    <td>Crear Query GetMyBookings</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO BookingResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getMyBookings</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /bookings/my-bookings</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US15 ============================ -->
+
+  <tr><td rowspan="6"><b>US15</b></td><td rowspan="6"><b>Cancel Booking</b></td>
+    <td>Crear Command CancelBookingCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service cancelBooking</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PUT /bookings/{id}/cancel</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Validación de estados permitidos</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US16 ============================ -->
+
+  <tr><td rowspan="6"><b>US16</b></td><td rowspan="6"><b>Confirm Booking</b></td>
+    <td>Crear Command ConfirmBookingCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service confirmBooking</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PUT /bookings/{id}/confirm</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Validación de estados permitidos</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US17 ============================ -->
+
+  <tr><td rowspan="6"><b>US17</b></td><td rowspan="6"><b>Reject Booking</b></td>
+    <td>Crear Command RejectBookingCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service rejectBooking</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>PUT /bookings/{id}/reject</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Validación de estados permitidos</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US18 ============================ -->
+
+  <tr><td rowspan="5"><b>US18</b></td><td rowspan="5"><b>Get Booking By ID</b></td>
+    <td>Crear Query GetBookingById</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO BookingDetailResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>GET /bookings/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US19 ============================ -->
+
+  <tr><td rowspan="8"><b>US19</b></td><td rowspan="8"><b>Create Review</b></td>
+    <td>Crear Entity Review</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear VO Rating</td><td>0.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear DTO CreateReviewRequest</td><td>0.4</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command CreateReviewCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service createReview</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Controller POST /reviews</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US20 ============================ -->
+
+  <tr><td rowspan="6"><b>US20</b></td><td rowspan="6"><b>Vehicle Reviews</b></td>
+    <td>Crear Query GetReviewsByVehicleId</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO ReviewResponse</td><td>0.4</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getReviewsByVehicleId</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /reviews/vehicle/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US21 ============================ -->
+
+  <tr><td rowspan="6"><b>US21</b></td><td rowspan="6"><b>My Reviews</b></td>
+    <td>Crear Query GetMyReviews</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO MyReviewResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getMyReviews</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /reviews/my-reviews</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US22 ============================ -->
+
+  <tr><td rowspan="7"><b>US22</b></td><td rowspan="7"><b>Register Telemetry</b></td>
+    <td>Crear Entity Telemetry</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear DTO TelemetryRequest</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear Command RegisterTelemetryCommand</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Service registerTelemetry</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>POST /telemetry</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US23 ============================ -->
+
+  <tr><td rowspan="6"><b>US23</b></td><td rowspan="6"><b>Telemetry By Vehicle</b></td>
+    <td>Crear Query GetTelemetryByVehicleId</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO TelemetryResponse</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Service getTelemetryByVehicleId</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>GET /telemetry/vehicle/{id}</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Swagger Documentation</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Testing</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+
+</table>
+
+<td><img src="assets/insight3sprint3.png" alt="Imagen del insights" width="1500"></td>
+
+**Link del Product BackLog:** https://trello.com/b/v6yAFQ2f/renticar
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+En esta sección se detalla el trabajo realizado en el repositorio de GitHub correspondiente al backend del proyecto. A través de los commits, se puede observar cómo cada integrante del equipo ha contribuido al desarrollo de diversas funcionalidades y mejoras.
+
+| User Story | Responsable (Backlog) | Usuario GitHub Real | Commit Message | Hash |
+|-----------|------------------------|----------------------|----------------|------|
+| US19 – Create Review | Jesus Rodriguez | **JesusRodriguez7** | feat: added review | f1dc1c4 |
+| US19 – Create Review | Jesus Rodriguez | **JesusRodriguez7** | Merge pull request #4 from CodexaTeam/feat-review | d69f156 |
+| US20 – Vehicle Reviews | Jesus Rodriguez | **JesusRodriguez7** | Delete reviews directory | 8a5d2ca |
+| US20 – Vehicle Reviews | Jesus Rodriguez | **JesusRodriguez7** | feat: added reviews | 4ede5ca |
+| US22 – Register Telemetry (IoT) | Jesus Rodriguez | **JesusRodriguez7** | feat: added iot | 866c44bb |
+| US22 – Register Telemetry (IoT) | Jesus Rodriguez | **JesusRodriguez7** | Delete iot directory | fe0b30e |
+| US22 – Register Telemetry (IoT) | Jesus Rodriguez | **JesusRodriguez7** | Merge pull request #3 from CodexaTeam/feat-iot | 7bb46ea |
+| US13 – Create Booking | Sergio Landa | **Serkes2006** | feat adding booking bounded context | f0dcdab |
+| US13 – Create Booking | Sergio Landa | **Serkes2006** | Merge pull request #6 from CodexaTeam/feat-booking | fbf0caa |
+| US12 – Vehicle Listings | Joel Huanca | **JoelHuancaZevallos** | feat implement vehicle listing commands and queries | 11d692e |
+| US12 – Vehicle Listings | Joel Huanca | **JoelHuancaZevallos** | Merge pull request #5 from CodexaTeam/bc-listings | bc556ed |
+| US01 – Sign Up / IAM | Estefano Solís | **Estefano-Solis-C** | feat: Implementación de IAM | b019f3 |
+| US01 – Sign Up / IAM | Estefano Solís | **Estefano-Solis-C** | feat: Initial commit | 2c9b967 |
+| General Fixes | Estefano Solís | **Estefano-Solis-C** | Minor fix | 8b3b73c |
+| Reviews / IoT / Refactors | Varios | **JesusRodriguez7** | (Multiple commits relacionados) | (varios) |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+En este item, se va a presentar las interacciones con cada endpoint establecido para el proyecto.
+
+<td><img src="assets/swagger1.png" alt="Imagen del insights" width="1500"></td>
+
+<td><img src="assets/swagger2.png" alt="Imagen del insights" width="1500"></td>
+
+<td><img src="assets/swagger3.png" alt="Imagen del insights" width="1500"></td>
+
+**Link para ejecutar el Swagger:** [http://localhost:8080/swagger-ui/index.html](https://backend-production-73c6.up.railway.app/swagger-ui/index.html)
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se realizó el avance de la documentación de Web Services. Se documentaron un total de 28 endopoints utilizando Swagger OpenApi, lo que mejora la claridad y la accesibilidad de nuestra API para los desarrolladores. 
+
+<table align="left" border="1" width="100%">
+    <tr>
+        <th>Endpoint</th>
+        <th>Acción</th>
+        <th>Verbo HTTP</th>
+        <th>Sintaxis de Llamada</th>
+        <th>Parámetros</th>
+    </tr>
+    <!-- Welcome -->
+    <tr>
+        <td>/</td>
+        <td>Obtener mensaje de bienvenida</td>
+        <td>GET</td>
+        <td>/</td>
+        <td>—</td>
+    </tr>
+    <!-- USERS -->
+    <tr>
+        <td>/api/v1/users/{userId}</td>
+        <td>Eliminar usuario</td>
+        <td>DELETE</td>
+        <td>/api/v1/users/{userId}</td>
+        <td>userId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/users/{userId}</td>
+        <td>Modificar perfil de usuario</td>
+        <td>PATCH</td>
+        <td>/api/v1/users/{userId}</td>
+        <td>userId, body(profile fields)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/users/{userId}/password</td>
+        <td>Actualizar contraseña</td>
+        <td>PATCH</td>
+        <td>/api/v1/users/{userId}/password</td>
+        <td>userId, body(password)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/users</td>
+        <td>Obtener todos los usuarios</td>
+        <td>GET</td>
+        <td>/api/v1/users</td>
+        <td>—</td>
+    </tr>
+    <!-- TELEMETRY -->
+    <tr>
+        <td>/api/v1/telemetry</td>
+        <td>Registrar telemetría</td>
+        <td>POST</td>
+        <td>/api/v1/telemetry</td>
+        <td>body(telemetry data)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/telemetry/vehicle/{vehicleId}</td>
+        <td>Obtener telemetría por vehículo</td>
+        <td>GET</td>
+        <td>/api/v1/telemetry/vehicle/{vehicleId}</td>
+        <td>vehicleId</td>
+    </tr>
+    <!-- REVIEWS -->
+    <tr>
+        <td>/api/v1/reviews</td>
+        <td>Crear reseña</td>
+        <td>POST</td>
+        <td>/api/v1/reviews</td>
+        <td>body(review)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/reviews/vehicle/{vehicleId}</td>
+        <td>Obtener reseñas por vehículo</td>
+        <td>GET</td>
+        <td>/api/v1/reviews/vehicle/{vehicleId}</td>
+        <td>vehicleId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/reviews/my-reviews</td>
+        <td>Obtener mis reseñas</td>
+        <td>GET</td>
+        <td>/api/v1/reviews/my-reviews</td>
+        <td>—</td>
+    </tr>
+    <!-- BOOKINGS -->
+    <tr>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>Obtener reserva por ID</td>
+        <td>GET</td>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>Actualizar / renovar reserva</td>
+        <td>PUT</td>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>bookingId, body(update)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>Eliminar reserva</td>
+        <td>DELETE</td>
+        <td>/api/v1/bookings/{bookingId}</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}/reject</td>
+        <td>Rechazar reserva</td>
+        <td>PUT</td>
+        <td>/api/v1/bookings/{bookingId}/reject</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}/confirm</td>
+        <td>Confirmar reserva</td>
+        <td>PUT</td>
+        <td>/api/v1/bookings/{bookingId}/confirm</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/{bookingId}/cancel</td>
+        <td>Cancelar reserva</td>
+        <td>PUT</td>
+        <td>/api/v1/bookings/{bookingId}/cancel</td>
+        <td>bookingId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings</td>
+        <td>Crear reserva</td>
+        <td>POST</td>
+        <td>/api/v1/bookings</td>
+        <td>body(booking)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/my-requests</td>
+        <td>Obtener solicitudes de reservas (owner)</td>
+        <td>GET</td>
+        <td>/api/v1/bookings/my-requests</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td>/api/v1/bookings/my-bookings</td>
+        <td>Obtener reservas del renter</td>
+        <td>GET</td>
+        <td>/api/v1/bookings/my-bookings</td>
+        <td>—</td>
+    </tr>
+    <!-- AUTHENTICATION -->
+    <tr>
+        <td>/api/v1/authentication/sign-up</td>
+        <td>Registrar usuario</td>
+        <td>POST</td>
+        <td>/api/v1/authentication/sign-up</td>
+        <td>body(user)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/authentication/sign-in</td>
+        <td>Iniciar sesión</td>
+        <td>POST</td>
+        <td>/api/v1/authentication/sign-in</td>
+        <td>body(credentials)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/authentication</td>
+        <td>Verificar autenticación</td>
+        <td>GET</td>
+        <td>/api/v1/authentication</td>
+        <td>—</td>
+    </tr>
+    <!-- VEHICLES -->
+    <tr>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>Obtener vehículo por ID</td>
+        <td>GET</td>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>vehicleId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>Actualizar vehículo</td>
+        <td>PUT</td>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>vehicleId, body(vehicle)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>Eliminar vehículo</td>
+        <td>DELETE</td>
+        <td>/api/v1/vehicles/{vehicleId}</td>
+        <td>vehicleId</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles</td>
+        <td>Obtener todos los vehículos</td>
+        <td>GET</td>
+        <td>/api/v1/vehicles</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles</td>
+        <td>Crear vehículo</td>
+        <td>POST</td>
+        <td>/api/v1/vehicles</td>
+        <td>body(vehicle)</td>
+    </tr>
+    <tr>
+        <td>/api/v1/vehicles/my-listings</td>
+        <td>Obtener vehículos del owner</td>
+        <td>GET</td>
+        <td>/api/v1/vehicles/my-listings</td>
+        <td>—</td>
+    </tr>
+</table>
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+## Creación de Cuentas y Configuración de Recursos en Proveedores de Servicios en la Nube
+
+# RailWay
+
+Para el despliegue de nuestra aplicación backend, utilizamos Railway. Railway es una plataforma moderna que permite desplegar aplicaciones de forma rápida y eficiente, facilitando la integración continua, el monitoreo del rendimiento y la gestión automática de entornos. Su simplicidad y compatibilidad con múltiples tecnologías nos permitió garantizar un proceso de despliegue estable y sin interrupciones.
+
+**Creación de cuenta en Railway:**
+Para iniciar el proceso, se creó una cuenta en Railway, lo que nos permitió acceder a su panel de control y habilitar los servicios necesarios para alojar nuestra API. Railway ofrece una interfaz intuitiva que facilita la creación y administración de proyectos en la nube.
+
+**Configuración del proyecto en Railway:**
+Dentro de Railway, se configuró un proyecto dedicado al backend de nuestra aplicación. El despliegue se realizó conectando directamente nuestro repositorio desde GitHub, permitiendo que Railway ejecutara automáticamente el proceso de construcción (build) y puesta en marcha (deploy) de la API. Asimismo, se configuraron las variables de entorno necesarias para garantizar el funcionamiento correcto del servidor, como las credenciales de la base de datos, claves JWT y configuraciones específicas del entorno de producción.
+
+Finalmente, Railway generó una URL pública desde la cual el backend quedó accesible, permitiendo la integración directa con el frontend y el uso del Swagger para la documentación interactiva de los servicios.
+
+<td><img src="assets/railway.png" alt="Imagen del deployment" width="1500"></td>
+
+# Configuración de Proyectos de Desarrollo para Integración y Automatización de Deployment
+
+Para el desarrollo y la gestión del código, utilizamos IntelliJ IDEA, que nos proporcionó un entorno de desarrollo integrado (IDE) robusto para manejar nuestro proyecto de API RESTful.
+
+**Configuración del proyecto en IntelliJ:** El proyecto se configuró en IntelliJ, incluyendo la integración con herramientas como Spring Boot y Swagger UI.
+
+**Automatización del deployment:** Se configuraron scripts y herramientas para automatizar el proceso de despliegue, permitiendo un flujo de trabajo más eficiente y menos propenso a errores.
+
+Swagger UI se utilizó para documentar y probar nuestra API, facilitando la visualización y el testing de los endpoints implementados.
+
+**Integración con Swagger UI:** Dentro del proyecto en IntelliJ, se integró Swagger UI para proporcionar una interfaz visual que permite probar los endpoints de la API de manera interactiva.
+
+<td><img src="assets/swagger1.png" alt="Imagen del deployment" width="1500"></td>
+
+Para el desarrollo de la Backend, se utilizaron las siguientes texnologías:
+
+- MySqlWorkbench: Gestión de base de datos que nos sirvió para verificar si las tablas o el funcionamiento dentro de las mismas, es la correcta.
+- Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
+- GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+
+Igualmente, para el correcto control de versiones y el adecuado desarrollo de la backend, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el desarrollo del sprint, el equipo demostró un nivel sólido de colaboración y coordinación, reflejado tanto en la distribución equilibrada de tareas como en la participación activa en los distintos flujos de trabajo. La comunicación entre los integrantes fue fluida, permitiendo resolver dependencias técnicas y alinear criterios de implementación de manera oportuna. Además, el análisis de los commits evidencia un trabajo constante y sincronizado entre los desarrolladores, destacando la integración continua y la revisión conjunta del código antes de cada fusión. Esta dinámica colaborativa permitió mantener la calidad del producto, reducir retrabajos y asegurar el cumplimiento de los objetivos del sprint de forma eficiente.
+
+**Insight del Report**
+
+<td><img src="assets/insight1sprint3.png" alt="Imagen del insights" width="1500"></td>
+
+**Insight del BackEnd**
+
+<td><img src="assets/insight2sprint3.png" alt="Imagen del insights" width="1500"></td>
+
+**Insight del Trello**
+
+<td><img src="assets/insight3sprint3.png" alt="Imagen del insights" width="1500"></td>
+
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+#### 5.2.4.2. Aspect Leaders and Collaborators
+#### 5.2.4.3. Sprint Backlog 4
+#### 5.2.4.4. Development Evidence for Sprint Review
+#### 5.2.4.5. Execution Evidence for Sprint Review
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de entrevistas de validación
+### 5.3.2. Registro de entrevistas de validación
+### 5.3.3. Evaluaciones según heurísticas
+
+#### Evaluación de Heurísticas y Principios de UX
+
+**Curso:** 1ASI0729 - Desarrollo de Aplicaciones Open Source  
+**Profesorado:** Bautista Ubillús, Efraín Ricardo; Castro Veramendi, Rafael Oswaldo; Espinoza Bravo, Wilder Julio; Flores Moroco, Juan Antonio; Mori Paiva, Hugo Allan; Robles Fernández, Iván; Velásquez Núñez, Ángel Augusto  
+**Cliente:** RentiCar
+
+##### **Tareas Evaluadas:**
+
+Esta evaluación se enfoca en la usabilidad y experiencia de usuario de las siguientes tareas en la aplicación:
+
+###### **Landing Page (Desktop)**
+- Presentación general de la plataforma y sus funcionalidades.
+- Descripción del equipo de trabajo.
+- Funcionalidad de los elementos de navegación (header y footer).
+- Eficiencia de la llamada a la acción (Call to Action - CTA).
+
+###### **Aplicación Web (Desktop)**
+- Gestión de inventarios: Adición de elementos.
+- Visualización del dashboard de arrendadores y arrendatarios.
+- Agregar y gestionar asistencias de vehículos.
+- Visualización de horarios de los empleados.
+
+###### **Exclusiones para Esta Evaluación:**
+
+**Landing Page (Desktop):**
+- Enlaces a términos y condiciones.
+- Política de privacidad y condiciones de uso.
+
+**Aplicación Web (Desktop):**
+- Visualización del perfil de usuario.
+- Descripción detallada del proceso de creación de asistencias.
+- Gestión del inventario.
+- Registro de nuevos usuarios.
+
+---
+
+#### **Escala de Severidad de los Problemas Identificados:**
+
+Los problemas identificados durante la evaluación de usabilidad se clasificaron de acuerdo con la siguiente escala:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario y ocurre raramente. |
+| 2     | Problema menor: ocurre con algo más de frecuencia y es moderadamente difícil de superar. |
+| 3     | Problema mayor: ocurre con frecuencia y los usuarios no pueden resolverlo por sí mismos. |
+| 4     | Problema grave: error de alto impacto que impide el uso de la plataforma. |
+
+---
+
+#### **Tabla Resumen de Problemas y Heurísticas Violadas:**
+
+##### **Aplicación Web**
+
+| #   | Problema                                                                                         | Severidad | Heurística/Principio Violado                                 |
+|-----|--------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------|
+| 1   | Los filtros de búsqueda son limitados y no permiten una búsqueda avanzada de vehículos.         | 2         | Usabilidad - Flexibilidad y eficiencia de uso                 |
+| 2   | La visualización de la disponibilidad de los vehículos no es clara ni en tiempo real.            | 3         | Usabilidad - Retroalimentación y estado del sistema           |
+| 3   | Los arrendadores tienen dificultades para modificar los detalles de sus vehículos.               | 2         | Usabilidad - Consistencia y estándares                        |
+| 4   | Falta un mapa interactivo para visualizar la ubicación y disponibilidad de los vehículos.         | 3         | IA - ¿Es encontrable?                                         |
+
+##### **Landing Page**
+
+| #   | Problema                                                                                         | Severidad | Heurística/Principio Violado                                 |
+|-----|--------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------|
+| 1   | El texto descriptivo sobre la plataforma no tiene suficiente claridad, dificultando la comprensión. | 1         | IA - ¿Es claro?                                               |
+| 2   | Los botones de call to action no comunican claramente la acción esperada, afectando la interacción.| 2         | IA - ¿Es usable?                                              |
+| 3   | Las cards de los vehículos no incluyen información completa, como el número de placa.            | 2         | Usabilidad - Consistencia y estándares                        |
+| 4   | El diseño visual no tiene una jerarquía clara, dificultando la navegación de los usuarios.        | 3         | IA - ¿Es encontrable?                                         |
+
+---
+
+#### **Descripción de Problemas y Recomendaciones:**
+
+##### **Landing Page**
+
+###### **Problema 1:**
+- **Severidad:** 1
+- **Heurística violada:** IA - ¿Es claro?
+- **Descripción:** El texto de la página de aterrizaje es ambiguo, dificultando que los usuarios comprendan de inmediato la propuesta de valor de la plataforma.
+- **Recomendación:** Mejorar la estructura y claridad del texto, utilizando títulos más claros y descripciones concisas. Usar listas y puntos destacados para facilitar la comprensión rápida.
+
+###### **Problema 2:**
+- **Severidad:** 2
+- **Heurística violada:** IA - ¿Es usable?
+- **Descripción:** Los botones de acción ("Reservar ahora") no son lo suficientemente claros ni atractivos, lo que genera dudas sobre su función.
+- **Recomendación:** Rediseñar los botones de *call to action* con textos más específicos y visibles, como “Reserva tu vehículo ahora”, para transmitir claramente lo que ocurrirá al hacer clic.
+
+###### **Problema 3:**
+- **Severidad:** 2
+- **Heurística violada:** Usabilidad - Consistencia y estándares
+- **Descripción:** Las cards de los vehículos no contienen todos los detalles relevantes (por ejemplo, el número de placa), lo que puede generar confusión o desconfianza en los usuarios.
+- **Recomendación:** Asegurarse de que cada card incluya toda la información básica, como el número de placa, el modelo del vehículo, y otros datos clave, de manera coherente en todas las opciones.
+
+###### **Problema 4:**
+- **Severidad:** 3
+- **Heurística violada:** IA - ¿Es encontrable?
+- **Descripción:** La jerarquía visual no está bien definida, lo que dificulta la navegación y la identificación rápida de los elementos más importantes.
+- **Recomendación:** Rediseñar la página para establecer una jerarquía visual clara, asegurando que las secciones más importantes, como el *call to action*, sean fácilmente accesibles.
+
+---
+
+##### **Aplicación Web**
+
+###### **Problema 1:**
+- **Severidad:** 2
+- **Heurística violada:** Usabilidad - Flexibilidad y eficiencia de uso
+- **Descripción:** Los filtros de búsqueda disponibles no permiten una búsqueda avanzada por características específicas del vehículo, lo que dificulta a los usuarios encontrar opciones específicas.
+- **Recomendación:** Mejorar el sistema de búsqueda añadiendo filtros más detallados, como tipo de vehículo, precio, ubicación, y características específicas.
+
+###### **Problema 2:**
+- **Severidad:** 3
+- **Heurística violada:** Usabilidad - Retroalimentación y estado del sistema
+- **Descripción:** La plataforma no muestra la disponibilidad de los vehículos en tiempo real, lo que causa incertidumbre en los arrendatarios.
+- **Recomendación:** Implementar un sistema de retroalimentación en tiempo real que actualice constantemente la disponibilidad de los vehículos y muestre mensajes claros cuando no haya vehículos disponibles.
+
+###### **Problema 3:**
+- **Severidad:** 2
+- **Heurística violada:** Usabilidad - Consistencia y estándares
+- **Descripción:** Los arrendadores tienen dificultades para modificar los detalles de sus vehículos debido a la falta de consistencia en la interfaz.
+- **Recomendación:** Estandarizar los formularios y procesos para la edición de vehículos, asegurándose de que el flujo sea sencillo y consistente con el resto de la plataforma.
+
+###### **Problema 4:**
+- **Severidad:** 3
+- **Heurística violada:** IA - ¿Es encontrable?
+- **Descripción:** La falta de un mapa interactivo impide a los arrendatarios localizar los vehículos disponibles fácilmente.
+- **Recomendación:** Implementar un mapa interactivo para que los arrendatarios puedan visualizar los vehículos disponibles en su área, mejorando así la accesibilidad y la facilidad de uso de la plataforma.
+
+---
+
+Estas mejoras y recomendaciones están diseñadas para optimizar la experiencia del usuario, mejorar la accesibilidad y garantizar la eficiencia de las funcionalidades clave de la plataforma. La implementación de estas sugerencias fortalecerá la plataforma, haciéndola más intuitiva y eficiente para todos los usuarios.
+Con estos cambios, la evaluación de las heurísticas estará más alineada con los estándares profesionales y será clara y efectiva en su presentación. Si necesitas más ajustes o deseas ampliar algún aspecto específico, ¡avísame!
+
+---
+## 5.4. Video About-the-Product
+
+### Resumen del Video About-The-Product
+
+El video *About-The-Product* tiene como objetivo proporcionar una descripción completa y concisa sobre el modelo de negocio y las características principales de la solución propuesta. Está dirigido tanto a los visitantes del *Landing Page* que desean conocer más sobre el producto, como a los usuarios que interactúan con las aplicaciones, buscando tareas relacionadas con los procesos del negocio.
+
+<img src="./assets/sprint4/about-the-product.png" alt="Jesus Sagastegui"  width="600">
+
+#### **URL del Video:**
+- [**Microsoft Stream URL**](Linkyoutube.com)
+- [**YouTube URL (para el *Landing Page*)**](Linkyoutube.com)
+
+---
+
+#### **Objetivo del Video:**
+El objetivo principal del video es ofrecer una visión completa del producto y cómo satisface las necesidades del mercado de alquiler de vehículos. Se busca generar confianza en los usuarios y promover la adopción de la plataforma, destacando sus funcionalidades clave y cómo facilita la interacción entre arrendadores y arrendatarios de manera digital, eficiente y segura. Este video complementa el trabajo realizado durante el ciclo de desarrollo de la plataforma, reflejando los avances y la colaboración de todos los miembros del equipo en la creación del producto.
+
+
 # Conclusiones
 
-## Conclusiones
 
 El desarrollo del proyecto *Renticar* permitió aplicar de manera integral los conceptos de 
 **ingeniería de software** y las metodologías orientadas al **diseño centrado en el usuario**, 
@@ -1896,6 +3118,57 @@ aplicaciones web, sino que también fomentó la capacidad de **planificación es
 de requerimientos y trabajo colaborativo**, consolidando un aprendizaje integral que puede ser 
 aplicado en entornos reales de desarrollo de software.
 
+# Recomendaciones
+
+1. **Fortalecer la Confianza en la Plataforma:**
+   La confianza sigue siendo el principal factor que determina el éxito en el mercado del alquiler de vehículos. Para mejorar la seguridad en la plataforma, recomendamos:
+    - Incorporar un **sistema de monitoreo en tiempo real** para que tanto arrendadores como arrendatarios puedan verificar la ubicación del vehículo durante el alquiler.
+    - Mejorar el **proceso de certificación de usuarios**, incluyendo más pasos de validación como referencias y verificación de antecedentes.
+    - Crear una **sección de testimonios** o **reseñas verificadas** donde los usuarios puedan compartir sus experiencias y así aumentar la transparencia del servicio.
+<br><br>
+2. **Optimizar la Experiencia de Usuario:**
+   La plataforma debe ser fácil de usar, especialmente para aquellos menos familiarizados con la tecnología. Algunas sugerencias son:
+    - **Simplificar el proceso de reserva**, asegurándose de que los arrendatarios puedan completar sus reservas rápidamente sin complicaciones.
+    - Mejorar el **diseño de la página principal** y las **secciones destacadas** para que los usuarios encuentren más fácilmente lo que buscan.
+    - Agregar un **sistema de filtros** para que los arrendatarios puedan filtrar opciones según tipo de vehículo, precio y ubicación, facilitando la búsqueda.
+      <br><br>
+3. **Incorporar Funciones de Seguridad Avanzadas:**
+   Para brindar mayor seguridad a ambos segmentos, los arrendadores y arrendatarios, se recomienda:
+    - Ofrecer **seguros opcionales** que protejan a ambos en caso de accidentes o problemas durante el alquiler.
+    - Crear una **cláusula de garantía digital** que cubra daños o incidencias durante el alquiler y sea fácilmente accesible a los usuarios.
+      <br><br>
+4. **Estrategia de Marketing y Captación de Usuarios:**
+   La construcción de una base sólida de usuarios es esencial para el éxito del proyecto. Algunas recomendaciones son:
+    - **Ofrecer promociones iniciales**, como descuentos en las primeras reservas o incentivos por referir nuevos usuarios.
+    - Realizar **campañas de marketing digital** enfocadas en mostrar los beneficios de una plataforma segura y confiable.
+    - **Establecer alianzas estratégicas** con aseguradoras, instituciones financieras y agencias de turismo para aumentar la visibilidad de la plataforma y agregar valor para los usuarios.
+      <br><br>
+5. **Expansión del Modelo de Negocio:**
+   Una vez validado el modelo en Lima, se recomienda ampliar el servicio a otras ciudades de Perú. Además:
+    - **Expandir a otras regiones** del país, comenzando con ciudades como Arequipa, Trujillo y Cusco, que también presentan una alta demanda de alquiler de vehículos.
+    - Considerar la **expansión internacional** a otros países de Latinoamérica, como Chile o Colombia, que enfrentan problemas similares en el mercado de alquiler de vehículos.
+      <br><br>
+6. **Monitoreo Continuo del MVP:**
+   La plataforma debe seguir siendo adaptada y mejorada constantemente con base en el feedback de los usuarios. Para ello:
+    - Realizar **pruebas continuas de usabilidad** con grupos de usuarios para recolectar datos sobre su experiencia y mejorar la plataforma.
+    - **Medir el éxito** a través de indicadores clave como la tasa de adopción, la satisfacción del usuario, el número de reservas realizadas y la cantidad de vehículos registrados.
+      <br><br>
+7. **Desarrollo de Funcionalidades Avanzadas:**
+   A largo plazo, sería recomendable agregar funcionalidades que proporcionen aún más valor al servicio, como:
+    - **Desarrollo de aplicaciones móviles** para facilitar el acceso a los usuarios.
+    - Incluir **vehículos eléctricos** en la oferta para atraer a un público más consciente del medio ambiente.
+    - Ofrecer **servicios complementarios**, como alquiler por suscripción o alquiler de vehículos con conductor, para diversificar las opciones disponibles.
+
+---
+
+## Pasos Siguientes:
+
+1. **Mejorar las funcionalidades y lanzar nuevas características**, con énfasis en las mejoras de seguridad y la optimización de la experiencia del usuario.
+2. **Realizar campañas de marketing digital** con énfasis en las ventajas de usar una plataforma digital confiable, destacando testimonios y casos de éxito.
+3. **Monitorear la adopción** del MVP y realizar pruebas continuas para ajustar y mejorar la plataforma según las necesidades de los usuarios.
+
+Con estas recomendaciones, *RentiCar* tiene un gran potencial para transformar el mercado de alquiler de vehículos en Perú, ofreciendo una experiencia digital innovadora y confiable para ambos segmentos.
+
 # Bibliografía
 
 - Cohn, M. (2004). *User Stories Applied: For Agile Software Development*. Addison-Wesley Professional.
@@ -1907,9 +3180,13 @@ aplicado en entornos reales de desarrollo de software.
 
 # Anexos
 
-- Link de la organización de GitHub: https://github.com/CodexaTeam
-- Link del repositorio del reporte: https://github.com/CodexaTeam/Report
-- Link del repositorio de landing page: https://github.com/CodexaTeam/LandingPage
-- Link de la landing page desplegada: https://renticarlandingpage.vercel.app/
-- Link del trello: https://trello.com/b/v6yAFQ2f/renticar
+- [Link de la organización de GitHub](https://github.com/CodexaTeam)
+- [Link del repositorio del reporte](https://github.com/CodexaTeam/Report)
+- [Link del repositorio de landing page](https://github.com/CodexaTeam/LandingPage)
+- [Link de la landing page desplegada](https://renticarlandingpage.vercel.app/)
+- [Link del repositorio de Frontend](https://github.com/CodexaTeam/Frontend)
+- [Link del Frontend desplegada](https://renticar-frontend.netlify.app/)
+- [Link del repositorio de BackEnd](https://github.com/CodexaTeam/Backend.git)
+- [Link del Backend desplegado](https://backend-production-73c6.up.railway.app/swagger-ui/index.html)
+- [Link del trello](https://trello.com/b/v6yAFQ2f/renticar)
 
