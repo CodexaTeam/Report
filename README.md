@@ -3507,6 +3507,111 @@ Durante este sprint, se implementaron y documentaron nuevos endpoints relacionad
 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+
+Durante este sprint, se realizó el despliegue completo del sistema, incluyendo el Front-End, Back-End y la base de datos en servicios de la nube. A continuación, se detalla el proceso llevado a cabo para garantizar un entorno funcional, estable y accesible para el equipo y los usuarios finales.
+
+---
+
+## Despliegue en Render – Backend y Frontend
+
+Render fue la plataforma seleccionada para el despliegue tanto del Back-End como del Front-End, debido a su facilidad de uso, despliegue continuo conectado con GitHub y soporte para aplicaciones web modernas.
+
+### **Creación de cuentas y preparación de los proyectos**
+Para iniciar el proceso, se configuraron nuestras cuentas en Render, lo que nos permitió acceder a los dashboards de despliegue y habilitar los recursos necesarios. Render ofrece un flujo de trabajo simple basado en GitHub, permitiendo que cada push a las ramas configuradas genere un deploy automático.
+
+### **Despliegue del Back-End en Render**
+- Se creó un servicio del tipo *Web Service* y se conectó directamente al repositorio del backend en GitHub.
+- Render ejecutó automáticamente el proceso de build y deploy utilizando la configuración del proyecto.
+- Se configuraron variables de entorno (environment variables) como:
+  - `DB_HOST`, `DB_PORT`, `DB_USER`, `DB_PASSWORD`
+  - credenciales JWT
+  - configuración de producción
+- Render generó una **URL pública** con la cual el backend quedó accesible, permitiendo integrar el frontend y exponer Swagger UI para pruebas y documentación.
+
+<td><img src="assets/deployback.jpeg" alt="Imagen de deploy back" width="1500"></td>
+
+<td><img src="assets/deployback1.jpeg" alt="Imagen de deploy back" width="1500"></td>
+---
+
+## **Despliegue del Front-End en Render**
+El front-end, desarrollado en Angular, también fue desplegado en Render como un servicio estático:
+
+- Se creó un *Static Site* conectado al repositorio del frontend.
+- Render ejecutó automáticamente el `ng build` para generar los archivos optimizados.
+- Se configuró el archivo `build command` y la carpeta `publish directory` conforme al proyecto de Angular.
+- Finalmente, Render generó una **URL pública** que expone el landing page y las vistas del sistema.
+
+<td><img src="assets/deployfront.jpeg" alt="Imagen de deploy front" width="1500"></td>
+
+<td><img src="assets/deployfront1.jpeg" alt="Imagen de deploy front" width="1500"></td>
+
+
+---
+
+## Base de Datos – TiDB Cloud
+
+La base de datos del proyecto fue alojada en **TiDB Cloud**, una solución distribuida y altamente escalable que permitió gestionar nuestros datos con eficiencia.
+
+### **Configuración en TiDB Cloud**
+- Se creó un clúster dedicado para la aplicación.
+- Se generaron credenciales de conexión para el backend.
+- Se configuró la IP pública permitida (whitelist) para permitir conexiones desde Render.
+- Se verificó la creación automática de tablas desde el backend (ORM).
+
+### **Conexión con el Backend**
+El backend se integró con TiDB Cloud utilizando las credenciales proporcionadas por el servicio:
+- Host del clúster (endpoint)
+- Usuario y contraseña
+- Puerto de conexión
+- Base de datos asignada
+
+Esta integración permitió validar operaciones como inserciones, consultas, actualizaciones y simulaciones de datos (telemetría y rutas).
+
+<td><img src="assets/deploydb.jpeg" alt="Imagen de deploy db" width="1500"></td>
+
+<td><img src="assets/deploydb1.jpeg" alt="Imagen de deploy db" width="1500"></td>
+
+---
+
+## Herramientas de Desarrollo Utilizadas
+
+Para el desarrollo del Backend, Frontend y la integración del sistema, se utilizaron las siguientes herramientas:
+
+### **TiDB Cloud**
+Gestión de la base de datos del proyecto. Permite monitorear tablas, ejecutar consultas SQL y validar los registros generados desde la API.
+
+### **Git**
+Sistema de control de versiones que permitió al equipo trabajar de forma colaborativa y organizada.  
+
+### **GitHub**
+Plataforma donde se almacenaron los repositorios del proyecto Front-End y Back-End, facilitando:
+- Pull requests
+- Versionamiento
+- Integración con Render para despliegues automáticos
+
+### **IntelliJ IDEA / VSCode**
+IDE utilizados para escribir, depurar y mantener el código del back-end y front-end.
+
+### **Swagger UI**
+Integrado en el backend, permitió visualizar, probar y documentar cada endpoint de la API REST.
+
+---
+
+## Control de Versiones – GitFlow Workflow
+
+Para organizar el desarrollo, se utilizó la metodología **GitFlow**, que define ramas específicas para cada etapa del ciclo de vida del software:
+
+- `main` → versión estable y desplegada
+- `develop` → integración principal
+- `feature/*` → desarrollo de nuevas funcionalidades
+- `hotfix/*` → correcciones urgentes
+
+Este flujo permitió mantener el código organizado, reducir errores en integraciones y mejorar la colaboración del equipo.
+
+---
+
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de entrevistas de validación
