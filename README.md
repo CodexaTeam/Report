@@ -3901,13 +3901,33 @@ El video *About-The-Product* tiene como objetivo proporcionar una descripción c
 <img src="./assets/sprint4/about-the-product.png" alt="Jesus Sagastegui"  width="600">
 
 #### **URL del Video:**
-- [**Microsoft Stream URL**](Linkyoutube.com)
-- [**YouTube URL**](Linkyoutube.com)
+- [**Microsoft Stream URL**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014249_upc_edu_pe/IQBRQ-w4m-uiTZx0HkCpkrYoAdP0kKPshjPTmEVJ_LQJb_E)
+- [**YouTube URL**](https://youtu.be/mm6XtLGodz8)
 
 ---
 
 #### **Objetivo del Video:**
 El objetivo principal del video es ofrecer una visión completa del producto y cómo satisface las necesidades del mercado de alquiler de vehículos. Se busca generar confianza en los usuarios y promover la adopción de la plataforma, destacando sus funcionalidades clave y cómo facilita la interacción entre arrendadores y arrendatarios de manera digital, eficiente y segura. Este video complementa el trabajo realizado durante el ciclo de desarrollo de la plataforma, reflejando los avances y la colaboración de todos los miembros del equipo en la creación del producto.
+
+
+## Video About-the-Team
+
+### Resumen del Video About-The-Team
+
+El video *About-The-Team* tiene como objetivo proporcionar una visión general sobre el equipo que ha trabajado en el desarrollo de la plataforma. Está dirigido a los usuarios que quieren conocer a las personas detrás del proyecto, entender sus roles y cómo la colaboración del equipo ha sido fundamental para el éxito del producto. Este video presenta brevemente a cada miembro del equipo, sus responsabilidades y el trabajo conjunto que permitió alcanzar los objetivos del proyecto.
+
+<img src="./assets/sprint4/about-the-team.jpeg" alt="Equipo de trabajo" width="600">
+
+#### **URL del Video:**
+- [**Microsoft Stream URL**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014249_upc_edu_pe/IQAUoEjJ2x54TLJOZH6-3gjSAbomfJIY7JUJMbCX6-vItGQ?e=4uw4ff&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [**YouTube URL**](https://youtu.be/S1iQyE4EdRo)
+
+---
+
+#### **Objetivo del Video:**
+El objetivo principal del video es mostrar al equipo detrás del proyecto y sus contribuciones clave. Se busca humanizar el producto, permitiendo que los usuarios se conecten mejor con las personas que han trabajado arduamente para desarrollarlo. Además, se resalta la **colaboración** y el **trabajo en equipo** como factores esenciales para el éxito de la plataforma. Este video destaca cómo cada miembro del equipo aportó sus habilidades y experiencias para crear una solución integral, trabajando de manera conjunta para cumplir con las expectativas de los usuarios y garantizar que el producto sea de alta calidad y eficiente.
+
+El video complementa el trabajo realizado durante el ciclo de desarrollo, reflejando los esfuerzos, desafíos y logros alcanzados por todo el equipo. A través de este video, los usuarios pueden conocer a las personas que hay detrás de la plataforma, creando una mayor conexión y confianza en el producto.
 
 
 # Conclusiones
@@ -3933,27 +3953,6 @@ En síntesis, el proyecto no solo fortaleció las competencias técnicas en la c
 aplicaciones web, sino que también fomentó la capacidad de **planificación estratégica, análisis 
 de requerimientos y trabajo colaborativo**, consolidando un aprendizaje integral que puede ser 
 aplicado en entornos reales de desarrollo de software.
-
-## Video About-the-Team
-
-### Resumen del Video About-The-Team
-
-El video *About-The-Team* tiene como objetivo proporcionar una visión general sobre el equipo que ha trabajado en el desarrollo de la plataforma. Está dirigido a los usuarios que quieren conocer a las personas detrás del proyecto, entender sus roles y cómo la colaboración del equipo ha sido fundamental para el éxito del producto. Este video presenta brevemente a cada miembro del equipo, sus responsabilidades y el trabajo conjunto que permitió alcanzar los objetivos del proyecto.
-
-<img src="./assets/sprint4/about-the-team.png" alt="Equipo de trabajo" width="600">
-
-#### **URL del Video:**
-- [**Microsoft Stream URL**](Linkyoutube.com)
-- [**YouTube URL**](Linkyoutube.com)
-
----
-
-#### **Objetivo del Video:**
-El objetivo principal del video es mostrar al equipo detrás del proyecto y sus contribuciones clave. Se busca humanizar el producto, permitiendo que los usuarios se conecten mejor con las personas que han trabajado arduamente para desarrollarlo. Además, se resalta la **colaboración** y el **trabajo en equipo** como factores esenciales para el éxito de la plataforma. Este video destaca cómo cada miembro del equipo aportó sus habilidades y experiencias para crear una solución integral, trabajando de manera conjunta para cumplir con las expectativas de los usuarios y garantizar que el producto sea de alta calidad y eficiente.
-
-El video complementa el trabajo realizado durante el ciclo de desarrollo, reflejando los esfuerzos, desafíos y logros alcanzados por todo el equipo. A través de este video, los usuarios pueden conocer a las personas que hay detrás de la plataforma, creando una mayor conexión y confianza en el producto.
-
-
 
 
 # Recomendaciones
