@@ -3269,6 +3269,143 @@ Para el desarrollo de las User Stories del 24 al 36, relacionadas con la simulac
 </table>
 
 #### 5.2.4.4. Development Evidence for Sprint Review
+
+En esta sección se presenta la evidencia de desarrollo correspondiente al Sprint 4, recopilada directamente desde el historial de commits del repositorio en GitHub. Cada commit refleja el avance realizado por los integrantes del equipo, asociado a las User Stories del backlog y dividido en dos categorías principales: Backend y Front-End. Estas evidencias permiten verificar la contribución individual de cada miembro, la implementación de funcionalidades, la integración del sistema y la calidad del trabajo realizado durante el sprint.
+
+### Front-End – Development Evidence for Sprint Review
+
+
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>User Story</th>
+    <th>Responsable (Backlog)</th>
+    <th>Usuario GitHub Real</th>
+    <th>Commit Message</th>
+    <th>Hash</th>
+  </tr>
+
+  <tr>
+    <td>US19 – Create Review</td>
+    <td>Jesús Rodríguez</td>
+    <td><b>JesusRodriguez7</b></td>
+    <td>feat: added reviews</td>
+    <td>c52ed07</td>
+  </tr>
+
+  <tr>
+    <td>US22 – Register Telemetry (IoT)</td>
+    <td>Jesús Rodríguez</td>
+    <td><b>JesusRodriguez7</b></td>
+    <td>feat: added iot</td>
+    <td>fa7d782</td>
+  </tr>
+
+  <tr>
+    <td>US13 – Create Booking</td>
+    <td>Sergio Landa</td>
+    <td><b>Serkes2006</b></td>
+    <td>feat: commit booking</td>
+    <td>dbbd02b</td>
+  </tr>
+
+  <tr>
+    <td>US12 – Vehicle Listings</td>
+    <td>Joel Huanca</td>
+    <td><b>JoelHuancaZevallos</b></td>
+    <td>feat: implement vehicle creation and management commands, queries, and REST API</td>
+    <td>2566e1e</td>
+  </tr>
+
+  <tr>
+    <td>US01 – Sign Up / IAM</td>
+    <td>Estefano Solís</td>
+    <td><b>Estefano-Solis-C</b></td>
+    <td>feat: bounded context iam</td>
+    <td>90be49a</td>
+  </tr>
+
+  <tr>
+    <td>US01 – Sign Up / IAM</td>
+    <td>Estefano Solís</td>
+    <td><b>Estefano-Solis-C</b></td>
+    <td>feat: uploading basic implementation</td>
+    <td>9f323d7</td>
+  </tr>
+
+</table>
+
+
+
+### Back-End – Development Evidence for Sprint Review
+
+
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>User Story</th>
+    <th>Responsable (Backlog)</th>
+    <th>Usuario GitHub Real</th>
+    <th>Commit Message</th>
+    <th>Hash</th>
+  </tr>
+
+  <!-- Commit 1 -->
+  <tr>
+    <td>US19 – Create Review</td>
+    <td>Jesús Rodríguez</td>
+    <td><b>JesusRodriguez7</b></td>
+    <td>feat: added reviews</td>
+    <td>c52ed07</td>
+  </tr>
+
+  <!-- Commit 2 -->
+  <tr>
+    <td>US22 – Register Telemetry (IoT)</td>
+    <td>Jesús Rodríguez</td>
+    <td><b>JesusRodriguez7</b></td>
+    <td>feat: added iot</td>
+    <td>fa7d782</td>
+  </tr>
+
+  <!-- Commit 3 -->
+  <tr>
+    <td>US13 – Create Booking</td>
+    <td>Sergio Landa</td>
+    <td><b>Serkes2006</b></td>
+    <td>feat: commit booking</td>
+    <td>dbbd02b</td>
+  </tr>
+
+  <!-- Commit 4 -->
+  <tr>
+    <td>US12 – Vehicle Listings</td>
+    <td>Joel Huanca</td>
+    <td><b>JoelHuancaZevallos</b></td>
+    <td>feat: implement vehicle creation and management commands, queries, and REST API</td>
+    <td>2566e1e</td>
+  </tr>
+
+  <!-- Commit 5 -->
+  <tr>
+    <td>US01 – IAM / Sign Up</td>
+    <td>Estefano Solís</td>
+    <td><b>Estefano-Solis-C</b></td>
+    <td>feat: bounded context iam</td>
+    <td>90be49a</td>
+  </tr>
+
+  <!-- Commit 6 -->
+  <tr>
+    <td>US01 – IAM / Sign Up</td>
+    <td>Estefano Solís</td>
+    <td><b>Estefano-Solis-C</b></td>
+    <td>feat: uploading basic implementation</td>
+    <td>9f323d7</td>
+  </tr>
+
+</table>
+
+
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
