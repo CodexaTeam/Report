@@ -2,15 +2,15 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="logo"  width="20%"/>
 
 **Universidad Peruana de Ciencias Aplicadas** <br>
-**Ingeniería de Software** <br>
-**Ciclo 2025-2** <br>
+**Facultad de Ingeniería de Software** <br>
+**Ciclo 2025-20** <br>
 
-<h4>Desarrollo de Aplicaciones Open Source</h4>
+<h4>1ASI0729 - Desarrollo de Aplicaciones Open Source</h4>
 
-**Sección:** 7380
+**NRC:** 7380
 **Profesor:** Mori Paiva, Hugo Allan
 
-<h3>INFORME DEL TB2</h3>
+<h3>"Informe del Trabajo Final"</h3>
 
 **Startup:** InnovaSoft
 
@@ -18,13 +18,13 @@
 
 **Integrantes:**
 
-Huanca Zevallos, Cristhian Joel - u20201b914 <br>
-Landa Ortiz, Sergio Javier - u202311086<br>
-Sagastegui Rodriguez, Luis Jesus - u202014249<br>
-Solis Campos, Estefano Sebastian - u202314354 <br>
+u20201b914 - Huanca Zevallos, Cristhian Joel<br>
+u202311086 - Landa Ortiz, Sergio Javier<br>
+u202014249 - Sagastegui Rodriguez, Luis Jesus<br>
+u202314354 - Solis Campos, Estefano Sebastian<br>
  
 
-**Noviembre, 2025**
+**Diciembre, 2025**
 
 </div>
 
@@ -111,7 +111,7 @@ En la entrega final (TF), se entregó el producto completo, integrando todas las
 
 - [Student Outcome](#student-outcome)
 
-- [Capítulo I: Introducción](#cap1)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
         - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
         - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -124,7 +124,7 @@ En la entrega final (TF), se entregó el producto completo, integrando todas las
             - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
     - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-- [Capítulo II: Requirements Elicitation & Analysis](#cap2)
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
     - [2.1. Competidores](#21-competidores)
         - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
         - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -142,13 +142,13 @@ En la entrega final (TF), se entregó el producto completo, integrando todas las
 
 
 
-- [Capítulo III: Requirements Specification](#cap3)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [3.1. User Stories](#31-user-stories)
     - [3.2. Impact Mapping](#32-impact-mapping)
     - [3.3. Product Backlog](#33-product-backlog)
 
 
-- [Capítulo IV: Product Design](#cap4)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
     - [4.1. Style Guidelines](#41-style-guidelines)
         - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
         - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
@@ -178,7 +178,7 @@ En la entrega final (TF), se entregó el producto completo, integrando todas las
         - [4.8.1. Database Diagram](#481-database-diagram)
 
 
-- [Capítulo V: Product Implementation, Validation & Deployment](#cap5)
+- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
     - [5.1. Software Configuration Management](#51-software-configuration-management)
         - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
         - [5.1.2. Source Code Management](#512-source-code-management)
@@ -226,10 +226,11 @@ En la entrega final (TF), se entregó el producto completo, integrando todas las
         - [5.3.2. Registro de entrevistas de validación](#532-registro-de-entrevistas-de-validación)
         - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
     - [5.4. Video About-the-Product](#54-video-about-the-product)
-    - [5.5. Video About-the-Team](#55-video-about-the-team)
+    
 
 - [Conclusiones](#conclusiones)
 - [Recomendaciones](#recomendaciones)
+- [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -3095,26 +3096,6 @@ El video *About-The-Product* tiene como objetivo proporcionar una descripción c
 El objetivo principal del video es ofrecer una visión completa del producto y cómo satisface las necesidades del mercado de alquiler de vehículos. Se busca generar confianza en los usuarios y promover la adopción de la plataforma, destacando sus funcionalidades clave y cómo facilita la interacción entre arrendadores y arrendatarios de manera digital, eficiente y segura. Este video complementa el trabajo realizado durante el ciclo de desarrollo de la plataforma, reflejando los avances y la colaboración de todos los miembros del equipo en la creación del producto.
 
 
-## 5.5. Video About-the-Team
-
-### Resumen del Video About-The-Team
-
-El video *About-The-Team* tiene como objetivo proporcionar una visión general sobre el equipo que ha trabajado en el desarrollo de la plataforma. Está dirigido a los usuarios que quieren conocer a las personas detrás del proyecto, entender sus roles y cómo la colaboración del equipo ha sido fundamental para el éxito del producto. Este video presenta brevemente a cada miembro del equipo, sus responsabilidades y el trabajo conjunto que permitió alcanzar los objetivos del proyecto.
-
-<img src="./assets/sprint4/about-the-team.png" alt="Equipo de trabajo" width="600">
-
-#### **URL del Video:**
-- [**Microsoft Stream URL**](Linkyoutube.com)
-- [**YouTube URL**](Linkyoutube.com)
-
----
-
-#### **Objetivo del Video:**
-El objetivo principal del video es mostrar al equipo detrás del proyecto y sus contribuciones clave. Se busca humanizar el producto, permitiendo que los usuarios se conecten mejor con las personas que han trabajado arduamente para desarrollarlo. Además, se resalta la **colaboración** y el **trabajo en equipo** como factores esenciales para el éxito de la plataforma. Este video destaca cómo cada miembro del equipo aportó sus habilidades y experiencias para crear una solución integral, trabajando de manera conjunta para cumplir con las expectativas de los usuarios y garantizar que el producto sea de alta calidad y eficiente.
-
-El video complementa el trabajo realizado durante el ciclo de desarrollo, reflejando los esfuerzos, desafíos y logros alcanzados por todo el equipo. A través de este video, los usuarios pueden conocer a las personas que hay detrás de la plataforma, creando una mayor conexión y confianza en el producto.
-
-
 # Conclusiones
 
 
@@ -3138,6 +3119,28 @@ En síntesis, el proyecto no solo fortaleció las competencias técnicas en la c
 aplicaciones web, sino que también fomentó la capacidad de **planificación estratégica, análisis 
 de requerimientos y trabajo colaborativo**, consolidando un aprendizaje integral que puede ser 
 aplicado en entornos reales de desarrollo de software.
+
+## Video About-the-Team
+
+### Resumen del Video About-The-Team
+
+El video *About-The-Team* tiene como objetivo proporcionar una visión general sobre el equipo que ha trabajado en el desarrollo de la plataforma. Está dirigido a los usuarios que quieren conocer a las personas detrás del proyecto, entender sus roles y cómo la colaboración del equipo ha sido fundamental para el éxito del producto. Este video presenta brevemente a cada miembro del equipo, sus responsabilidades y el trabajo conjunto que permitió alcanzar los objetivos del proyecto.
+
+<img src="./assets/sprint4/about-the-team.png" alt="Equipo de trabajo" width="600">
+
+#### **URL del Video:**
+- [**Microsoft Stream URL**](Linkyoutube.com)
+- [**YouTube URL**](Linkyoutube.com)
+
+---
+
+#### **Objetivo del Video:**
+El objetivo principal del video es mostrar al equipo detrás del proyecto y sus contribuciones clave. Se busca humanizar el producto, permitiendo que los usuarios se conecten mejor con las personas que han trabajado arduamente para desarrollarlo. Además, se resalta la **colaboración** y el **trabajo en equipo** como factores esenciales para el éxito de la plataforma. Este video destaca cómo cada miembro del equipo aportó sus habilidades y experiencias para crear una solución integral, trabajando de manera conjunta para cumplir con las expectativas de los usuarios y garantizar que el producto sea de alta calidad y eficiente.
+
+El video complementa el trabajo realizado durante el ciclo de desarrollo, reflejando los esfuerzos, desafíos y logros alcanzados por todo el equipo. A través de este video, los usuarios pueden conocer a las personas que hay detrás de la plataforma, creando una mayor conexión y confianza en el producto.
+
+
+
 
 # Recomendaciones
 
