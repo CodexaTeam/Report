@@ -3417,16 +3417,95 @@ Las imágenes incluidas a continuación permiten validar de manera visual el cor
 
 <td><img src="assets/evidenciafront1.jpeg" alt="Imagen de la evidencia del front" width="1500"></td>
 
+Link del front-end: https://front-end-open-source.onrender.com
+
 ### Evidencia de los nuevos endpoints agregados
 
 <td><img src="assets/evidenciaback1.jpeg" alt="Imagen de la evidencia del back" width="1500"></td>
 <td><img src="assets/evidenciaback2.jpeg" alt="Imagen de la evidencia del back" width="1500"></td>
+
+Link del back-end: https://back-end-open-source.onrender.com
 
 ### Evidencia de la conexion exitosa de la base de datos
 
 <td><img src="assets/evidenciadb1.jpeg" alt="Imagen de la conexion con la base de datos" width="1500"></td>
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se implementaron y documentaron nuevos endpoints relacionados con la simulación de rutas y el registro, consulta y simulación de telemetría. A continuación se presenta la tabla que detalla sus características principales:
+
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Sintaxis de Llamada</th>
+    <th>Parámetros</th>
+  </tr>
+
+  <!-- ========================== ROUTE SIMULATION ========================== -->
+
+  <tr>
+    <td>/api/v1/simulation/route</td>
+    <td>Obtener coordenadas simuladas de una ruta</td>
+    <td>GET</td>
+    <td>/api/v1/simulation/route</td>
+    <td>—</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/simulation/complete-route</td>
+    <td>Obtener ruta completa simulada</td>
+    <td>GET</td>
+    <td>/api/v1/simulation/complete-route</td>
+    <td>—</td>
+  </tr>
+
+  <!-- ========================== TELEMETRY ========================== -->
+
+  <tr>
+    <td>/api/v1/telemetry</td>
+    <td>Registrar datos de telemetría</td>
+    <td>POST</td>
+    <td>/api/v1/telemetry</td>
+    <td>body(telemetryData)</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/telemetry/simulate/{vehicleId}</td>
+    <td>Iniciar simulación automática de telemetría</td>
+    <td>POST</td>
+    <td>/api/v1/telemetry/simulate/{vehicleId}</td>
+    <td>vehicleId</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/telemetry/simulate/{vehicleId}/custom</td>
+    <td>Iniciar simulación personalizada de telemetría</td>
+    <td>POST</td>
+    <td>/api/v1/telemetry/simulate/{vehicleId}/custom</td>
+    <td>vehicleId, body(customSimulation)</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/telemetry/vehicle/{vehicleId}</td>
+    <td>Obtener historial de telemetría por vehículo</td>
+    <td>GET</td>
+    <td>/api/v1/telemetry/vehicle/{vehicleId}</td>
+    <td>vehicleId</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/telemetry/vehicle/{vehicleId}/latest</td>
+    <td>Obtener el registro más reciente de telemetría</td>
+    <td>GET</td>
+    <td>/api/v1/telemetry/vehicle/{vehicleId}/latest</td>
+    <td>vehicleId</td>
+  </tr>
+
+</table>
+
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 ## 5.3. Validation Interviews
