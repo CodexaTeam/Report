@@ -3415,16 +3415,16 @@ Las imágenes incluidas a continuación permiten validar de manera visual el cor
 
 ### Evidencia del Front-End
 
-<td><img src="assets/evidenciafront1.png" alt="Imagen de la evidencia del front" width="1500"></td>
+<td><img src="assets/evidenciafront1.jpeg" alt="Imagen de la evidencia del front" width="1500"></td>
 
 ### Evidencia de los nuevos endpoints agregados
 
-<td><img src="assets/evidenciaback1.png" alt="Imagen de la evidencia del back" width="1500"></td>
-<td><img src="assets/evidenciaback2.png" alt="Imagen de la evidencia del back" width="1500"></td>
+<td><img src="assets/evidenciaback1.jpeg" alt="Imagen de la evidencia del back" width="1500"></td>
+<td><img src="assets/evidenciaback2.jpeg" alt="Imagen de la evidencia del back" width="1500"></td>
 
 ### Evidencia de la conexion exitosa de la base de datos
 
-<td><img src="assets/evidenciadb1.png" alt="Imagen de la conexion con la base de datos" width="1500"></td>
+<td><img src="assets/evidenciadb1.jpeg" alt="Imagen de la conexion con la base de datos" width="1500"></td>
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
