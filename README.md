@@ -3042,6 +3042,105 @@ Para este sprint, se realizará toda la configuración de conexion del Back con 
 </table>
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
+
+Para el desarrollo de las User Stories del 24 al 36, relacionadas con la simulación de rutas, telemetría IoT e integración del sistema Front–Back, se asignaron líderes y colaboradores por cada aspecto técnico. Esta organización permitió una división clara de responsabilidades, facilitó el trabajo colaborativo y aseguró el cumplimiento de los objetivos del Sprint.
+
+
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Aspecto</th>
+    <th>Líder</th>
+    <th>Colaboradores</th>
+    <th>Responsabilidades</th>
+  </tr>
+
+  <!-- =========================== Backend Simulation ============================ -->
+  <tr>
+    <td><b>Simulación de Rutas (Backend)</b></td>
+    <td>Jesus Sagastegui</td>
+    <td>Cristhian Huanca<br>Estefano Solís</td>
+    <td>
+      Desarrollo de los endpoints para la simulación de rutas, incluyendo generación de coordenadas, 
+      rutas completas y lógica interna del módulo. Implementación de servicios, controladores, DTOs 
+      y documentación en Swagger para US24 y US25.
+    </td>
+  </tr>
+
+  <!-- =========================== Telemetry Backend ============================ -->
+  <tr>
+    <td><b>Telemetría IoT (Backend)</b></td>
+    <td>Cristhian Huanca</td>
+    <td>Jesus Sagastegui<br>Sergio Landa<br>Estefano Solís</td>
+    <td>
+      Implementación completa de telemetría: registro, simulación automática, simulación personalizada, 
+      obtención de datos históricos y última telemetría (US26–US30). Creación de entidades, 
+      repositorios, servicios y validaciones. Configuración y pruebas funcionales de cada endpoint.
+    </td>
+  </tr>
+
+  <!-- =========================== Integración Front–Back ============================ -->
+  <tr>
+    <td><b>Integración Front–Back</b></td>
+    <td>Estefano Solís</td>
+    <td>Sergio Landa<br>Cristhian Huanca<br>Jesus Sagastegui</td>
+    <td>
+      Integración de Angular con el backend por medio de servicios HTTP. Configuración de baseURL, 
+      manejo de CORS, interceptores de errores, pruebas de conexión y consumo total de endpoints 
+      de simulación y telemetría (US31–US33).
+    </td>
+  </tr>
+
+  <!-- =========================== UI/UX Frontend ============================ -->
+  <tr>
+    <td><b>UI/UX Visualización de Datos</b></td>
+    <td>Sergio Landa</td>
+    <td>Estefano Solís</td>
+    <td>
+      Diseño y desarrollo de interfaces para visualizar rutas, telemetría en tiempo real y datos 
+      históricos. Implementación del mapa, animación del vehículo, gráficos, tablas y estilos 
+      responsivos. Corresponde a US35 y US36.
+    </td>
+  </tr>
+
+  <!-- =========================== Testing & QA ============================ -->
+  <tr>
+    <td><b>Testing y Garantía de Calidad</b></td>
+    <td>Jesus Sagastegui</td>
+    <td>Sergio Landa<br>Cristhian Huanca</td>
+    <td>
+      Pruebas unitarias y de integración para endpoints de simulación y telemetría. Validación de 
+      flujos front–back, pruebas de rendimiento, manejo de errores y revisión del correcto 
+      funcionamiento de todas las User Stories (US24–US36).
+    </td>
+  </tr>
+
+  <!-- =========================== Deployment ============================ -->
+  <tr>
+    <td><b>Deployment y Versionado</b></td>
+    <td>Sergio Landa</td>
+    <td>Estefano Solís</td>
+    <td>
+      Despliegue del backend en Railway y del frontend en Vercel. Manejo de ramas en GitFlow, 
+      control de versiones, revisión de PRs, resolución de conflictos y despliegue final del sistema 
+      integrado listo para demostración.
+    </td>
+  </tr>
+
+  <!-- =========================== Documentación ============================ -->
+  <tr>
+    <td><b>Documentación Técnica y Reportes</b></td>
+    <td>Estefano Solís</td>
+    <td>Cristhian Huanca</td>
+    <td>
+      Elaboración del informe técnico de Sprint, documentación de endpoints, arquitectura, 
+      diagramas front–back, evidencias de pruebas, tablas de backlog y soporte escrito del proceso 
+      de desarrollo (US24–US36).
+    </td>
+  </tr>
+
+</table>
+
+
 #### 5.2.4.3. Sprint Backlog 4
 
 
