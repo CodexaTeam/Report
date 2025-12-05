@@ -2942,7 +2942,148 @@ Durante el desarrollo del sprint, el equipo demostró un nivel sólido de colabo
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de entrevistas de validación
+
+**Segmento 1:** Dueño de vehiculo
+
+#### Preguntas de Información General:
+
+- ¿Cuál es tu nombre?
+- ¿Cuántos años tienes?
+- ¿En qué distrito vives?
+- ¿A qué te dedicas actualmente?
+
+#### Preguntas sobre la plataforma:
+
+- ¿Le parece fácil de entender esta pantalla, o ve demasiada información?
+- ¿Qué tan importante es para usted poder cambiar el idioma de la aplicación entre inglés y español?
+- . ¿Le parece útil la clasificación de rentado o disponible? 
+- ¿Le parece útil el rastreo monitor y la edición de sus vehículo publicados?
+- ¿Qué es lo más importante para usted, ver sus vehículos, ver la interacción con sus publicaciones o el botón de nuevas publicaciones?
+- ¿Le parece útil añadir la marca, el modelo, el año de adquisicion, el precio por dia y una imagen?
+- ¿Que datos le interesan más? ¿La marca, el precio por dia o el modelo? 
+- ¿Le ayudaría tener un registro de sus autos rentados con sus fechas de inicio y fin de renta? ¿Suele anotar esta información en algún lugar?
+- ¿Le gustaría recibir notificacions en su celular y/o dispositivo cuando llegue la solicitud para poder rentar un auto suyo?
+- ¿Le parece util ver las solicitudes pasadas confirmadas?
+- ¿Le parece util que se muestre el monto total ya calculado por dias de renta?
+- ¿Crees que sea necesario la zona de cambiar contraseña?	
+- ¿Te parece necesaria poner el enfasis en el bloque de “zona de peligro”?
+
+**Segmento 2:** Usuario que busca alquilar un vehiculo
+
+
+#### Preguntas de Información General:
+
+- ¿Cuál es tu nombre?
+- ¿Cuántos años tienes?
+- ¿En qué distrito vives?
+- ¿A qué te dedicas actualmente?
+
+#### Preguntas sobre el alquiler de sus vehículos:
+
+- ¿la información que se muestra (vehículos disponibles, reservas activas) es suficiente?
+- ¿Qué dato clave le gustaría ver en los bloques que quizás no estén presentes? 
+- ¿Qué tan valioso es para usted poder ver todos los carros en una lista, cada uno con su estado de disponibilidad(disponible, Alquilado)?
+- ¿Le parece sencillo la interacción al momento de rentar?
+- ¿Que le gustaria añadir a esta seccion para sentir mas seguridad en su solicitud?
+- ¿Cómo gestiona actualmente sus reservas pasadas? ¿Usa cuadernos, WhatsApp, o algún otro método?
+- ¿Le parece útil que muestre la información completa y el total pagado?
+- ¿Qué le faltaría a esta sección para serle realmente útil? 
+- ¿Crees que sea necesario la zona de cambiar contraseña?
+- ¿Te parece necesaria poner el enfasis en el bloque de “zona de peligro”?
+
+
 ### 5.3.2. Registro de entrevistas de validación
+
+**Segmento 1:** Dueño de vehiculo
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Javier Landa <br>
+      <b>Edad: </b> 50 años <br>
+      <b>Distrito:</b> Comas <br>
+      <b>Timing:</b> 0:00 - 13:04 minutos
+      <b>Duración:</b> 13:04 minutos
+    </td>
+    <td align=center>
+      <img src="./assets/Javier2.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Enlace:</b> <a href="https://drive.google.com/file/d/1iCWLz6M4LKtWlbRjt7EF7-jqDihc34Pn/view?usp=sharing"> Link </a>
+      <br>
+      <b>Resumen:</b> Javier Landa, un arrendador de 50 años, validó la plataforma "RentiCar" y mencionó que actualmente utiliza cuadernos para llevar el control de sus vehículos. Durante la revisión, calificó la interfaz como dinámica y valoró positivamente la funcionalidad de monitoreo en tiempo real para rastrear la ubicación y estado de sus unidades, así como la opción de internacionalización para captar clientes extranjeros. Como propietario, destacó la importancia de visualizar el ingreso total por alquiler para su gestión financiera y encontró útil el historial de reservas pasadas para identificar los vehículos con mayor rotación. Finalmente, sugirió recibir notificaciones en su celular ante nuevas solicitudes y, en el apartado de seguridad, consideró esencial el cambio de contraseña y acertado el diseño de alerta en la "Zona de Peligro" para evitar borrar la cuenta por error.
+
+  </tr>
+</table>
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Erik Palomino <br>
+      <b>Edad: </b> 35 años <br>
+      <b>Distrito:</b> Pueblo Libre <br>
+      <b>Timing:</b> 00:00 - 12:14 minutos
+      <b>Duración:</b> 12:14 minutos
+    </td>
+    <td align=center>
+      <img src="./assets/Pafi2.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Enlace:</b> <a href="https://drive.google.com/file/d/16aDweogJ8PXnIs2NcSuIwLbGnq4Jwmtd/view?usp=sharing"> Link </a>
+      <br>
+      <b>Resumen:</b> Erick Palomino, un arrendador de 35 años, validó la plataforma "RentiCar" destacando la sencillez de la interfaz y la facilidad para publicar nuevos vehículos. Valoró positivamente el monitoreo en tiempo real para conocer la ubicación y el estado de sus unidades, así como la clasificación visual entre vehículos rentados y disponibles. En cuanto a la gestión, consideró fundamental la visualización de los ingresos totales calculados por días de renta y el historial de solicitudes confirmadas para llevar un mejor control de sus ganancias. Expresó su deseo de recibir notificaciones en su dispositivo móvil para aceptar o rechazar solicitudes de alquiler de inmediato. Finalmente, en el apartado de seguridad, calificó como indispensable la opción de cambiar contraseña y acertado el énfasis visual en color rojo de la "Zona de Peligro" para prevenir la eliminación accidental de la cuenta.
+  </tr>
+</table>
+
+**Segmento 2:** Usuario que busca alquilar un vehiculo
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Alejandro Jacinto <br>
+      <b>Edad: </b> 20 años <br>
+      <b>Distrito:</b> Los Olivos <br>
+      <b>Timing:</b> 00:00 - 10:38 minutos
+      <b>Duración:</b> 10:38 minutos
+    </td>
+    <td align=center>
+      <img src="./assets/Jacinto 2.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Enlace:</b> <a href="https://drive.google.com/file/d/17_xuAaQ71WKAkykRRtkVKEH3T2ZBqrJR/view?usp=sharing"> Link </a>
+      <br>
+      <b>Resumen:</b> Alejandro, un usuario interesado en el arrendamiento de vehículos, validó la plataforma "RentiCar" y comentó que actualmente gestiona sus reservas de forma manual utilizando cuadernos, dado que maneja varios vehículos simultáneamente. Durante la prueba, valoró positivamente la opción de internacionalización para facilitar el acceso a clientes que no hablan español y encontró útil la lista general de vehículos y la visualización del precio total. Sin embargo, sugirió incluir datos técnicos más específicos en la descripción del auto, como el número de motor, potencia y capacidad de pasajeros, para sentir mayor seguridad al solicitar un alquiler. Destacó la sencillez de la interacción para rentar y cancelar reservas, y finalmente, en cuanto a la seguridad, consideró esencial la función de cambio de contraseña y agradeció el énfasis visual en la "Zona de Peligro" para evitar eliminar la cuenta accidentalmente al intentar cerrar sesión.   
+  </tr>
+</table>
+
+<table border=1>
+  <tr>
+    <td>
+      <b>Nombres y apellidos:</b> Bruce Via <br>
+      <b>Edad: </b> 21 años <br>
+      <b>Distrito:</b> Cercado de Lima <br>
+      <b>Timing:</b> 00:00 - 12:25 minutos
+      <b>Duración:</b> 12:25 minutos
+    </td>
+    <td align=center>
+      <img src="./assets/Bruce2.png" alt="img"  width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Enlace:</b> <a href="https://drive.google.com/file/d/1hiN5lDTOomUWUoF8VOmwJlZyvPKBhFtM/view?usp=sharing"> Link </a>
+      <br>
+      <b>Resumen:</b> Bruce Via Luna, un usuario que busca arrendar vehículos debido a que no posee uno propio, validó la plataforma web "RentiCar" destacando la interfaz intuitiva del panel principal y la utilidad del historial de reservas como medida de seguridad, aunque sugirió añadir la ubicación de entrega para mayor claridad. Resaltó que el estado de disponibilidad y las opiniones de otros clientes son factores decisivos para tomar una decisión de alquiler, y valoró que la sección de "Mis Reservas",con su visualización de fechas y días restantes, resulta superior a su método actual de gestión manual mediante cuadernos y memoria. Finalmente, calificó el proceso de alquiler y renovación como sencillo, apreciando la transparencia del precio total para evitar confusiones y las medidas de seguridad en el perfil, específicamente la distinción visual de la "Zona de Peligro" que previene la eliminación accidental de la cuenta.   
+  </tr>
+</table>
+
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 #### Evaluación de Heurísticas y Principios de UX
