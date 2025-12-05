@@ -3407,6 +3407,25 @@ En esta sección se presenta la evidencia de desarrollo correspondiente al Sprin
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
+
+
+En este apartado se presenta la evidencia de ejecución correspondiente al Sprint 4, donde se muestran las nuevas funcionalidades implementadas tanto en el Front-End como en el Back-End. Para ello, se incluyen capturas del funcionamiento real de las interfaces desarrolladas en Angular, la visualización de los nuevos endpoints incorporados en el backend y la evidencia de la conexión exitosa con la base de datos.
+
+Las imágenes incluidas a continuación permiten validar de manera visual el correcto funcionamiento del sistema, la interacción entre los módulos desarrollados y la integración entre el cliente, el servidor y la capa de persistencia. Cada captura se presenta con un tamaño uniforme para garantizar una visualización consistente y ordenada dentro del documento.
+
+### Evidencia del Front-End
+
+<td><img src="assets/evidenciafront1.png" alt="Imagen de la evidencia del front" width="1500"></td>
+
+### Evidencia de los nuevos endpoints agregados
+
+<td><img src="assets/evidenciaback1.png" alt="Imagen de la evidencia del back" width="1500"></td>
+<td><img src="assets/evidenciaback2.png" alt="Imagen de la evidencia del back" width="1500"></td>
+
+### Evidencia de la conexion exitosa de la base de datos
+
+<td><img src="assets/evidenciadb1.png" alt="Imagen de la conexion con la base de datos" width="1500"></td>
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 #### 5.2.4.8. Team Collaboration Insights during Sprint
