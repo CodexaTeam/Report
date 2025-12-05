@@ -2932,9 +2932,243 @@ Durante el desarrollo del sprint, el equipo demostró un nivel sólido de colabo
 
 
 ### 5.2.4. Sprint 4
+
+
+Para este sprint, se realizará toda la configuración de conexion del Back con Front, configurando todo lo aprendido en clase, para la organización de este sprint, se utilizó GitHub para el manejo del proyecto, usando ramas para que cada integrante pueda subir su parte correspondiente, para luego integrarlo todo en una rama development. El objetivo de este sprint es conseguir realizar la configuración necesaria para que nuestro FrontEnd sea funcional junto con la Backend.
+
 #### 5.2.4.1. Sprint Planning 4
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 4</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            26/11/25         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            12:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Reuniones por Discord y Universidad      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Codexa Team     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Cristhian Joel Huanca Zevallos <br/>
+            - Estefano Sebastian Solís Campos <br/>
+            - Luis Jesus Sagastegui Rodriguez <br/>
+            - Sergio Javier Landa Ortiz <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint 3/b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se concluyo satisfactoriamente la implementacion del back end con todos los endpoints planteados.
+            </br></br>
+            Cada integrante logro realizar su parte de manera eficaz siempre priorizando la comunicacion.  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 3</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Se mantuvo una comunicación para la repartición de las partes asignadas. Cada uno pudo entregar sus partes a tiempo, se logro completar con los objetivos previamente trazados. 
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 4 Velocity</b>
+        </td>
+        <td>
+            47
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            47
+        </td>
+    </tr>
+</table>
+
 #### 5.2.4.2. Aspect Leaders and Collaborators
 #### 5.2.4.3. Sprint Backlog 4
+
+
+<table align="left" border="1" width="100%">
+  <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 4</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+
+  <!-- =========================== US24 ============================ -->
+
+  <tr><td rowspan="5"><b>US24</b></td><td rowspan="5"><b>Get Route Coordinates</b></td>
+    <td>Crear controlador RouteController</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Implementar RouteService</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Generar lógica de coordenadas</td><td>1.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear DTO RouteResponse</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Integrar endpoint en Swagger</td><td>0.2</td><td>Estefano Solís</td><td>Done</td></tr>
+
+  <!-- =========================== US25 ============================ -->
+
+  <tr><td rowspan="4"><b>US25</b></td><td rowspan="4"><b>Get Complete Route</b></td>
+    <td>Crear método getCompleteRoute()</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Implementar servicio de ruta completa</td><td>1</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear DTO CompleteRouteResponse</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Validación de datos</td><td>0.3</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US26 ============================ -->
+
+  <tr><td rowspan="5"><b>US26</b></td><td rowspan="5"><b>Record Telemetry</b></td>
+    <td>Implementar TelemetryController</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Crear entidad Telemetry</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear TelemetryRepository</td><td>0.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Implementar RecordTelemetryService</td><td>1.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Validación del payload</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+
+  <!-- =========================== US27 ============================ -->
+
+  <tr><td rowspan="4"><b>US27</b></td><td rowspan="4"><b>Simulate Telemetry</b></td>
+    <td>Crear módulo de simulación</td><td>2</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Lógica generadora aleatoria / intervalos</td><td>1.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear DTO TelemetrySimulationRequest</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Integrar logs y validadores</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US28 ============================ -->
+
+  <tr><td rowspan="4"><b>US28</b></td><td rowspan="4"><b>Custom Telemetry Simulation</b></td>
+    <td>Definir parámetros personalizados</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Implementar CustomTelemetrySimulationService</td><td>2</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Validar vehicleId</td><td>0.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Documentación en Swagger</td><td>0.2</td><td>Cristhian Huanca</td><td>Done</td></tr>
+
+  <!-- =========================== US29 ============================ -->
+
+  <tr><td rowspan="4"><b>US29</b></td><td rowspan="4"><b>Get Telemetry by Vehicle</b></td>
+    <td>Consulta de telemetría por vehículo</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Crear TelemetryMapper</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Manejo de errores</td><td>0.3</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Respuesta estándar</td><td>0.3</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+
+  <!-- =========================== US30 ============================ -->
+
+  <tr><td rowspan="4"><b>US30</b></td><td rowspan="4"><b>Get Latest Telemetry</b></td>
+    <td>Consulta findLatestTelemetry()</td><td>0.7</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Crear DTO LatestTelemetryResponse</td><td>0.3</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Lógica de ordenamiento</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Documentación en Swagger</td><td>0.2</td><td>Sergio Landa</td><td>Done</td></tr>
+
+  <!-- =========================== US31 ============================ -->
+
+  <tr><td rowspan="5"><b>US31</b></td><td rowspan="5"><b>Successful Front–Back Connection</b></td>
+    <td>Configurar baseURL en Angular</td><td>0.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Crear servicio HTTP en Angular</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Configurar CORS en backend</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Crear interceptor de errores</td><td>1</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Pruebas de conexión</td><td>1.5</td><td>Estefano Solís</td><td>Done</td></tr>
+
+  <!-- =========================== US32 ============================ -->
+
+  <tr><td rowspan="4"><b>US32</b></td><td rowspan="4"><b>Consume Route Simulation</b></td>
+    <td>Servicio Angular para /simulation/route</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Servicio Angular para /simulation/complete-route</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Pruebas desde frontend</td><td>0.5</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Integración con mapa</td><td>1.5</td><td>Estefano Solís</td><td>Done</td></tr>
+
+  <!-- =========================== US33 ============================ -->
+
+  <tr><td rowspan="4"><b>US33</b></td><td rowspan="4"><b>Consume Telemetry Data</b></td>
+    <td>Servicio Angular para telemetría</td><td>1</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Polling/intervalos para live data</td><td>1</td><td>Cristhian Huanca</td><td>Done</td></tr>
+  <tr><td>Mostrar última telemetría</td><td>1.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Historial completo</td><td>1.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+
+  <!-- =========================== US34 ============================ -->
+
+  <tr><td rowspan="3"><b>US34</b></td><td rowspan="3"><b>Handle Front–Back Errors</b></td>
+    <td>Interceptor global de errores</td><td>1</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Mensajes de error unificados</td><td>0.5</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Errores 400/401/404/500</td><td>1</td><td>Cristhian Huanca</td><td>Done</td></tr>
+
+  <!-- =========================== US35 ============================ -->
+
+  <tr><td rowspan="3"><b>US35</b></td><td rowspan="3"><b>Show Telemetry UI</b></td>
+    <td>Diseñar UI de telemetría</td><td>1.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Graficación en tiempo real</td><td>1.5</td><td>Sergio Landa</td><td>Done</td></tr>
+  <tr><td>Tabla de historial</td><td>1</td><td>Cristhian Huanca</td><td>Done</td></tr>
+
+  <!-- =========================== US36 ============================ -->
+
+  <tr><td rowspan="3"><b>US36</b></td><td rowspan="3"><b>Route Visualization UI</b></td>
+    <td>Integrar mapa en frontend</td><td>1.5</td><td>Estefano Solís</td><td>Done</td></tr>
+  <tr><td>Dibujar ruta desde backend</td><td>1</td><td>Jesus Sagastegui</td><td>Done</td></tr>
+  <tr><td>Animar movimiento del vehículo</td><td>2</td><td>Sergio Landa</td><td>Done</td></tr>
+
+</table>
+
 #### 5.2.4.4. Development Evidence for Sprint Review
 #### 5.2.4.5. Execution Evidence for Sprint Review
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
