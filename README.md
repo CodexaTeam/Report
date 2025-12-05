@@ -3610,6 +3610,23 @@ Este flujo permitió mantener el código organizado, reducir errores en integrac
 
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
+
+### **Insight del Front-End**
+
+<td><img src="assets/EvidenceFront1.png" alt="Imagen de deploy db" width="1500"></td>
+
+### **Insight del Back-End**
+
+<td><img src="assets/EvidenceBack1.png" alt="Imagen de deploy db" width="1500"></td>
+
+### **Insight del Report**
+
+<td><img src="assets/EvidenceReport1.png" alt="Imagen de deploy db" width="1500"></td>
+
+### **Insight del Trello**
+
+<td><img src="assets/EvidenceTrello1.png" alt="Imagen de deploy db" width="1500"></td>
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de entrevistas de validación
 
